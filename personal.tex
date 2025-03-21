@@ -1,0 +1,105 @@
+\documentclass[a4paper,landscape]{article}
+\usepackage{inconsolata}
+\usepackage[a4paper,margin=0.5cm]{geometry}
+\usepackage{multicol}
+\usepackage{titlesec}
+\usepackage[breakall]{truncate}
+\usepackage{tikz}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{forloop}
+\usepackage{setspace}
+\usepackage{xcolor}
+\usepackage[letterspace=125]{microtype}
+\usepackage[document]{ragged2e}
+\graphicspath{ {./images/} }
+
+\newcommand{\addulc}[1]{\texttt{\textcolor{white}{#1}}}
+\newcommand{\swuSet}[1]{\begin{tikzpicture}[remember picture,overlay]
+  \tikzset{shift={(current page.center)},xshift=10cm,yshift=-9.5cm}
+  \filldraw[black, thick] (0,0.5cm) -- (0,2.5cm) -- (0.8cm,3cm) -- (2.8cm,3cm) -- (3.6cm, 2.5cm) -- (3.6cm, 0.5cm) -- (2.8cm, 0) -- (0.8cm, 0) -- cycle;
+  \tikzstyle{every node}=[font=\fontsize{30}{30}\selectfont]
+  \draw (1.8cm, 1.5cm) node[white] {\texttt{\uppercase{#1}}};
+\end{tikzpicture}}
+
+\renewcommand{\TruncateMarker}{...}
+
+\titleformat{\section}%
+  {\vspace{-4mm}}% format applied to label+text
+  {}%label
+  {0mm}% horizontal separation between label and title body
+  {\begin{minipage}{4mm}\vspace{-0.5mm}\begin{tikzpicture}\filldraw[black, thick] (0,0) -- (0,3mm) -- (25mm,3mm) -- (30mm,0.2mm) -- (50mm, 0.2mm) -- (50mm, 0) -- cycle; \end{tikzpicture}\end{minipage}\addulc}% before the title body
+  []% after the title body
+
+\begin{document}
+\fontsize{8}{8}\selectfont
+
+\begin{multicols*}{5}
+    \section{Normal - SOR} 
+\vspace{-2mm} 
+\texttt{193} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Millennium Falcon - Piece} \vspace{-0.3mm}\\ 
+\section{Normal - SHD} 
+\vspace{-2mm} 
+\texttt{037} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Supreme Leader Snoke, Sha} \vspace{-0.3mm}\\ 
+\texttt{053} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Second Chance} \vspace{-0.3mm}\\ 
+\texttt{092} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Finalizer, Might of the F} \vspace{-0.3mm}\\ 
+\texttt{109} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Endless Legions} \vspace{-0.3mm}\\ 
+\texttt{126} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{The Darksaber} \vspace{-0.3mm}\\ 
+\texttt{141} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Kylo Ren, Killing the Pas} \vspace{-0.3mm}\\ 
+\texttt{172} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Krayt Dragon} \vspace{-0.3mm}\\ 
+\texttt{208} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Final Showdown} \vspace{-0.3mm}\\ 
+\texttt{233} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Evacuate} \vspace{-0.3mm}\\ 
+\section{Normal - TWI} 
+\vspace{-2mm} 
+\texttt{034} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{General Grievous Trophy C} \vspace{-0.3mm}\\ 
+\texttt{047} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Satine Kryze Committed to} \vspace{-0.3mm}\\ 
+\texttt{064} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Ki-Adi-Mundi Composed and} \vspace{-0.3mm}\\ 
+\texttt{096} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Aayla Secura Master of th} \vspace{-0.3mm}\\ 
+\texttt{118} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Gor Grievous's Pet} \vspace{-0.3mm}\\ 
+\texttt{178} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Planetary Invasion} \vspace{-0.3mm}\\ 
+\texttt{194} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Ahsoka Tano Always Ready } \vspace{-0.3mm}\\ 
+\texttt{203} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Chancellor Palpatine Wart} \vspace{-0.3mm}\\ 
+\texttt{225} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Now There Are Two of Them} \vspace{-0.3mm}\\ 
+\section{Normal - JTL} 
+\vspace{-2mm} 
+\texttt{041} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Annihilator Tagge's Flags} \vspace{-0.3mm}\\ 
+\texttt{056} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Hondo Ohnaka Superfluous } \vspace{-0.3mm}\\ 
+\texttt{080} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Nebula Ignition} \vspace{-0.3mm}\\ 
+\texttt{090} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Executor Might of the Emp} \vspace{-0.3mm}\\ 
+\texttt{092} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Scramble Fighters} \vspace{-0.3mm}\\ 
+\texttt{105} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{The Starhawk Prototype Ba} \vspace{-0.3mm}\\ 
+\texttt{131} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Turbolaser Salvo} \vspace{-0.3mm}\\ 
+\texttt{154} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Profundity We Fight!} \vspace{-0.3mm}\\ 
+\texttt{169} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Shadow Caster Just Busine} \vspace{-0.3mm}\\ 
+\texttt{204} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Home One On My Mark} \vspace{-0.3mm}\\ 
+\texttt{221} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Stolen AT-Hauler} \vspace{-0.3mm}\\ 
+\texttt{226} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Radiant VII Ambassadors' } \vspace{-0.3mm}\\ 
+\texttt{260} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Death Star Plans} \vspace{-0.3mm}\\ 
+\section{Promo} 
+\vspace{-2mm} 
+\texttt{SHD - 008} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Greef Karga} \vspace{-0.3mm}\\ 
+\texttt{TWI - 012} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Clone Cohort} \vspace{-0.3mm}\\ 
+\texttt{TWI - 014} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Disruptive Burst} \vspace{-0.3mm}\\ 
+\texttt{JTL - 001} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Director Krennic} \vspace{-0.3mm}\\ 
+\texttt{JTL - 002} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Onyx Squadron Brute} \vspace{-0.3mm}\\ 
+\texttt{JTL - 003} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Hera Syndulla} \vspace{-0.3mm}\\ 
+\texttt{JTL - 004} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Cassian Andor} \vspace{-0.3mm}\\ 
+\texttt{JTL - 005} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Leia Organa} \vspace{-0.3mm}\\ 
+\texttt{JTL - 006} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Poe Dameron} \vspace{-0.3mm}\\ 
+\texttt{JTL - 007} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{s}}} \texttt{Chewbacca} \vspace{-0.3mm}\\ 
+\texttt{JTL - 008} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{General Hux} \vspace{-0.3mm}\\ 
+\texttt{JTL - 009} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{IG-88} \vspace{-0.3mm}\\ 
+\texttt{JTL - 010} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{BB-8} \vspace{-0.3mm}\\ 
+\texttt{JTL - 011} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Red Squadron Y-Wing} \vspace{-0.3mm}\\ 
+\texttt{JTL - 012} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Red Five} \vspace{-0.3mm}\\ 
+\texttt{JTL - 013} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Captain Tarkin} \vspace{-0.3mm}\\ 
+\texttt{JTL - 014} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Shoot Down} \vspace{-0.3mm}\\ 
+\texttt{JTL - 015} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Boba Fett} \vspace{-0.3mm}\\ 
+\texttt{JTL - 016} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Anakin Skywalker} \vspace{-0.3mm}\\ 
+\texttt{JTL - 017} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{s}}} \texttt{Han Solo} \vspace{-0.3mm}\\ 
+\texttt{JTL - 018} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{s}}} \texttt{Fett's Firespray} \vspace{-0.3mm}\\ 
+\texttt{JTL - 019} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{s}}} \texttt{Millennium Falcon} \vspace{-0.3mm}\\ 
+\texttt{JTL - 020} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Swarming Vulture Droid} \vspace{-0.3mm}\\ 
+\swuSet{personal}
+\end{multicols*}
+\end{document}

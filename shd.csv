@@ -1,0 +1,262 @@
+SHD,1,"Gar Saxon, Viceroy of Mandalore",Common,Leader,Vigilance,1
+SHD,2,"Qi’ra, I Alone Survived",Rare,Leader,Vigilance,1
+SHD,3,"Finn, This is a Rescue",Rare,Leader,Vigilance,1
+SHD,4,"Rey, More Than a Scavenger",Common,Leader,Vigilance,1
+SHD,5,"Hondo Ohnaka, That’s Good Business",Common,Leader,Command,1
+SHD,6,"Jabba the Hutt, His High Exaltedness",Rare,Leader,Command,1
+SHD,7,"Moff Gideon, Formidable Commander",Special,Leader,Command,1
+SHD,8,"Boba Fett, Daimyo",Common,Leader,Command,1
+SHD,9,"Hunter, Outcast Sergeant",Rare,Leader,Command,1
+SHD,10,"Bossk, Hunting His Prey",Common,Leader,Aggression,1
+SHD,11,"Kylo Ren, Rash and Deadly",Rare,Leader,Aggression,1
+SHD,12,"Bo-Katan Kryze, Princess in Exile",Rare,Leader,Aggression,1
+SHD,13,"Han Solo, Worth the Risk",Common,Leader,Aggression,1
+SHD,14,"Cad Bane, He Who Needs No Introduction",Common,Leader,Cunning,1
+SHD,15,"Doctor Aphra, Rapacious Archaeologist",Rare,Leader,Cunning,1
+SHD,16,"Fennec Shand, Honoring the Deal",Common,Leader,Cunning,1
+SHD,17,"Lando Calrissian, With Impeccable Taste",Rare,Leader,Cunning,1
+SHD,18,"The Mandalorian, Sworn To The Creed",Special,Leader,Cunning,1
+SHD,19,Remnant Science Facility,Common,Base,Vigilance,1
+SHD,20,Remote Village,Common,Base,Vigilance,1
+SHD,21,Maz Kanata’s Castle,Common,Base,Command,1
+SHD,22,Nevarro City,Common,Base,Command,1
+SHD,23,Death Watch Hideout,Common,Base,Aggression,1
+SHD,24,Spice Mines,Common,Base,Aggression,1
+SHD,25,Coronet City,Common,Base,Cunning,1
+SHD,26,Jabba’s Palace,Common,Base,Cunning,1
+SHD,27,Hylobon Enforcer,Common,Unit,Vigilance,3
+SHD,28,"Doctor Pershing, Experimenting With Life",Rare,Unit,Vigilance,3
+SHD,29,Pyke Sentinel,Common,Unit,Vigilance,3
+SHD,30,Death Trooper,Special,Unit,Vigilance,3
+SHD,31,"The Client, Dictated by Discretion",Uncommon,Unit,Vigilance,3
+SHD,32,"Lom Pyke, Dealer in Truths",Rare,Unit,Vigilance,3
+SHD,33,"Synara San, Loyal to Kragan",Uncommon,Unit,Vigilance,3
+SHD,34,Supercommando Squad,Common,Unit,Vigilance,3
+SHD,35,Clan Saxon Gauntlet,Uncommon,Unit,Vigilance,3
+SHD,36,"First Light, Headquarters of the Crimson Dawn",Rare,Unit,Vigilance,3
+SHD,37,"Supreme Leader Snoke, Shadow Ruler",Legendary,Unit,Vigilance,3
+SHD,38,Brutal Traditions,Uncommon,Upgrade,Vigilance,3
+SHD,39,Calculated Lethality,Special,Event,Vigilance,3
+SHD,40,Clan Wren Rescuer,Common,Unit,Vigilance,3
+SHD,41,"Kuiil, I Have Spoken",Uncommon,Unit,Vigilance,3
+SHD,42,Concord Dawn Interceptors,Uncommon,Unit,Vigilance,3
+SHD,43,Village Protectors,Common,Unit,Vigilance,3
+SHD,44,"Razor Crest, Reliable Gunship",Special,Unit,Vigilance,3
+SHD,45,"Rose Tico, Dedicated to the Cause",Uncommon,Unit,Vigilance,3
+SHD,46,"Rey, Keeping the Past",Legendary,Unit,Vigilance,3
+SHD,47,"The Armorer, Survival Is Strength",Uncommon,Unit,Vigilance,3
+SHD,48,Gentle Giant,Common,Unit,Vigilance,3
+SHD,49,"The Mandalorian, Wherever I Go, He Goes",Legendary,Unit,Vigilance,3
+SHD,50,"Chewbacca, Pykesbane",Rare,Unit,Vigilance,3
+SHD,51,Mystic Reflection,Rare,Event,Vigilance,3
+SHD,52,"Sugi, Hired Guardian",Rare,Unit,Vigilance,3
+SHD,53,Second Chance,Legendary,Upgrade,Vigilance,3
+SHD,54,Midnight Repairs,Uncommon,Event,Vigilance,3
+SHD,55,Moisture Farmer,Common,Unit,Vigilance,3
+SHD,56,Follower of The Way,Common,Unit,Vigilance,3
+SHD,57,Rickety Quadjumper,Common,Unit,Vigilance,3
+SHD,58,"Val, Loyal to the End",Rare,Unit,Vigilance,3
+SHD,59,"Embo, Stoic and Resolute",Uncommon,Unit,Vigilance,3
+SHD,60,"H, W, K-290 Freighter",Common,Unit,Vigilance,3
+SHD,61,Wroshyr Tree Tender,Common,Unit,Vigilance,3
+SHD,62,Niima Outpost Constables,Common,Unit,Vigilance,3
+SHD,63,System Patrol Craft,Special,Unit,Vigilance,3
+SHD,64,Survivors’ Gauntlet,Rare,Unit,Vigilance,3
+SHD,65,Vigilant Pursuit Craft,Common,Unit,Vigilance,3
+SHD,66,Cargo Juggernaut,Common,Unit,Vigilance,3
+SHD,67,"Fenn Rau, Protector of Concord Dawn",Uncommon,Unit,Vigilance,3
+SHD,68,Public Enemy,Common,Upgrade,Vigilance,3
+SHD,69,Foundling,Common,Upgrade,Vigilance,3
+SHD,70,Resilient,Special,Upgrade,Vigilance,3
+SHD,71,Top Target,Uncommon,Upgrade,Vigilance,3
+SHD,72,Imprisoned,Rare,Upgrade,Vigilance,3
+SHD,73,Mandalorian Armor,Rare,Upgrade,Vigilance,3
+SHD,74,Vambrace Grappleshot,Common,Upgrade,Vigilance,3
+SHD,75,Covert Strength,Common,Event,Vigilance,3
+SHD,76,Unexpected Escape,Uncommon,Event,Vigilance,3
+SHD,77,Evidence of the Crime,Rare,Event,Vigilance,3
+SHD,78,Fell the Dragon,Uncommon,Event,Vigilance,3
+SHD,79,Rival’s Fall,Common,Event,Vigilance,3
+SHD,80,"Salacious Crumb, Obnoxious Pet",Uncommon,Unit,Command,3
+SHD,81,"General Tagge, Concerned Commander",Special,Unit,Command,3
+SHD,82,"Outland T, I, E Vanguard",Common,Unit,Command,3
+SHD,83,Seasoned Shoretrooper,Special,Unit,Command,3
+SHD,84,"Phase-I, I, I Dark Trooper",Special,Unit,Command,3
+SHD,85,Superlaser Technician,Special,Unit,Command,3
+SHD,86,Warbird Stowaway,Common,Unit,Command,3
+SHD,87,"Crosshair, Following Orders",Uncommon,Unit,Command,3
+SHD,88,"Ephant Mon, Head of Security",Rare,Unit,Command,3
+SHD,89,Pirate Battle Tank,Common,Unit,Command,3
+SHD,90,"Maul, Shadow Collective Visionary",Rare,Unit,Command,3
+SHD,91,"Jabba’s Rancor, Pateesa",Uncommon,Unit,Command,3
+SHD,92,"Finalizer, Might of the First Order",Legendary,Unit,Command,3
+SHD,93,Remnant Reserves,Uncommon,Event,Command,3
+SHD,94,Palpatine’s Return,Rare,Event,Command,3
+SHD,95,Clone Deserter,Common,Unit,Command,3
+SHD,96,"Maz Kanata, Pirate Queen",Rare,Unit,Command,3
+SHD,97,Freetown Backup,Uncommon,Unit,Command,3
+SHD,98,Sundari Peacekeeper,Uncommon,Unit,Command,3
+SHD,99,"Echo, Restored",Uncommon,Unit,Command,3
+SHD,100,Modded Cohort,Common,Unit,Command,3
+SHD,101,Adelphi Patrol Wing,Common,Unit,Command,3
+SHD,102,"The Marauder, Shuttling the Bad Batch",Rare,Unit,Command,3
+SHD,103,"General Rieekan, Defensive Strategist",Rare,Unit,Command,3
+SHD,104,Inspiring Mentor,Rare,Upgrade,Command,3
+SHD,105,Spark of Hope,Uncommon,Event,Command,3
+SHD,106,Rule with Respect,Legendary,Event,Command,3
+SHD,107,Enterprising Lackeys,Rare,Unit,Command,3
+SHD,108,Enforced Loyalty,Uncommon,Event,Command,3
+SHD,109,Endless Legions,Legendary,Event,Command,3
+SHD,110,Warzone Lieutenant,Common,Unit,Command,3
+SHD,111,Collections Starhopper,Common,Unit,Command,3
+SHD,112,Gamorrean Retainer,Common,Unit,Command,3
+SHD,113,Privateer Crew,Uncommon,Unit,Command,3
+SHD,114,Scanning Officer,Uncommon,Unit,Command,3
+SHD,115,"Cobb Vanth, The Marshal",Rare,Unit,Command,3
+SHD,116,Outlaw Corona,Common,Unit,Command,3
+SHD,117,Reputable Hunter,Common,Unit,Command,3
+SHD,118,Kihraxz Heavy Fighter,Uncommon,Unit,Command,3
+SHD,119,Weequay Pirate Gang,Common,Unit,Command,3
+SHD,120,Discerning Veteran,Common,Unit,Command,3
+SHD,121,Mercenary Company,Common,Unit,Command,3
+SHD,122,Arquitens Assault Cruiser,Rare,Unit,Command,3
+SHD,123,Bounty Hunter’s Quarry,Uncommon,Upgrade,Command,3
+SHD,124,Legal Authority,Rare,Upgrade,Command,3
+SHD,125,Price on Your Head,Common,Upgrade,Command,3
+SHD,126,The Darksaber,Legendary,Upgrade,Command,3
+SHD,127,Commission,Uncommon,Event,Command,3
+SHD,128,Outflank,Common,Event,Command,3
+SHD,129,Timely Intervention,Common,Event,Command,3
+SHD,130,Moment of Glory,Common,Event,Command,3
+SHD,131,Take Captive,Common,Event,Command,3
+SHD,132,Choose Sides,Rare,Event,Command,3
+SHD,133,"Dengar, The Demolisher",Uncommon,Unit,Aggression,3
+SHD,134,Guavian Antagonizer,Common,Unit,Aggression,3
+SHD,135,"Kylo’s T, I, E Silencer, Ruthlessly Efficient",Legendary,Unit,Aggression,3
+SHD,136,Death Watch Loyalist,Common,Unit,Aggression,3
+SHD,137,"Punishing One, Dengar’s Jumpmaster",Uncommon,Unit,Aggression,3
+SHD,138,"Jango Fett, Renowned Bounty Hunter",Rare,Unit,Aggression,3
+SHD,139,"Krrsantan, Muscle for Hire",Uncommon,Unit,Aggression,3
+SHD,140,Trandoshan Hunters,Common,Unit,Aggression,3
+SHD,141,"Kylo Ren, Killing the Past",Legendary,Unit,Aggression,3
+SHD,142,"Pre Vizsla, Power Hungry",Rare,Unit,Aggression,3
+SHD,143,Ruthlessness,Rare,Upgrade,Aggression,3
+SHD,144,Give In to Your Anger,Rare,Event,Aggression,3
+SHD,145,Headhunting,Uncommon,Event,Aggression,3
+SHD,146,Heroic Renegade,Common,Unit,Aggression,3
+SHD,147,"Ketsu Onyo, Old Friend",Uncommon,Unit,Aggression,3
+SHD,148,"Cassian Andor, Rebellions Are Built On Hope",Uncommon,Unit,Aggression,3
+SHD,149,Nite Owl Skirmisher,Common,Unit,Aggression,3
+SHD,150,"Koska Reeves, Loyal Nite Owl",Rare,Unit,Aggression,3
+SHD,151,Valiant Assault Ship,Uncommon,Unit,Aggression,3
+SHD,152,Desperado Freighter,Common,Unit,Aggression,3
+SHD,153,"Poe Dameron, Quick to Improvise",Legendary,Unit,Aggression,3
+SHD,154,"Wrecker, Boom!",Rare,Unit,Aggression,3
+SHD,155,Heroic Resolve,Rare,Upgrade,Aggression,3
+SHD,156,Cripple Authority,Uncommon,Event,Aggression,3
+SHD,157,"Bo-Katan Kryze, Fighting For Mandalore",Uncommon,Unit,Aggression,3
+SHD,158,Wild Rancor,Rare,Unit,Aggression,3
+SHD,159,The Chaos of War,Rare,Event,Aggression,3
+SHD,160,Reckless Gunslinger,Common,Unit,Aggression,3
+SHD,161,Stolen Landspeeder,Rare,Unit,Aggression,3
+SHD,162,House Kast Soldier,Common,Unit,Aggression,3
+SHD,163,"Migs Mayfeld, Triggerman",Rare,Unit,Aggression,3
+SHD,164,Rhokai Gunship,Common,Unit,Aggression,3
+SHD,165,Unlicensed Headhunter,Uncommon,Unit,Aggression,3
+SHD,166,Disabling Fang Fighter,Common,Unit,Aggression,3
+SHD,167,Wanted Insurgents,Common,Unit,Aggression,3
+SHD,168,Hunting Nexu,Common,Unit,Aggression,3
+SHD,169,Clan Challengers,Common,Unit,Aggression,3
+SHD,170,"I, G-11, I Cannot Be Captured",Uncommon,Unit,Aggression,3
+SHD,171,Covetous Rivals,Common,Unit,Aggression,3
+SHD,172,Krayt Dragon,Legendary,Unit,Aggression,3
+SHD,173,Guild Target,Uncommon,Upgrade,Aggression,3
+SHD,174,"Hotshot D, L-44 Blaster",Rare,Upgrade,Aggression,3
+SHD,175,Armed to the Teeth,Uncommon,Upgrade,Aggression,3
+SHD,176,Death Mark,Common,Upgrade,Aggression,3
+SHD,177,Vambrace Flamethrower,Rare,Upgrade,Aggression,3
+SHD,178,Daring Raid,Common,Event,Aggression,3
+SHD,179,Desperate Attack,Common,Event,Aggression,3
+SHD,180,Detention Block Rescue,Common,Event,Aggression,3
+SHD,181,Pillage,Common,Event,Aggression,3
+SHD,182,Bravado,Uncommon,Event,Aggression,3
+SHD,183,Kintan Intimidator,Common,Unit,Cunning,3
+SHD,184,"Bazine Netal, Spy for the First Order",Rare,Unit,Cunning,3
+SHD,185,"Doctor Evazan, Wanted on Twelve Systems",Rare,Unit,Cunning,3
+SHD,186,Hunter of the Haxion Brood,Common,Unit,Cunning,3
+SHD,187,"Lurking T, I, E Phantom",Uncommon,Unit,Cunning,3
+SHD,188,"4-L, O, M, Bounty Hunter for Hire",Uncommon,Unit,Cunning,3
+SHD,189,Slaver’s Freighter,Common,Unit,Cunning,3
+SHD,190,"Zuckuss, Bounty Hunter for Hire",Uncommon,Unit,Cunning,3
+SHD,191,"Xanadu Blood, Cad Bane’s Reward",Rare,Unit,Cunning,3
+SHD,192,"Dryden Vos, Offering No Escape",Legendary,Unit,Cunning,3
+SHD,193,Frozen in Carbonite,Uncommon,Upgrade,Cunning,3
+SHD,194,Triple Dark Raid,Rare,Event,Cunning,3
+SHD,195,Cartel Turncoat,Common,Unit,Cunning,3
+SHD,196,"Grogu, Irresistible",Special,Unit,Cunning,3
+SHD,197,"L3-37, Droid Revolutionary",Uncommon,Unit,Cunning,3
+SHD,198,"Omega, Part of the Squad",Rare,Unit,Cunning,3
+SHD,199,Coruscant Dissident,Uncommon,Unit,Cunning,3
+SHD,200,Liberated Slaves,Common,Unit,Cunning,3
+SHD,201,Principled Outlaw,Common,Unit,Cunning,3
+SHD,202,"Qi’ra, Playing Her Part",Rare,Unit,Cunning,3
+SHD,203,"Zorii Bliss, Valiant Smuggler",Rare,Unit,Cunning,3
+SHD,204,"Millennium Falcon, Lando’s Pride",Uncommon,Unit,Cunning,3
+SHD,205,Let the Wookiee Win,Rare,Event,Cunning,3
+SHD,206,Spare the Target,Uncommon,Event,Cunning,3
+SHD,207,A New Adventure,Uncommon,Event,Cunning,3
+SHD,208,Final Showdown,Legendary,Event,Cunning,3
+SHD,209,Criminal Muscle,Common,Unit,Cunning,3
+SHD,210,Cloud-Rider,Common,Unit,Cunning,3
+SHD,211,Fugitive Wookiee,Common,Unit,Cunning,3
+SHD,212,Privateer Scyk,Common,Unit,Cunning,3
+SHD,213,"D, J, Blatant Thief",Legendary,Unit,Cunning,3
+SHD,214,Frontier Trader,Common,Unit,Cunning,3
+SHD,215,Smuggler’s Starfighter,Common,Unit,Cunning,3
+SHD,216,Chain Code Collector,Common,Unit,Cunning,3
+SHD,217,"Tobias Beckett, I Trust No One",Rare,Unit,Cunning,3
+SHD,218,Resourceful Pursuers,Common,Unit,Cunning,3
+SHD,219,"Enfys Nest, Marauder",Uncommon,Unit,Cunning,3
+SHD,220,"Fennec Shand, Loyal Sharpshooter",Uncommon,Unit,Cunning,3
+SHD,221,Wanted,Common,Upgrade,Cunning,3
+SHD,222,Enticing Reward,Uncommon,Upgrade,Cunning,3
+SHD,223,Snapshot Reflexes,Special,Upgrade,Cunning,3
+SHD,224,Boba Fett’s Armor,Rare,Upgrade,Cunning,3
+SHD,225,Jetpack,Uncommon,Upgrade,Cunning,3
+SHD,226,Unrefusable Offer,Rare,Upgrade,Cunning,3
+SHD,227,Look the Other Way,Common,Event,Cunning,3
+SHD,228,Bounty Posting,Uncommon,Event,Cunning,3
+SHD,229,Ma Klounkee,Common,Event,Cunning,3
+SHD,230,Swoop Down,Rare,Event,Cunning,3
+SHD,231,Surprise Strike,Common,Event,Cunning,3
+SHD,232,Relentless Pursuit,Common,Event,Cunning,3
+SHD,233,Evacuate,Legendary,Event,Cunning,3
+SHD,234,Incinerator Trooper,Special,Unit,Villainy,3
+SHD,235,Ruthless Assassin,Common,Unit,Villainy,3
+SHD,236,Snowtrooper Lieutenant,Special,Unit,Villainy,3
+SHD,237,Black Sun Starfighter,Common,Unit,Villainy,3
+SHD,238,Cell Block Guard,Special,Unit,Villainy,3
+SHD,239,"Toro Calican, Ambitious Upstart",Uncommon,Unit,Villainy,3
+SHD,240,Hutt’s Henchmen,Common,Unit,Villainy,3
+SHD,241,"Kragan Gorr, Warbird Captain",Rare,Unit,Villainy,3
+SHD,242,"Gideon’s Light Cruiser, Dark Troopers’ Station",Special,Unit,Villainy,3
+SHD,243,Altering the Deal,Rare,Event,Villainy,3
+SHD,244,No Bargain,Common,Event,Villainy,3
+SHD,245,"Greef Karga, Affable Commissioner",Special,Unit,Heroism,3
+SHD,246,Grey Squadron Y-Wing,Common,Unit,Heroism,3
+SHD,247,Protector of the Throne,Common,Unit,Heroism,3
+SHD,248,"Tech, Source of Insight",Rare,Unit,Heroism,3
+SHD,249,Wookiee Warrior,Common,Unit,Heroism,3
+SHD,250,"Tarfful, Kashyyyk Chieftain",Rare,Unit,Heroism,3
+SHD,251,The Mandalorian’s Rifle,Special,Upgrade,Heroism,3
+SHD,252,Smuggler’s Aid,Common,Event,Heroism,3
+SHD,253,This Is The Way,Uncommon,Event,Heroism,3
+SHD,254,Bounty Guild Initiate,Common,Unit,Neutral,3
+SHD,255,"Lady Proxima, White Worm Matriarch",Uncommon,Unit,Neutral,3
+SHD,256,Mercenary Gunship,Uncommon,Unit,Neutral,3
+SHD,257,Underworld Thug,Common,Unit,Neutral,3
+SHD,258,Mandalorian Warrior,Common,Unit,Neutral,3
+SHD,259,Twin Pod Cloud Car,Common,Unit,Neutral,3
+SHD,260,Street Gang Recruiter,Common,Unit,Neutral,3
+SHD,261,Rich Reward,Common,Upgrade,Neutral,3
+SHD,262,Confiscate,Special,Event,Neutral,3

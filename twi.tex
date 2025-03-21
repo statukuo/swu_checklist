@@ -1,0 +1,315 @@
+\documentclass[a4paper,landscape]{article}
+\usepackage{inconsolata}
+\usepackage[a4paper,margin=0.5cm]{geometry}
+\usepackage{multicol}
+\usepackage{titlesec}
+\usepackage[breakall]{truncate}
+\usepackage{tikz}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{forloop}
+\usepackage{setspace}
+\usepackage{xcolor}
+\usepackage[letterspace=125]{microtype}
+\usepackage[document]{ragged2e}
+\graphicspath{ {./images/} }
+
+\newcommand{\addulc}[1]{\texttt{\textcolor{white}{#1}}}
+\newcommand{\swuSet}[1]{\begin{tikzpicture}[remember picture,overlay]
+  \tikzset{shift={(current page.center)},xshift=10cm,yshift=-9.5cm}
+  \filldraw[black, thick] (0,0.5cm) -- (0,2.5cm) -- (0.8cm,3cm) -- (2.8cm,3cm) -- (3.6cm, 2.5cm) -- (3.6cm, 0.5cm) -- (2.8cm, 0) -- (0.8cm, 0) -- cycle;
+  \tikzstyle{every node}=[font=\fontsize{30}{30}\selectfont]
+  \draw (1.8cm, 1.5cm) node[white] {\texttt{\uppercase{#1}}};
+\end{tikzpicture}}
+
+\renewcommand{\TruncateMarker}{...}
+
+\titleformat{\section}%
+  {\vspace{-4mm}}% format applied to label+text
+  {}%label
+  {0mm}% horizontal separation between label and title body
+  {\begin{minipage}{4mm}\vspace{-0.5mm}\begin{tikzpicture}\filldraw[black, thick] (0,0) -- (0,3mm) -- (25mm,3mm) -- (30mm,0.2mm) -- (50mm, 0.2mm) -- (50mm, 0) -- cycle; \end{tikzpicture}\end{minipage}\addulc}% before the title body
+  []% after the title body
+
+\begin{document}
+\fontsize{8}{8}\selectfont
+
+\begin{multicols*}{5}
+    \section{Leader} 
+\vspace{-2mm} 
+\texttt{001} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Nala Se Clone Engineer} \vspace{-0.3mm}\\ 
+\texttt{002} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Nute Gunray Vindictive Vi} \vspace{-0.3mm}\\ 
+\texttt{003} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Obi-Wan Kenobi Patient Me} \vspace{-0.3mm}\\ 
+\texttt{004} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Yoda Sensing Darkness} \vspace{-0.3mm}\\ 
+\texttt{005} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Count Dooku Face of the C} \vspace{-0.3mm}\\ 
+\texttt{006} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Wat Tambor Techno Union F} \vspace{-0.3mm}\\ 
+\texttt{007} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Captain Rex Fighting For } \vspace{-0.3mm}\\ 
+\texttt{008} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Padmé Amidala Serving the} \vspace{-0.3mm}\\ 
+\texttt{009} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Maul A Rival in Darkness} \vspace{-0.3mm}\\ 
+\texttt{010} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Pre Vizsla Pursuing the T} \vspace{-0.3mm}\\ 
+\texttt{011} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{s}}} \texttt{Ahsoka Tano Snips} \vspace{-0.3mm}\\ 
+\texttt{012} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Anakin Skywalker What it } \vspace{-0.3mm}\\ 
+\texttt{013} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Mace Windu Vaapad Form Ma} \vspace{-0.3mm}\\ 
+\texttt{014} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Asajj Ventress Unparallel} \vspace{-0.3mm}\\ 
+\texttt{015} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{s}}} \texttt{General Grievous General } \vspace{-0.3mm}\\ 
+\texttt{016} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Jango Fett Concealing the} \vspace{-0.3mm}\\ 
+\texttt{017} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Chancellor Palpatine Play} \vspace{-0.3mm}\\ 
+\texttt{018} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Quinlan Vos Sticking the } \vspace{-0.3mm}\\ 
+\section{Base} 
+\vspace{-2mm} 
+\texttt{019} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Pau City} \vspace{-0.3mm}\\ 
+\texttt{020} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Sundari} \vspace{-0.3mm}\\ 
+\texttt{021} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{The Crystal City} \vspace{-0.3mm}\\ 
+\texttt{022} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Droid Manufactory} \vspace{-0.3mm}\\ 
+\texttt{023} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Lair of Grievous} \vspace{-0.3mm}\\ 
+\texttt{024} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Tipoca City} \vspace{-0.3mm}\\ 
+\texttt{025} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Shadow Collective Camp} \vspace{-0.3mm}\\ 
+\texttt{026} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{KCM Mining Facility} \vspace{-0.3mm}\\ 
+\texttt{027} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{The Nest} \vspace{-0.3mm}\\ 
+\texttt{028} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Petranaki Arena} \vspace{-0.3mm}\\ 
+\texttt{029} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Level 1313} \vspace{-0.3mm}\\ 
+\texttt{030} \(\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Pyke Palace} \vspace{-0.3mm}\\ 
+\section{Vigilance} 
+\vspace{-2mm} 
+\texttt{031} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Rune Haako Scheming Secon} \vspace{-0.3mm}\\ 
+\texttt{032} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Wartime Trade Official} \vspace{-0.3mm}\\ 
+\texttt{033} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Calculating MagnaGuard} \vspace{-0.3mm}\\ 
+\texttt{034} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{General Grievous Trophy C} \vspace{-0.3mm}\\ 
+\texttt{035} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Morgan Elsbeth Keeper of } \vspace{-0.3mm}\\ 
+\texttt{036} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Devastating Gunship} \vspace{-0.3mm}\\ 
+\texttt{037} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Droideka Security} \vspace{-0.3mm}\\ 
+\texttt{038} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Providence Destroyer} \vspace{-0.3mm}\\ 
+\texttt{039} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Malevolence Grievous's Se} \vspace{-0.3mm}\\ 
+\texttt{040} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{A Fine Addition} \vspace{-0.3mm}\\ 
+\texttt{041} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Lethal Crackdown} \vspace{-0.3mm}\\ 
+\texttt{042} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Barriss Offee Unassuming } \vspace{-0.3mm}\\ 
+\texttt{043} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Outspoken Representative} \vspace{-0.3mm}\\ 
+\texttt{044} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Kashyyyk Defender} \vspace{-0.3mm}\\ 
+\texttt{045} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{41st Elite Corps} \vspace{-0.3mm}\\ 
+\texttt{046} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Captain Typho Protecting } \vspace{-0.3mm}\\ 
+\texttt{047} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Satine Kryze Committed to} \vspace{-0.3mm}\\ 
+\texttt{048} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Obi-Wan's Aethersprite Th} \vspace{-0.3mm}\\ 
+\texttt{049} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Knight of the Republic} \vspace{-0.3mm}\\ 
+\texttt{050} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Luminara Unduli Soft-Spok} \vspace{-0.3mm}\\ 
+\texttt{051} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{For The Republic} \vspace{-0.3mm}\\ 
+\texttt{052} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Hello There} \vspace{-0.3mm}\\ 
+\texttt{053} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Finn On the Run} \vspace{-0.3mm}\\ 
+\texttt{054} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Duchess's Champion} \vspace{-0.3mm}\\ 
+\texttt{055} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Equalize} \vspace{-0.3mm}\\ 
+\texttt{056} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Compassionate Senator} \vspace{-0.3mm}\\ 
+\texttt{057} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Warrior Drone} \vspace{-0.3mm}\\ 
+\texttt{058} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Padawan Starfighter} \vspace{-0.3mm}\\ 
+\texttt{059} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Royal Guard Attaché} \vspace{-0.3mm}\\ 
+\texttt{060} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Trade Federation Shuttle} \vspace{-0.3mm}\\ 
+\texttt{061} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Infantry of the 212th} \vspace{-0.3mm}\\ 
+\texttt{062} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Daughter of Dathomir} \vspace{-0.3mm}\\ 
+\texttt{063} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Vulture Interceptor Wing} \vspace{-0.3mm}\\ 
+\texttt{064} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Ki-Adi-Mundi Composed and} \vspace{-0.3mm}\\ 
+\texttt{065} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Falchion Ion Tank} \vspace{-0.3mm}\\ 
+\texttt{066} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Multi-Troop Transport} \vspace{-0.3mm}\\ 
+\texttt{067} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{The Zillo Beast Awoken Fr} \vspace{-0.3mm}\\ 
+\texttt{068} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Foresight} \vspace{-0.3mm}\\ 
+\texttt{069} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Roger Roger} \vspace{-0.3mm}\\ 
+\texttt{070} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Perilous Position} \vspace{-0.3mm}\\ 
+\texttt{071} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Unshakeable Will} \vspace{-0.3mm}\\ 
+\texttt{072} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{I Have the High Ground} \vspace{-0.3mm}\\ 
+\texttt{073} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Grievous Reassembly} \vspace{-0.3mm}\\ 
+\texttt{074} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Guarding the Way} \vspace{-0.3mm}\\ 
+\texttt{075} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Disruptive Burst} \vspace{-0.3mm}\\ 
+\texttt{076} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Death by Droids} \vspace{-0.3mm}\\ 
+\texttt{077} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Vanquish} \vspace{-0.3mm}\\ 
+\texttt{078} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{The Invasion of Christoph} \vspace{-0.3mm}\\ 
+\section{Command} 
+\vspace{-2mm} 
+\texttt{079} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Confederate Courier} \vspace{-0.3mm}\\ 
+\texttt{080} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Poggle the Lesser Archduk} \vspace{-0.3mm}\\ 
+\texttt{081} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Droid Commando} \vspace{-0.3mm}\\ 
+\texttt{082} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{MagnaGuard Wing Leader} \vspace{-0.3mm}\\ 
+\texttt{083} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{s}}} \texttt{General's Guardian} \vspace{-0.3mm}\\ 
+\texttt{084} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Kraken Confederate Tactic} \vspace{-0.3mm}\\ 
+\texttt{085} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Kalani Analytical General} \vspace{-0.3mm}\\ 
+\texttt{086} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Admiral Trench Holding th} \vspace{-0.3mm}\\ 
+\texttt{087} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Separatist Super Tank} \vspace{-0.3mm}\\ 
+\texttt{088} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Reprocess} \vspace{-0.3mm}\\ 
+\texttt{089} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Consolidation of Power} \vspace{-0.3mm}\\ 
+\texttt{090} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Echo Valiant ARC Trooper} \vspace{-0.3mm}\\ 
+\texttt{091} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Republic Tactical Officer} \vspace{-0.3mm}\\ 
+\texttt{092} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Admiral Yularen Advising } \vspace{-0.3mm}\\ 
+\texttt{093} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Advanced Recon Commando} \vspace{-0.3mm}\\ 
+\texttt{094} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Shaak Ti Unity Wins Wars} \vspace{-0.3mm}\\ 
+\texttt{095} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Pelta Supply Frigate} \vspace{-0.3mm}\\ 
+\texttt{096} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Aayla Secura Master of th} \vspace{-0.3mm}\\ 
+\texttt{097} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{s}}} \texttt{Captain Rex Lead by Examp} \vspace{-0.3mm}\\ 
+\texttt{098} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Republic Defense Carrier} \vspace{-0.3mm}\\ 
+\texttt{099} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Synchronized Strike} \vspace{-0.3mm}\\ 
+\texttt{100} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Petition the Senate} \vspace{-0.3mm}\\ 
+\texttt{101} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Mas Amedda Vice Chair} \vspace{-0.3mm}\\ 
+\texttt{102} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Manufactured Soldiers} \vspace{-0.3mm}\\ 
+\texttt{103} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Pyrrhic Assault} \vspace{-0.3mm}\\ 
+\texttt{104} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Obedient Vanguard} \vspace{-0.3mm}\\ 
+\texttt{105} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Steadfast Senator} \vspace{-0.3mm}\\ 
+\texttt{106} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Coruscant Guard} \vspace{-0.3mm}\\ 
+\texttt{107} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{s}}} \texttt{Patrolling V-Wing} \vspace{-0.3mm}\\ 
+\texttt{108} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Ryloth Militia} \vspace{-0.3mm}\\ 
+\texttt{109} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{501st Liberator} \vspace{-0.3mm}\\ 
+\texttt{110} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Huyang Enduring Instructo} \vspace{-0.3mm}\\ 
+\texttt{111} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Republic ARC-170} \vspace{-0.3mm}\\ 
+\texttt{112} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Subjugating Starfighter} \vspace{-0.3mm}\\ 
+\texttt{113} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{B2 Legionnaires} \vspace{-0.3mm}\\ 
+\texttt{114} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Clone Commander Cody Comm} \vspace{-0.3mm}\\ 
+\texttt{115} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Osi Sobeck Warden of the } \vspace{-0.3mm}\\ 
+\texttt{116} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Clone} \vspace{-0.3mm}\\ 
+\texttt{117} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Baktoid Spider Droid} \vspace{-0.3mm}\\ 
+\texttt{118} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Gor Grievous's Pet} \vspace{-0.3mm}\\ 
+\texttt{119} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Nameless Valor} \vspace{-0.3mm}\\ 
+\texttt{120} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Strategic Acumen} \vspace{-0.3mm}\\ 
+\texttt{121} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{General's Blade} \vspace{-0.3mm}\\ 
+\texttt{122} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Squad Support} \vspace{-0.3mm}\\ 
+\texttt{123} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{s}}} \texttt{Outflank} \vspace{-0.3mm}\\ 
+\texttt{124} \(\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{s}}} \texttt{Tactical Advantage} \vspace{-0.3mm}\\ 
+\texttt{125} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{The Clone Wars} \vspace{-0.3mm}\\ 
+\texttt{126} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Encouraging Leadership} \vspace{-0.3mm}\\ 
+\texttt{127} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Resupply} \vspace{-0.3mm}\\ 
+\texttt{128} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Take Captive} \vspace{-0.3mm}\\ 
+\texttt{129} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{In Defense of Kamino} \vspace{-0.3mm}\\ 
+\section{Aggression} 
+\vspace{-2mm} 
+\texttt{130} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Bo-Katan Kryze Death Watc} \vspace{-0.3mm}\\ 
+\texttt{131} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{OOM-Series Officer} \vspace{-0.3mm}\\ 
+\texttt{132} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Confederate Tri-Fighter} \vspace{-0.3mm}\\ 
+\texttt{133} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{B1 Attack Platform} \vspace{-0.3mm}\\ 
+\texttt{134} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Asajj Ventress Count Dook} \vspace{-0.3mm}\\ 
+\texttt{135} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Darth Maul Revenge At Las} \vspace{-0.3mm}\\ 
+\texttt{136} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Squadron of Vultures} \vspace{-0.3mm}\\ 
+\texttt{137} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Savage Opress Monster} \vspace{-0.3mm}\\ 
+\texttt{138} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Count Dooku Fallen Jedi} \vspace{-0.3mm}\\ 
+\texttt{139} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Corner the Prey} \vspace{-0.3mm}\\ 
+\texttt{140} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Self-Destruct} \vspace{-0.3mm}\\ 
+\texttt{141} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Soldier of the 501st} \vspace{-0.3mm}\\ 
+\texttt{142} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Anakin's Interceptor Wher} \vspace{-0.3mm}\\ 
+\texttt{143} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Jyn Erso Stardust} \vspace{-0.3mm}\\ 
+\texttt{144} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Batch Brothers} \vspace{-0.3mm}\\ 
+\texttt{145} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Jesse Hard-Fighting Patri} \vspace{-0.3mm}\\ 
+\texttt{146} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Steela Gerrera Beloved Ta} \vspace{-0.3mm}\\ 
+\texttt{147} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{s}}} \texttt{Anakin Skywalker Maverick} \vspace{-0.3mm}\\ 
+\texttt{148} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Senatorial Corvette} \vspace{-0.3mm}\\ 
+\texttt{149} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Low Altitude Gunship} \vspace{-0.3mm}\\ 
+\texttt{150} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Saw Gerrera Resistance is} \vspace{-0.3mm}\\ 
+\texttt{151} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Resolute Under Anakin's C} \vspace{-0.3mm}\\ 
+\texttt{152} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Mace Windu's Lightsaber} \vspace{-0.3mm}\\ 
+\texttt{153} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Bold Resistance} \vspace{-0.3mm}\\ 
+\texttt{154} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Mister Bones I Performed } \vspace{-0.3mm}\\ 
+\texttt{155} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Twice the Pride} \vspace{-0.3mm}\\ 
+\texttt{156} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Unlimited Power} \vspace{-0.3mm}\\ 
+\texttt{157} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Disaffected Senator} \vspace{-0.3mm}\\ 
+\texttt{158} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Clone Heavy Gunner} \vspace{-0.3mm}\\ 
+\texttt{159} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Dendup's Loyalist} \vspace{-0.3mm}\\ 
+\texttt{160} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Vanguard Droid Bomber} \vspace{-0.3mm}\\ 
+\texttt{161} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Bold Recon Commando} \vspace{-0.3mm}\\ 
+\texttt{162} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Reckless Torrent} \vspace{-0.3mm}\\ 
+\texttt{163} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Relentless Rocket Droid} \vspace{-0.3mm}\\ 
+\texttt{164} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Hevy Staunch Martyr} \vspace{-0.3mm}\\ 
+\texttt{165} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Kit Fisto The Smiling Jed} \vspace{-0.3mm}\\ 
+\texttt{166} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Aurra Sing Crackshot Snip} \vspace{-0.3mm}\\ 
+\texttt{167} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Heavy Persuader Tank} \vspace{-0.3mm}\\ 
+\texttt{168} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Old Access Codes} \vspace{-0.3mm}\\ 
+\texttt{169} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Clone Cohort} \vspace{-0.3mm}\\ 
+\texttt{170} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Daring Raid} \vspace{-0.3mm}\\ 
+\texttt{171} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Grenade Strike} \vspace{-0.3mm}\\ 
+\texttt{172} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Grim Resolve} \vspace{-0.3mm}\\ 
+\texttt{173} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Blood Sport} \vspace{-0.3mm}\\ 
+\texttt{174} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{s}}} \texttt{Open Fire} \vspace{-0.3mm}\\ 
+\texttt{175} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Strategic Analysis} \vspace{-0.3mm}\\ 
+\texttt{176} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Caught in the Crossfire} \vspace{-0.3mm}\\ 
+\texttt{177} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Guerilla Insurgency} \vspace{-0.3mm}\\ 
+\texttt{178} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Planetary Invasion} \vspace{-0.3mm}\\ 
+\section{Cunning} 
+\vspace{-2mm} 
+\texttt{179} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Soulless One Customized f} \vspace{-0.3mm}\\ 
+\texttt{180} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{s}}} \texttt{Separatist Commando} \vspace{-0.3mm}\\ 
+\texttt{181} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Elite P-38 Starfighter} \vspace{-0.3mm}\\ 
+\texttt{182} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Infiltrating Demolisher} \vspace{-0.3mm}\\ 
+\texttt{183} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Rush Clovis Banking Clan } \vspace{-0.3mm}\\ 
+\texttt{184} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Tactical Droid Commander} \vspace{-0.3mm}\\ 
+\texttt{185} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Ziro the Hutt Colorful Sc} \vspace{-0.3mm}\\ 
+\texttt{186} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{San Hill Chairman of the } \vspace{-0.3mm}\\ 
+\texttt{187} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Cad Bane Hostage Taker} \vspace{-0.3mm}\\ 
+\texttt{188} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Wartime Profiteering} \vspace{-0.3mm}\\ 
+\texttt{189} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Unnatural Life} \vspace{-0.3mm}\\ 
+\texttt{190} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{On the Doorstep} \vspace{-0.3mm}\\ 
+\texttt{191} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Wolf Pack Escort} \vspace{-0.3mm}\\ 
+\texttt{192} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Padmé Amidala Pursuing Pe} \vspace{-0.3mm}\\ 
+\texttt{193} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{R2-D2 Full of Solutions} \vspace{-0.3mm}\\ 
+\texttt{194} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Ahsoka Tano Always Ready } \vspace{-0.3mm}\\ 
+\texttt{195} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Sabine Wren You Can Count} \vspace{-0.3mm}\\ 
+\texttt{196} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Plo Koon Koh-to-yah!} \vspace{-0.3mm}\\ 
+\texttt{197} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Republic Attack Pod} \vspace{-0.3mm}\\ 
+\texttt{198} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Enfys Nest Champion of Ju} \vspace{-0.3mm}\\ 
+\texttt{199} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Clear the Field} \vspace{-0.3mm}\\ 
+\texttt{200} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Creative Thinking} \vspace{-0.3mm}\\ 
+\texttt{201} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Aid from the Innocent} \vspace{-0.3mm}\\ 
+\texttt{202} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Jar Jar Binks Foolish Gun} \vspace{-0.3mm}\\ 
+\texttt{203} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Chancellor Palpatine Wart} \vspace{-0.3mm}\\ 
+\texttt{204} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Impropriety Among Thieves} \vspace{-0.3mm}\\ 
+\texttt{205} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Clone Dive Trooper} \vspace{-0.3mm}\\ 
+\texttt{206} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Independent Senator} \vspace{-0.3mm}\\ 
+\texttt{207} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{B1 Security Team} \vspace{-0.3mm}\\ 
+\texttt{208} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Favorable Delegate} \vspace{-0.3mm}\\ 
+\texttt{209} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Hotshot V-Wing} \vspace{-0.3mm}\\ 
+\texttt{210} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Lux Bonteri Renegade Sepa} \vspace{-0.3mm}\\ 
+\texttt{211} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Sly Moore Secretive Advis} \vspace{-0.3mm}\\ 
+\texttt{212} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Freelance Assassin} \vspace{-0.3mm}\\ 
+\texttt{213} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Sanctioner's Shuttle} \vspace{-0.3mm}\\ 
+\texttt{214} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Hidden Sharpshooter} \vspace{-0.3mm}\\ 
+\texttt{215} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Geonosis Patrol Fighter} \vspace{-0.3mm}\\ 
+\texttt{216} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Fives In Search of Truth} \vspace{-0.3mm}\\ 
+\texttt{217} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Tri-Droid Suppressor} \vspace{-0.3mm}\\ 
+\texttt{218} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Droid Cohort} \vspace{-0.3mm}\\ 
+\texttt{219} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{On Top of Things} \vspace{-0.3mm}\\ 
+\texttt{220} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Shadowed Intentions} \vspace{-0.3mm}\\ 
+\texttt{221} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{In Pursuit} \vspace{-0.3mm}\\ 
+\texttt{222} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Political Pressure} \vspace{-0.3mm}\\ 
+\texttt{223} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Unmasking the Conspiracy} \vspace{-0.3mm}\\ 
+\texttt{224} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Breaking In} \vspace{-0.3mm}\\ 
+\texttt{225} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{l}}} \texttt{Now There Are Two of Them} \vspace{-0.3mm}\\ 
+\texttt{226} \(\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{s}}} \texttt{Waylay} \vspace{-0.3mm}\\ 
+\texttt{227} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Prisoner of War} \vspace{-0.3mm}\\ 
+\section{Villainy} 
+\vspace{-2mm} 
+\texttt{228} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Droid Starfighter} \vspace{-0.3mm}\\ 
+\texttt{229} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{s}}} \texttt{Battle Droid Escort} \vspace{-0.3mm}\\ 
+\texttt{230} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Super Battle Droid} \vspace{-0.3mm}\\ 
+\texttt{231} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Dwarf Spider Droid} \vspace{-0.3mm}\\ 
+\texttt{232} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Patrolling AAT} \vspace{-0.3mm}\\ 
+\texttt{233} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Hailfire Tank} \vspace{-0.3mm}\\ 
+\texttt{234} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{The Invisible Hand Imposi} \vspace{-0.3mm}\\ 
+\texttt{235} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Battle Droid Legion} \vspace{-0.3mm}\\ 
+\texttt{236} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{s}}} \texttt{Grievous's Wheel Bike} \vspace{-0.3mm}\\ 
+\texttt{237} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Droid Deployment} \vspace{-0.3mm}\\ 
+\texttt{238} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Merciless Contest} \vspace{-0.3mm}\\ 
+\texttt{239} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Execute Order 66} \vspace{-0.3mm}\\ 
+\section{Heroism} 
+\vspace{-2mm} 
+\texttt{240} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{s}}} \texttt{332nd Stalwart} \vspace{-0.3mm}\\ 
+\texttt{241} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Phase I Clone Trooper} \vspace{-0.3mm}\\ 
+\texttt{242} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Phase II Clone Trooper} \vspace{-0.3mm}\\ 
+\texttt{243} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Republic Commando} \vspace{-0.3mm}\\ 
+\texttt{244} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Eta-2 Light Interceptor} \vspace{-0.3mm}\\ 
+\texttt{245} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Armored Saber Tank} \vspace{-0.3mm}\\ 
+\texttt{246} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Tranquility Inspiring Fla} \vspace{-0.3mm}\\ 
+\texttt{247} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{AT-TE Vanguard} \vspace{-0.3mm}\\ 
+\texttt{248} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{s}}} \texttt{Ahsoka's Padawan Lightsab} \vspace{-0.3mm}\\ 
+\texttt{249} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Heroes on Both Sides} \vspace{-0.3mm}\\ 
+\texttt{250} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Sword and Shield Maneuver} \vspace{-0.3mm}\\ 
+\texttt{251} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Drop In} \vspace{-0.3mm}\\ 
+\section{Neutral} 
+\vspace{-2mm} 
+\texttt{252} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Aggrieved Parliamentarian} \vspace{-0.3mm}\\ 
+\texttt{253} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Headhunter Squadron} \vspace{-0.3mm}\\ 
+\texttt{254} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Volunteer Soldier} \vspace{-0.3mm}\\ 
+\texttt{255} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{r}}} \texttt{Brain Invaders} \vspace{-0.3mm}\\ 
+\texttt{256} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{c}}} \texttt{Hold-Out Blaster} \vspace{-0.3mm}\\ 
+\texttt{257} \(\bigcirc\!\bigcirc\!\bigcirc\) \makebox[2mm][r]{\raisebox{-1mm}{\includegraphics[height=3mm]{u}}} \texttt{Private Manufacturing} \vspace{-0.3mm}\\ 
+\swuSet{twi}
+\end{multicols*}
+\end{document}

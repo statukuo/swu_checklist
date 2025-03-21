@@ -1,0 +1,262 @@
+JTL,1,Asajj Ventress I Work Alone,Rare,Leader,Vigilance,1
+JTL,2,Grand Admiral Thrawn ...How Unfortunate,Common,Leader,Vigilance,1
+JTL,3,Lando Calrissian Buying Time,Rare,Leader,Vigilance,1
+JTL,4,Rose Tico Saving What We Love,Common,Leader,Vigilance,1
+JTL,5,Admiral Piett Commanding the Armada,Rare,Leader,Command,1
+JTL,6,Darth Vader Victor Squadron Leader,Common,Leader,Command,1
+JTL,7,Admiral Holdo We're Not Alone,Rare,Leader,Command,1
+JTL,8,Wedge Antilles Leader of Red Squadron,Common,Leader,Command,1
+JTL,9,Boba Fett Any Methods Necessary,Special,Leader,Aggression,1
+JTL,10,Captain Phasma Chrome Dome,Rare,Leader,Aggression,1
+JTL,11,Major Vonreg Red Baron,Common,Leader,Aggression,1
+JTL,12,Luke Skywalker Hero of Yavin,Common,Leader,Aggression,1
+JTL,13,Poe Dameron I Can Fly Anything,Rare,Leader,Aggression,1
+JTL,14,Admiral Trench Chk-chk-chk-chk,Rare,Leader,Cunning,1
+JTL,15,Rio Durant Wisecracking Wheelman,Common,Leader,Cunning,1
+JTL,16,Admiral Ackbar It's A Trap!,Common,Leader,Cunning,1
+JTL,17,Han Solo Never Tell Me the Odds,Special,Leader,Cunning,1
+JTL,18,Kazuda Xiono Best Pilot in the Galaxy,Rare,Leader,Cunning,1
+JTL,19,City in the Clouds,Common,Base,Vigilance,1
+JTL,20,Shield Generator Complex,Common,Base,Vigilance,1
+JTL,21,Colossus,Rare,Base,Vigilance,1
+JTL,22,Resistance Headquarters,Common,Base,Command,1
+JTL,23,Theed Palace,Common,Base,Command,1
+JTL,24,Data Vault,Rare,Base,Command,1
+JTL,25,Thermal Oscillator,Rare,Base,Aggression,1
+JTL,26,Massassi Temple,Common,Base,Aggression,1
+JTL,27,Nadiri Dockyards,Common,Base,Aggression,1
+JTL,28,Nabat Village,Rare,Base,Cunning,1
+JTL,29,Chopper Base,Common,Base,Cunning,1
+JTL,30,Mos Eisley,Common,Base,Cunning,1
+JTL,31,Lake Country,Rare,Base,Neutral,1
+JTL,32,Director Krennic On the Verge of Greatness,Uncommon,Unit,Vigilance,3
+JTL,33,Onyx Squadron Brute,Common,Unit,Vigilance,3
+JTL,34,Interceptor Ace,Common,Unit,Vigilance,3
+JTL,35,Tam Ryvora Searching For Purpose,Rare,Unit,Vigilance,3
+JTL,36,Iden Versio Adapt or Die,Rare,Unit,Vigilance,3
+JTL,37,Banshee Crippling Command,Uncommon,Unit,Vigilance,3
+JTL,38,Corvus Inferno Squadron Raider,Rare,Unit,Vigilance,3
+JTL,39,Chimaera Reinforcing the Center,Uncommon,Unit,Vigilance,3
+JTL,40,Fleet Interdictor,Common,Unit,Vigilance,3
+JTL,41,Annihilator Tagge's Flagship,Legendary,Unit,Vigilance,3
+JTL,42,Power from Pain,Uncommon,Event,Vigilance,3
+JTL,43,"No Glory, Only Results",Rare,Event,Vigilance,3
+JTL,44,Echo Base Engineer,Common,Unit,Vigilance,3
+JTL,45,Hera Syndulla We've Lost Enough,Uncommon,Unit,Vigilance,3
+JTL,46,Paige Tico Dropping the Hammer,Uncommon,Unit,Vigilance,3
+JTL,47,Admiral Yularen Fleet Coordinator,Rare,Unit,Vigilance,3
+JTL,48,Cassian Andor Threading the Eye,Rare,Unit,Vigilance,3
+JTL,49,L3-37 Get Out Of My Seat,Rare,Unit,Vigilance,3
+JTL,50,Phantom II Modified to Dock,Rare,Unit,Vigilance,3
+JTL,51,Red Squadron X-Wing,Common,Unit,Vigilance,3
+JTL,52,D'Qar Cargo Frigate,Common,Unit,Vigilance,3
+JTL,53,The Ghost Heart of the Family,Legendary,Unit,Vigilance,3
+JTL,54,Gold Leader Fastest Ship in the Fleet,Uncommon,Unit,Vigilance,3
+JTL,55,"You're All Clear, Kid",Uncommon,Event,Vigilance,3
+JTL,56,Hondo Ohnaka Superfluous Swindler,Legendary,Unit,Vigilance,3
+JTL,57,Astromech Pilot,Uncommon,Unit,Vigilance,3
+JTL,58,Academy Graduate,Common,Unit,Vigilance,3
+JTL,59,Corporate Defense Shuttle,Rare,Unit,Vigilance,3
+JTL,60,Desperate Commando,Common,Unit,Vigilance,3
+JTL,61,Royal Security Fighter,Common,Unit,Vigilance,3
+JTL,62,Silver Angel Trace's Hope,Uncommon,Unit,Vigilance,3
+JTL,63,Landing Shuttle,Common,Unit,Vigilance,3
+JTL,64,Omicron Strike Craft,Common,Unit,Vigilance,3
+JTL,65,Outer Rim Outlaws,Common,Unit,Vigilance,3
+JTL,66,Trace Martez Trusting Sister,Uncommon,Unit,Vigilance,3
+JTL,67,Cloaked StarViper,Common,Unit,Vigilance,3
+JTL,68,Perimeter AT-RT,Common,Unit,Vigilance,3
+JTL,69,Munificent Frigate,Common,Unit,Vigilance,3
+JTL,70,U-Wing Lander,Uncommon,Unit,Vigilance,3
+JTL,71,CR90 Relief Runner,Common,Unit,Vigilance,3
+JTL,72,Wing Guard Security Team,Uncommon,Unit,Vigilance,3
+JTL,73,Grim Valor,Uncommon,Upgrade,Vigilance,3
+JTL,74,Close the Shield Gate,Rare,Event,Vigilance,3
+JTL,75,Repair,Common,Event,Vigilance,3
+JTL,76,Covering the Wing,Common,Event,Vigilance,3
+JTL,77,In the Heat of Battle,Rare,Event,Vigilance,3
+JTL,78,Direct Hit,Common,Event,Vigilance,3
+JTL,79,Out the Airlock,Common,Event,Vigilance,3
+JTL,80,Nebula Ignition,Legendary,Event,Vigilance,3
+JTL,81,First Order TIE Fighter,Common,Unit,Command,3
+JTL,82,Kijimi Patrollers,Common,Unit,Command,3
+JTL,83,Pantoran Starship Thief,Rare,Unit,Command,3
+JTL,84,Wingman Victor Two Mauler Mithel,Uncommon,Unit,Command,3
+JTL,85,Victor Leader Leading from the Front,Rare,Unit,Command,3
+JTL,86,Wingman Victor Three Backstabber,Uncommon,Unit,Command,3
+JTL,87,TIE Ambush Squadron,Common,Unit,Command,3
+JTL,88,Captain Phasma On My Command,Uncommon,Unit,Command,3
+JTL,89,The Invisible Hand Crawling With Vultures,Rare,Unit,Command,3
+JTL,90,Executor Might of the Empire,Legendary,Unit,Command,3
+JTL,91,Apology Accepted,Uncommon,Event,Command,3
+JTL,92,Scramble Fighters,Legendary,Event,Command,3
+JTL,93,Nien Nunb Loyal Co-Pilot,Rare,Unit,Command,3
+JTL,94,Luke Skywalker You Still With Me?,Rare,Unit,Command,3
+JTL,95,Phoenix Squadron A-Wing,Common,Unit,Command,3
+JTL,96,Blue Leader Scarif Air Support,Uncommon,Unit,Command,3
+JTL,97,"Leia Organa Pilots, To Your Stations",Uncommon,Unit,Command,3
+JTL,98,Snap Wexley Resistance Recon Flier,Rare,Unit,Command,3
+JTL,99,Veteran Fleet Officer,Common,Unit,Command,3
+JTL,100,Poe Dameron One Hell of a Pilot,Uncommon,Unit,Command,3
+JTL,101,Red Leader Form Up,Uncommon,Unit,Command,3
+JTL,102,Resistance Blue Squadron,Common,Unit,Command,3
+JTL,103,Chewbacca Faithful First Mate,Special,Unit,Command,3
+JTL,104,Raddus Holdo's Final Command,Rare,Unit,Command,3
+JTL,105,The Starhawk Prototype Battleship,Legendary,Unit,Command,3
+JTL,106,Unity of Purpose,Legendary,Event,Command,3
+JTL,107,Bunker Defender,Common,Unit,Command,3
+JTL,108,Clone Pilot,Common,Unit,Command,3
+JTL,109,Jarek Yeager Coordinating With The Resistance,Uncommon,Unit,Command,3
+JTL,110,Scouting Headhunter,Common,Unit,Command,3
+JTL,111,Seasoned Fleet Admiral,Rare,Unit,Command,3
+JTL,112,Eager Escort Fighter,Common,Unit,Command,3
+JTL,113,Homestead Militia,Common,Unit,Command,3
+JTL,114,Adept ARC-170,Common,Unit,Command,3
+JTL,115,Clone Combat Squadron,Uncommon,Unit,Command,3
+JTL,116,Dornean Gunship,Uncommon,Unit,Command,3
+JTL,117,General Draven Doing What Must Be Done,Rare,Unit,Command,3
+JTL,118,MC30 Assault Frigate,Common,Unit,Command,3
+JTL,119,Resupply Carrier,Common,Unit,Command,3
+JTL,120,Dorsal Turret,Common,Upgrade,Command,3
+JTL,121,Salvage,Uncommon,Event,Command,3
+JTL,122,All Wings Report In,Common,Event,Command,3
+JTL,123,Dogfight,Uncommon,Event,Command,3
+JTL,124,Tandem Assault,Common,Event,Command,3
+JTL,125,Air Superiority,Common,Event,Command,3
+JTL,126,Eject,Rare,Event,Command,3
+JTL,127,Lightspeed Assault,Rare,Event,Command,3
+JTL,128,Prepare for Takeoff,Common,Event,Command,3
+JTL,129,Focus Fire,Common,Event,Command,3
+JTL,130,Timely Reinforcements,Uncommon,Event,Command,3
+JTL,131,Turbolaser Salvo,Legendary,Event,Command,3
+JTL,132,First Order Stormtrooper,Common,Unit,Aggression,3
+JTL,133,Allegiant General Pryde Ruthless and Loyal,Rare,Unit,Aggression,3
+JTL,134,"General Hux No Terms, No Surrender",Uncommon,Unit,Aggression,3
+JTL,135,Special Forces TIE Fighter,Common,Unit,Aggression,3
+JTL,136,Prototype TIE Advanced,Common,Unit,Aggression,3
+JTL,137,Vonreg's TIE Interceptor Ace of the First Order,Uncommon,Unit,Aggression,3
+JTL,138,Decimator of Dissidents,Uncommon,Unit,Aggression,3
+JTL,139,Dengar Crude and Slovenly,Uncommon,Unit,Aggression,3
+JTL,140,IG-2000 Assassin's Aggressor,Rare,Unit,Aggression,3
+JTL,141,IG-88 Murderous Phlutdroid,Rare,Unit,Aggression,3
+JTL,142,Darth Vader Scourge of Squadrons,Legendary,Unit,Aggression,3
+JTL,143,Devastator Hunting the Rebellion,Legendary,Unit,Aggression,3
+JTL,144,No Disintegrations,Special,Event,Aggression,3
+JTL,145,BB-8 Happy Beeps,Uncommon,Unit,Aggression,3
+JTL,146,Massassi Tactical Officer,Common,Unit,Aggression,3
+JTL,147,Black One Straight At Them,Rare,Unit,Aggression,3
+JTL,148,Frisk Vanguard Loudmouth,Uncommon,Unit,Aggression,3
+JTL,149,Red Squadron Y-Wing,Common,Unit,Aggression,3
+JTL,150,Biggs Darklighter They'll Never Stop Us,Uncommon,Unit,Aggression,3
+JTL,151,Red Five Running the Trench,Uncommon,Unit,Aggression,3
+JTL,152,Tactical Heavy Bomber,Rare,Unit,Aggression,3
+JTL,153,Rebellious Hammerhead,Common,Unit,Aggression,3
+JTL,154,Profundity We Fight!,Legendary,Unit,Aggression,3
+JTL,155,They Hate That Ship,Rare,Event,Aggression,3
+JTL,156,Trench Run,Rare,Event,Aggression,3
+JTL,157,Relentless Firespray,Rare,Unit,Aggression,3
+JTL,158,Crackshot V-Wing,Common,Unit,Aggression,3
+JTL,159,Determined Recruit,Common,Unit,Aggression,3
+JTL,160,Supporting Eta-2,Common,Unit,Aggression,3
+JTL,161,Captain Tarkin Full Forward Assault,Uncommon,Unit,Aggression,3
+JTL,162,Droid Missile Platform,Common,Unit,Aggression,3
+JTL,163,AT-DP Occupier,Common,Unit,Aggression,3
+JTL,164,Cham Syndulla Rallying Ryloth,Uncommon,Unit,Aggression,3
+JTL,165,Hunting Aggressor,Uncommon,Unit,Aggression,3
+JTL,166,Orbiting K-Wing,Common,Unit,Aggression,3
+JTL,167,Occupier Siege Tank,Common,Unit,Aggression,3
+JTL,168,Insurgent Saboteurs,Common,Unit,Aggression,3
+JTL,169,Shadow Caster Just Business,Legendary,Unit,Aggression,3
+JTL,170,War Juggernaut,Uncommon,Unit,Aggression,3
+JTL,171,Targeting Computer,Rare,Upgrade,Aggression,3
+JTL,172,Twin Laser Turret,Common,Upgrade,Aggression,3
+JTL,173,Fight Fire With Fire,Common,Event,Aggression,3
+JTL,174,Hotshot Maneuver,Rare,Event,Aggression,3
+JTL,175,System Shock,Common,Event,Aggression,3
+JTL,176,Shoot Down,Common,Event,Aggression,3
+JTL,177,Stay on Target,Uncommon,Event,Aggression,3
+JTL,178,Face Off,Uncommon,Event,Aggression,3
+JTL,179,Koiogran Turn,Common,Event,Aggression,3
+JTL,180,Piercing Shot,Common,Event,Aggression,3
+JTL,181,Planetary Bombardment,Legendary,Event,Aggression,3
+JTL,182,Rampart Enjoy the Exit,Rare,Unit,Cunning,3
+JTL,183,Zygerrian Starhopper,Common,Unit,Cunning,3
+JTL,184,Contracted Jumpmaster,Common,Unit,Cunning,3
+JTL,185,Hound's Tooth Reliable and Deadly,Special,Unit,Cunning,3
+JTL,186,Mist Hunter The Findsman's Pursuit,Uncommon,Unit,Cunning,3
+JTL,187,Bossk Hunt By Instinct,Special,Unit,Cunning,3
+JTL,188,Moff Gideon I Know Everything,Rare,Unit,Cunning,3
+JTL,189,Boba Fett Feared Bounty Hunter,Rare,Unit,Cunning,3
+JTL,190,Techno Union Transport,Common,Unit,Cunning,3
+JTL,191,Invincible Naval Adversary,Legendary,Unit,Cunning,3
+JTL,192,In Debt to Crimson Dawn,Uncommon,Upgrade,Cunning,3
+JTL,193,I Have You Now,Uncommon,Event,Cunning,3
+JTL,194,Heartless Tactics,Uncommon,Event,Cunning,3
+JTL,195,Cat and Mouse,Rare,Event,Cunning,3
+JTL,196,Dagger Squadron Pilot,Common,Unit,Cunning,3
+JTL,197,Anakin Skywalker I'll Try Spinning,Uncommon,Unit,Cunning,3
+JTL,198,Fireball An Explosion With Wings,Uncommon,Unit,Cunning,3
+JTL,199,Blade Squadron B-Wing,Common,Unit,Cunning,3
+JTL,200,Shuttle Tydirium Fly Casual,Special,Unit,Cunning,3
+JTL,201,Ahsoka Tano Chasing Whispers,Rare,Unit,Cunning,3
+JTL,202,Black Squadron Scout Wing,Common,Unit,Cunning,3
+JTL,203,Han Solo Has His Moments,Legendary,Unit,Cunning,3
+JTL,204,Home One On My Mark,Legendary,Unit,Cunning,3
+JTL,205,Commence Patrol,Uncommon,Event,Cunning,3
+JTL,206,Fly Casual,Uncommon,Event,Cunning,3
+JTL,207,Jam Communications,Rare,Event,Cunning,3
+JTL,208,Never Tell Me the Odds,Special,Event,Cunning,3
+JTL,209,It's a Trap,Rare,Event,Cunning,3
+JTL,210,The Mandalorian Weathered Pilot,Uncommon,Unit,Cunning,3
+JTL,211,Independent Smuggler,Common,Unit,Cunning,3
+JTL,212,Republic Y-Wing,Common,Unit,Cunning,3
+JTL,213,Sidon Ithano The Crimson Corsair,Rare,Unit,Cunning,3
+JTL,214,X-34 Landspeeder,Common,Unit,Cunning,3
+JTL,215,BoShek Charismatic Smuggler,Uncommon,Unit,Cunning,3
+JTL,216,Contracted Hunter,Uncommon,Unit,Cunning,3
+JTL,217,Death Space Skirmisher,Common,Unit,Cunning,3
+JTL,218,Guerilla Soldier,Common,Unit,Cunning,3
+JTL,219,Rafa Martez Shrewd Sister,Uncommon,Unit,Cunning,3
+JTL,220,Skyway Cloud Car,Common,Unit,Cunning,3
+JTL,221,Stolen AT-Hauler,Legendary,Unit,Cunning,3
+JTL,222,Kimogila Heavy Fighter,Common,Unit,Cunning,3
+JTL,223,Razor Crest Ride For Hire,Uncommon,Unit,Cunning,3
+JTL,224,Shadowed Hover Tank,Common,Unit,Cunning,3
+JTL,225,Corporate Light Cruiser,Common,Unit,Cunning,3
+JTL,226,Radiant VII Ambassadors' Arrival,Legendary,Unit,Cunning,3
+JTL,227,Superheavy Ion Cannon,Rare,Upgrade,Cunning,3
+JTL,228,Barrel Roll,Common,Event,Cunning,3
+JTL,229,Diversion,Common,Event,Cunning,3
+JTL,230,Electromagnetic Pulse,Common,Event,Cunning,3
+JTL,231,Punch It,Common,Event,Cunning,3
+JTL,232,Jump to Lightspeed,Rare,Event,Cunning,3
+JTL,233,Sweep the Area,Uncommon,Event,Cunning,3
+JTL,234,Torpedo Barrage,Common,Event,Cunning,3
+JTL,235,Commandeer,Rare,Event,Cunning,3
+JTL,236,Indoctrinated Conscript,Common,Unit,Villainy,3
+JTL,237,TIE Bomber,Common,Unit,Villainy,3
+JTL,238,Sith Trooper,Common,Unit,Villainy,3
+JTL,239,TIE Dagger Vanguard,Common,Unit,Villainy,3
+JTL,240,Fett's Firespray Feared Silhouette,Special,Unit,Villainy,3
+JTL,241,Rogue-class Starfighter,Common,Unit,Villainy,3
+JTL,242,Shuttle ST-149 Under Krennic's Authority,Uncommon,Unit,Villainy,3
+JTL,243,Quasar TIE Carrier,Common,Unit,Villainy,3
+JTL,244,There Is No Escape,Rare,Event,Villainy,3
+JTL,245,R2-D2 Artooooooooo!,Uncommon,Unit,Heroism,3
+JTL,246,Hopeful Volunteer,Common,Unit,Heroism,3
+JTL,247,Resistance X-Wing,Common,Unit,Heroism,3
+JTL,248,Dilapidated Ski Speeder,Common,Unit,Heroism,3
+JTL,249,Millennium Falcon Get Out And Push,Special,Unit,Heroism,3
+JTL,250,Sabine's Masterpiece Crazy Colorful,Rare,Unit,Heroism,3
+JTL,251,Jedi Light Cruiser,Common,Unit,Heroism,3
+JTL,252,Tantive IV Fleeing the Empire,Uncommon,Unit,Heroism,3
+JTL,253,Coordinated Front,Common,Event,Heroism,3
+JTL,254,Dedicated Wingmen,Common,Event,Heroism,3
+JTL,255,Sullustan Spacer,Common,Unit,Neutral,3
+JTL,256,Swarming Vulture Droid,Common,Unit,Neutral,15
+JTL,257,Flanking Fang Fighter,Common,Unit,Neutral,3
+JTL,258,Corellian Freighter,Common,Unit,Neutral,3
+JTL,259,Retrofitted Airspeeder,Uncommon,Unit,Neutral,3
+JTL,260,Death Star Plans,Legendary,Upgrade,Neutral,3
+JTL,261,Attack Run,Common,Event,Neutral,3
+JTL,262,Evasive Maneuver,Common,Event,Neutral,3

@@ -1,0 +1,40 @@
+\documentclass[a4paper,landscape]{article}
+\usepackage{inconsolata}
+\usepackage[a4paper,margin=0.5cm]{geometry}
+\usepackage{multicol}
+\usepackage{titlesec}
+\usepackage[breakall]{truncate}
+\usepackage{tikz}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{forloop}
+\usepackage{setspace}
+\usepackage{xcolor}
+\usepackage[letterspace=125]{microtype}
+\usepackage[document]{ragged2e}
+\graphicspath{ {./images/} }
+
+\newcommand{\addulc}[1]{\texttt{\textcolor{white}{#1}}}
+\newcommand{\swuSet}[1]{\begin{tikzpicture}[remember picture,overlay]
+  \tikzset{shift={(current page.center)},xshift=10cm,yshift=-9.5cm}
+  \filldraw[black, thick] (0,0.5cm) -- (0,2.5cm) -- (0.8cm,3cm) -- (2.8cm,3cm) -- (3.6cm, 2.5cm) -- (3.6cm, 0.5cm) -- (2.8cm, 0) -- (0.8cm, 0) -- cycle;
+  \tikzstyle{every node}=[font=\fontsize{30}{30}\selectfont]
+  \draw (1.8cm, 1.5cm) node[white] {\texttt{\uppercase{#1}}};
+\end{tikzpicture}}
+
+\renewcommand{\TruncateMarker}{...}
+
+\titleformat{\section}%
+  {\vspace{-4mm}}% format applied to label+text
+  {}%label
+  {0mm}% horizontal separation between label and title body
+  {\begin{minipage}{4mm}\vspace{-0.5mm}\begin{tikzpicture}\filldraw[black, thick] (0,0) -- (0,3mm) -- (25mm,3mm) -- (30mm,0.2mm) -- (50mm, 0.2mm) -- (50mm, 0) -- cycle; \end{tikzpicture}\end{minipage}\addulc}% before the title body
+  []% after the title body
+
+\begin{document}
+\fontsize{8}{8}\selectfont
+
+\begin{multicols*}{5}
+    %{TEMPLATE}
+\end{multicols*}
+\end{document}

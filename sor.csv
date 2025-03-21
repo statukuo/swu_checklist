@@ -1,0 +1,252 @@
+SOR,1,Director Krennic - Aspiring to Authority,Common,Leader,Vigilance,1
+SOR,2,Iden Versio - Infero Squad Commander,Rare,Leader,Vigilance,1
+SOR,3,Chewbacca - Walking Carpet,Common,Leader,Vigilance,1
+SOR,4,Chirrut Imwe - One With the Force,Rare,Leader,Vigilance,1
+SOR,5,Luke Skywalker - Faithful Friend,Special,Leader,Vigilance,1
+SOR,6,Emperor Palpatine - Galactic Ruler,Rare,Leader,Command,1
+SOR,7,Grand Moff Tarkin - Oversector Governor,Common,Leader,Command,1
+SOR,8,Hera Syndulla - Spectre Two,Rare,Leader,Command,1
+SOR,9,Leia Organa - Alliance General,Common,Leader,Command,1
+SOR,10,Darth Vader - Dark Lord of the Sith,Special,Leader,Aggression,1
+SOR,11,Grand Inquisitor - Hunting The Jedi,Rare,Leader,Aggression,1
+SOR,12,IG-88 - Ruthless Bounty Hunter,Common,Leader,Aggression,1
+SOR,13,Cassian Andor - Dedicated to the Rebellion,Rare,Leader,Aggression,1
+SOR,14,Sabine Wren - Galvanized Revolutionary,Common,Leader,Aggression,1
+SOR,15,Boba Fett - Collecting the Bounty,Common,Leader,Cunning,1
+SOR,16,Grand Admiral Thrawn - Patient and Insightful,Rare,Leader,Cunning,1
+SOR,17,Han Solo - Audacious Smuggler,Rare,Leader,Cunning,1
+SOR,18,Jyn Erso - Resisting Oppression,Common,Leader,Cunning,1
+SOR,19,Security Complex,Rare,Base,Vigilance,1
+SOR,20,Capital City,Common,Base,Vigilance,1
+SOR,21,Dagobah Swamp,Common,Base,Vigilance,1
+SOR,22,Energy Conversion Lab,Rare,Base,Command,1
+SOR,23,Command Center,Common,Base,Command,1
+SOR,24,Echo Base,Common,Base,Command,1
+SOR,25,Tarkintown,Rare,Base,Aggression,1
+SOR,26,Catacombs of Cadera,Common,Base,Aggression,1
+SOR,27,Kestro City,Common,Base,Aggression,1
+SOR,28,Jedha City,Rare,Base,Cunning,1
+SOR,29,Administrator's Tower,Common,Base,Cunning,1
+SOR,30,Chopper Base,Common,Base,Cunning,1
+SOR,31,Inferno Four - Unforgetting,Uncommon,Unit,Vigilance,3
+SOR,32,Scout Bike Pursuer,Common,Unit,Vigilance,3
+SOR,33,Death Trooper,Common,Unit,Vigilance,3
+SOR,34,Del Meeko - Providing Overwatch,Rare,Unit,Vigilance,3
+SOR,35,Lieutenant Childsen - Death Star Prison Warden,Uncommon,Unit,Vigilance,3
+SOR,36,Gideon Hask - Ruthless Loyalist,Rare,Unit,Vigilance,3
+SOR,37,Academy Defense Walker,Common,Unit,Vigilance,3
+SOR,38,Count Dooku - Darth Tyrannus,Rare,Unit,Vigilance,3
+SOR,39,AT-AT Suppressor,Uncommon,Unit,Vigilance,3
+SOR,40,Avenger - Hunting Star Destroyer,Legendary,Unit,Vigilance,3
+SOR,41,Power of the Dark Side,Uncommon,Event,Vigilance,3
+SOR,42,Search Your Feelings,Rare,Event,Vigilance,3
+SOR,43,Superlaser Blast,Legendary,Event,Vigilance,3
+SOR,44,Restored ARC-170,Common,Unit,Vigilance,3
+SOR,45,Yoda - Old Master,Uncommon,Unit,Vigilance,3
+SOR,46,Consular Security Force,Common,Unit,Vigilance,3
+SOR,47,Kanan Jarrus - Revealed Jedi,Uncommon,Unit,Vigilance,3
+SOR,48,Vigilant Honor Guards,Common,Unit,Vigilance,3
+SOR,49,Obi-Wan Kenobi - Following Fate,Rare,Unit,Vigilance,3
+SOR,50,The Ghost - Spectre Home Base,Uncommon,Unit,Vigilance,3
+SOR,51,Luke Skywalker - Jedi Knight,Legendary,Unit,Vigilance,3
+SOR,52,Redemption - Medical Frigate,Rare,Unit,Vigilance,3
+SOR,53,Luke's Lightsaber,Special,Upgrade,Vigilance,3
+SOR,54,Jedi Lightsaber,Rare,Upgrade,Vigilance,3
+SOR,55,The Force Is With Me,Uncommon,Event,Vigilance,3
+SOR,56,Bendu - The One in the Middle,Rare,Unit,Vigilance,3
+SOR,57,Protector,Uncommon,Upgrade,Vigilance,3
+SOR,58,Vigilance,Legendary,Event,Vigilance,3
+SOR,59,2-1B Surgical Droid,Common,Unit,Vigilance,3
+SOR,60,Distant Patroller,Uncommon,Unit,Vigilance,3
+SOR,61,Guardian of the Whills,Common,Unit,Vigilance,3
+SOR,62,Regional Governor,Rare,Unit,Vigilance,3
+SOR,63,Cloud City Wing Guard,Common,Unit,Vigilance,3
+SOR,64,Wilderness Fighter,Common,Unit,Vigilance,3
+SOR,65,Baze Malbus - Temple Guardian,Uncommon,Unit,Vigilance,3
+SOR,66,System Patrol Craft,Common,Unit,Vigilance,3
+SOR,67,Rugged Survivors,Common,Unit,Vigilance,3
+SOR,68,Cargo Juggernaut,Common,Unit,Vigilance,3
+SOR,69,Resilient,Common,Upgrade,Vigilance,3
+SOR,70,Devotion,Uncommon,Upgrade,Vigilance,3
+SOR,71,Electrostaff,Rare,Upgrade,Vigilance,3
+SOR,72,Entrenched,Uncommon,Upgrade,Vigilance,3
+SOR,73,Moment of Peace,Common,Event,Vigilance,3
+SOR,74,Repair,Common,Event,Vigilance,3
+SOR,75,It Binds All Things,Rare,Event,Vigilance,3
+SOR,76,Make an Opening,Common,Event,Vigilance,3
+SOR,77,Takedown,Uncommon,Event,Vigilance,3
+SOR,78,Vanquish,Common,Event,Vigilance,3
+SOR,79,Admiral Piett - Captain of the Executor,Uncommon,Unit,Command,3
+SOR,80,General Tagge - Concerned Commander,Uncommon,Unit,Command,3
+SOR,81,Seasoned Shoretrooper,Common,Unit,Command,3
+SOR,82,Emperor's Royal Guard,Rare,Unit,Command,3
+SOR,83,Superlaser Technician,Common,Unit,Command,3
+SOR,84,Grand Moff Tarkin - Death Star Overseer,Special,Unit,Command,3
+SOR,85,Rukh - Thrawn's Assassin,Rare,Unit,Command,3
+SOR,86,Gladiator Star Destroyer,Common,Unit,Command,3
+SOR,87,Darth Vader - Commanding the First Legion,Legendary,Unit,Command,3
+SOR,88,Blizzard Assault AT-AT,Uncommon,Unit,Command,3
+SOR,89,Relentless - Konstantine's Folly,Rare,Unit,Command,3
+SOR,90,Devastator - Inescapable,Legendary,Unit,Command,3
+SOR,91,The Emperor's Legion,Rare,Event,Command,3
+SOR,92,Overwhelming Barrage,Uncommon,Event,Command,3
+SOR,93,Alliance Dispatcher,Common,Unit,Command,3
+SOR,94,Bail Organa - Rebel Councilor,Rare,Unit,Command,3
+SOR,95,Battlefield Marine,Common,Unit,Command,3
+SOR,96,Mon Mothma - Voice of the Rebellion,Uncommon,Unit,Command,3
+SOR,97,Admiral Ackbar - Brilliant Strategist,Rare,Unit,Command,3
+SOR,98,Echo Base Defender,Common,Unit,Command,3
+SOR,99,Bright Hope - The Last Transport,Uncommon,Unit,Command,3
+SOR,100,Wedge Antilles - Star of the Rebellion,Rare,Unit,Command,3
+SOR,101,Rogue Squadron Skirmisher,Uncommon,Unit,Command,3
+SOR,102,Home One - Alliance Flagship,Legendary,Unit,Command,3
+SOR,103,Rebel Assault,Uncommon,Event,Command,3
+SOR,104,U-Wing Reinforcement,Rare,Event,Command,3
+SOR,105,General Krell - Heartless Tactician,Rare,Unit,Command,3
+SOR,106,Attack Pattern Delta,Uncommon,Event,Command,3
+SOR,107,Command,Legendary,Event,Command,3
+SOR,108,Vanguard Infantry,Common,Unit,Command,3
+SOR,109,Colonel Yularen - ISB Director,Uncommon,Unit,Command,3
+SOR,110,Frontline Shuttle,Rare,Unit,Command,3
+SOR,111,Patrolling V-Wing,Common,Unit,Command,3
+SOR,112,Consortium StarViper,Common,Unit,Command,3
+SOR,113,Homestead Militia,Common,Unit,Command,3
+SOR,114,Escort Skiff,Common,Unit,Command,3
+SOR,115,Agent Kallus - Seeking the Rebels,Rare,Unit,Command,3
+SOR,116,Steadfast Battalion,Common,Unit,Command,3
+SOR,117,Mercenary Company,Common,Unit,Command,3
+SOR,118,97th Legion - Keeping the Peace on Sullust,Uncommon,Unit,Command,3
+SOR,119,Reinforcement Walker,Uncommon,Unit,Command,3
+SOR,120,Academy Training,Common,Upgrade,Command,3
+SOR,121,Hardpoint Heavy Blaster,Uncommon,Upgrade,Command,3
+SOR,122,Traitorous,Rare,Upgrade,Command,3
+SOR,123,Recruit,Common,Event,Command,3
+SOR,124,Tactical Advantage,Common,Event,Command,3
+SOR,125,Prepare For Takeoff,Uncommon,Event,Command,3
+SOR,126,Resupply,Common,Event,Command,3
+SOR,127,Strike True,Common,Event,Command,3
+SOR,128,Death Star Stormtrooper,Common,Unit,Aggression,3
+SOR,129,Admiral Ozzel - Overconfident,Uncommon,Unit,Aggression,3
+SOR,130,First Legion Snowtrooper,Common,Unit,Aggression,3
+SOR,131,Fifth Brother - Fear Hunter,Uncommon,Unit,Aggression,3
+SOR,132,Imperial Interceptor,Common,Unit,Aggression,3
+SOR,133,Seventh Sister - Implacable Inquisitor,Rare,Unit,Aggression,3
+SOR,134,Ruthless Raider,Uncommon,Unit,Aggression,3
+SOR,135,Emperor Palpatine - Master of the Dark Side,Rare,Unit,Aggression,3
+SOR,136,Vader's Lightsaber,Special,Upgrade,Aggression,3
+SOR,137,Fallen Lightsaber,Rare,Upgrade,Aggression,3
+SOR,138,Force Lightning,Legendary,Event,Aggression,3
+SOR,139,Force Choke,Uncommon,Event,Aggression,3
+SOR,140,SpecForce Soldier,Common,Unit,Aggression,3
+SOR,141,Green Squadron A-Wing,Common,Unit,Aggression,3
+SOR,142,Sabine Wren - Explosives Artist,Uncommon,Unit,Aggression,3
+SOR,143,Fighters For Freedom,Uncommon,Unit,Aggression,3
+SOR,144,Red Three - Unstoppable,Rare,Unit,Aggression,3
+SOR,145,K-2SO - Cassian's Counterpart,Rare,Unit,Aggression,3
+SOR,146,Zeb Orrelios - Headstrong Warrior,Uncommon,Unit,Aggression,3
+SOR,147,Black One - Scourge of Starkiller Base,Legendary,Unit,Aggression,3
+SOR,148,Guerilla Attack Pod,Common,Unit,Aggression,3
+SOR,149,Mace Windu - Party Crasher,Legendary,Unit,Aggression,3
+SOR,150,Heroic Sacrifice,Rare,Event,Aggression,3
+SOR,151,Karabast,Uncommon,Event,Aggression,3
+SOR,152,For a Cause I Believe In,Rare,Event,Aggression,3
+SOR,153,Saw Gerrera - Extremist,Rare,Unit,Aggression,3
+SOR,154,Rallying Cry,Uncommon,Event,Aggression,3
+SOR,155,Aggression,Legendary,Event,Aggression,3
+SOR,156,Benthic Two Tubes - Partisan Lieutenant,Uncommon,Unit,Aggression,3
+SOR,157,Cantina Braggart,Common,Unit,Aggression,3
+SOR,158,Jedha Agitator,Common,Unit,Aggression,3
+SOR,159,Partisan Insurgent,Common,Unit,Aggression,3
+SOR,160,Wolffe - Suspicious Veteran,Rare,Unit,Aggression,3
+SOR,161,Ardent Sympathizer,Common,Unit,Aggression,3
+SOR,162,Disabling Fang Fighter,Common,Unit,Aggression,3
+SOR,163,Star Wing Scout,Uncommon,Unit,Aggression,3
+SOR,164,Wampa,Common,Unit,Aggression,3
+SOR,165,Occupier Siege Tank,Common,Unit,Aggression,3
+SOR,166,Infiltrator's Skill,Common,Upgrade,Aggression,3
+SOR,167,Force Throw,Uncommon,Event,Aggression,3
+SOR,168,Precision Fire,Common,Event,Aggression,3
+SOR,169,Keep Fighting,Common,Event,Aggression,3
+SOR,170,Power Failure,Uncommon,Event,Aggression,3
+SOR,171,Mission Briefing,Common,Event,Aggression,3
+SOR,172,Open Fire,Common,Event,Aggression,3
+SOR,173,Bombing Run,Rare,Event,Aggression,3
+SOR,174,Smoke and Cinders,Rare,Event,Aggression,3
+SOR,175,Forced Surrender,Uncommon,Event,Aggression,3
+SOR,176,ISB Agent,Common,Unit,Cunning,3
+SOR,177,Bib Fortuna - Jabba's Majordomo,Uncommon,Unit,Cunning,3
+SOR,178,Cartel Spacer,Uncommon,Unit,Cunning,3
+SOR,179,Boba Fett - Disintegrator,Legendary,Unit,Cunning,3
+SOR,180,Seventh Fleet Defender,Common,Unit,Cunning,3
+SOR,181,Jabba the Hutt - Cunning Daimyo,Rare,Unit,Cunning,3
+SOR,182,Bossk - Deadly Stalker,Uncommon,Unit,Cunning,3
+SOR,183,Bounty Hunter Crew,Common,Unit,Cunning,3
+SOR,184,Fett's Firespray - Pursuing the Bounty,Rare,Unit,Cunning,3
+SOR,185,Chimaera - Flagship of the Seventh Fleet,Rare,Unit,Cunning,3
+SOR,186,No Good to Me Dead,Uncommon,Event,Cunning,3
+SOR,187,I Had No Choice,Rare,Event,Cunning,3
+SOR,188,Chopper - Metal Menace,Rare,Unit,Cunning,3
+SOR,189,Leia Organa - Defiant Princess,Special,Unit,Cunning,3
+SOR,190,Lothal Insurgent,Common,Unit,Cunning,3
+SOR,191,Vanguard Ace,Uncommon,Unit,Cunning,3
+SOR,192,Ezra Bridger - Resourceful Troublemaker,Uncommon,Unit,Cunning,3
+SOR,193,Millennium Falcon - Piece Of Junk,Legendary,Unit,Cunning,3
+SOR,194,Rogue Operative,Common,Unit,Cunning,3
+SOR,195,Auzituck Liberator Gunship,Common,Unit,Cunning,3
+SOR,196,Chewbacca - Loyal Companion,Uncommon,Unit,Cunning,3
+SOR,197,Lando Calrissian - Responsible Businessman,Rare,Unit,Cunning,3
+SOR,198,Han Solo - Reluctant Hero,Rare,Unit,Cunning,3
+SOR,199,Bamboozle,Uncommon,Event,Cunning,3
+SOR,200,Spark of Rebellion,Rare,Event,Cunning,3
+SOR,201,Bodhi Rook - Imperial Defector,Rare,Unit,Cunning,3
+SOR,202,Cantina Bouncer,Uncommon,Unit,Cunning,3
+SOR,203,Cunning,Legendary,Event,Cunning,3
+SOR,204,Greedo - Slow on the Draw,Uncommon,Unit,Cunning,3
+SOR,205,Jawa Scavenger,Common,Unit,Cunning,3
+SOR,206,Mining Guild TIE Fighter,Common,Unit,Cunning,3
+SOR,207,Crafty Smuggler,Common,Unit,Cunning,3
+SOR,208,Outer Rim Headhunter,Common,Unit,Cunning,3
+SOR,209,Pirated Starfighter,Uncommon,Unit,Cunning,3
+SOR,210,Swoop Racer,Common,Unit,Cunning,3
+SOR,211,Gamorrean Guards,Common,Unit,Cunning,3
+SOR,212,Strafing Gunship,Rare,Unit,Cunning,3
+SOR,213,Syndicate Lackeys,Common,Unit,Cunning,3
+SOR,214,Smuggling Compartment,Uncommon,Upgrade,Cunning,3
+SOR,215,Snapshot Reflexes,Common,Event,Cunning,3
+SOR,216,Disarm,Common,Event,Cunning,3
+SOR,217,Shoot First,Uncommon,Event,Cunning,3
+SOR,218,Asteroid Sanctuary,Common,Event,Cunning,3
+SOR,219,Sneak Attack,Rare,Event,Cunning,3
+SOR,220,Surprise Strike,Common,Event,Cunning,3
+SOR,221,Outmaneuver,Uncommon,Event,Cunning,3
+SOR,222,Waylay,Common,Event,Cunning,3
+SOR,223,Don't Get Cocky,Rare,Event,Cunning,3
+SOR,224,Change of Heart,Legendary,Event,Cunning,3
+SOR,225,TIE ln Fighter,Common,Unit,Villainy,3
+SOR,226,Admiral Motti - Brazen and Scornful,Special,Unit,Villainy,3
+SOR,227,Snowtrooper Lieutenant,Common,Unit,Villainy,3
+SOR,228,Viper Probe Droid,Common,Unit,Villainy,3
+SOR,229,Cell Block Guard,Common,Unit,Villainy,3
+SOR,230,General Veers - Blizzard Force Commander,Uncommon,Unit,Villainy,3
+SOR,231,TIE Advanced,Uncommon,Unit,Villainy,3
+SOR,232,AT-ST,Common,Unit,Villainy,3
+SOR,233,I Am Your Father,Special,Event,Villainy,3
+SOR,234,Maximum Firepower,Common,Event,Villainy,3
+SOR,235,Galactic Ambition,Rare,Event,Villainy,3
+SOR,236,R2-D2 - Ignoring Protocol,Special,Unit,Heroism,3
+SOR,237,Alliance X-Wing,Common,Unit,Heroism,3
+SOR,238,C-3P0 - Protocol Droid,Special,Unit,Heroism,3
+SOR,239,Rebel Pathfinder,Common,Unit,Heroism,3
+SOR,240,Fleet Lieutenant,Common,Unit,Heroism,3
+SOR,241,Wing Leader,Uncommon,Unit,Heroism,3
+SOR,242,General Dodonna - Massassi Group Commander,Uncommon,Unit,Heroism,3
+SOR,243,Regional Sympathizers,Common,Unit,Heroism,3
+SOR,244,Snowspeeder,Common,Unit,Heroism,3
+SOR,245,Medal Ceremony,Common,Event,Heroism,3
+SOR,246,You're My Only Hope,Rare,Event,Heroism,3
+SOR,247,Underworld Thug,Common,Unit,Neutral,3
+SOR,248,Volunteer Soldier,Common,Unit,Neutral,3
+SOR,249,Frontier AT-RT,Common,Unit,Neutral,3
+SOR,250,Corellian Freighter,Common,Unit,Neutral,3
+SOR,251,Confiscate,Common,Event,Neutral,3
+SOR,252,Restock,Common,Event,Neutral,3
