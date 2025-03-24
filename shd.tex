@@ -16,10 +16,10 @@
 
 \newcommand{\addulc}[1]{\texttt{\textcolor{white}{#1}}}
 \newcommand{\swuSet}[1]{\begin{tikzpicture}[remember picture,overlay]
-  \tikzset{shift={(current page.center)},xshift=10cm,yshift=-9.5cm}
-  \filldraw[black, thick] (0,0.5cm) -- (0,2.5cm) -- (0.8cm,3cm) -- (2.8cm,3cm) -- (3.6cm, 2.5cm) -- (3.6cm, 0.5cm) -- (2.8cm, 0) -- (0.8cm, 0) -- cycle;
-  \tikzstyle{every node}=[font=\fontsize{30}{30}\selectfont]
-  \draw (1.8cm, 1.5cm) node[white] {\texttt{\uppercase{#1}}};
+  \tikzset{shift={(current page.center)},xshift=13cm,yshift=-10cm}
+  \filldraw[black, thick] (0,0) -- (0,0.5cm) -- (0.5cm,1cm) -- (1.5cm,1cm) -- (1.5cm, 0) -- cycle;
+  \tikzstyle{every node}=[font=\fontsize{20}{20}\selectfont]
+  \draw (0.9cm, 0.5cm) node[white] {\texttt{\uppercase{#1}}};
 \end{tikzpicture}}
 
 \renewcommand{\TruncateMarker}{...}
@@ -28,7 +28,16 @@
   {\vspace{-4mm}}% format applied to label+text
   {}%label
   {0mm}% horizontal separation between label and title body
-  {\begin{minipage}{4mm}\vspace{-0.5mm}\begin{tikzpicture}\filldraw[black, thick] (0,0) -- (0,3mm) -- (25mm,3mm) -- (30mm,0.2mm) -- (50mm, 0.2mm) -- (50mm, 0) -- cycle; \end{tikzpicture}\end{minipage}\addulc}% before the title body
+  {\begin{minipage}{4mm}
+    \vspace{-0.5mm}
+    \begin{tikzpicture}
+      \filldraw[black, thick] (0,0) -- (0,3mm) -- (20mm,3mm) -- (23mm,0) -- cycle;
+      \filldraw[gray, thick] (25mm,0) -- (22mm,3mm) -- (27mm,3mm) -- (30mm,0.2mm) -- (55mm,0.2mm) -- (55mm, 0) -- cycle;
+      \filldraw[gray] (31mm,1.5mm) circle (2pt);
+      \filldraw[gray] (33mm,1.5mm) circle (2pt);
+    \end{tikzpicture}
+  \end{minipage}
+    \addulc}% before the title body
   []% after the title body
 
 \begin{document}

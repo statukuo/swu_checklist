@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.3.21)  21 MAR 2025 16:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.3.21)  24 MAR 2025 10:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -541,20 +541,20 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 (./sor.aux)
 \openout1 = `sor.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
  (/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
@@ -615,19 +615,19 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 34.
-Package microtype Info: Applying patch `item' on input line 34.
-Package microtype Info: Applying patch `toc' on input line 34.
-Package microtype Info: Applying patch `eqnum' on input line 34.
-Package microtype Info: Applying patch `footnote' on input line 34.
-Package microtype Info: Applying patch `verbatim' on input line 34.
+LaTeX Info: Redefining \microtypecontext on input line 43.
+Package microtype Info: Applying patch `item' on input line 43.
+Package microtype Info: Applying patch `toc' on input line 43.
+Package microtype Info: Applying patch `eqnum' on input line 43.
+Package microtype Info: Applying patch `footnote' on input line 43.
+Package microtype Info: Applying patch `verbatim' on input line 43.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 34.
+LaTeX Info: Redefining \showhyphens on input line 43.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -636,25 +636,25 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-Package ragged2e Info: ABD: executing \RaggedRight on input line 34.
+Package ragged2e Info: ABD: executing \RaggedRight on input line 43.
 
-Overfull \hbox (131.68268pt too wide) in paragraph at lines 38--38
+Overfull \hbox (145.90904pt too wide) in paragraph at lines 47--47
 [][]  
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 38.
+(Font)              <8> on input line 47.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 38.
+(Font)              <6> on input line 47.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 38.
-LaTeX Font Info:    Trying to load font information for OT1+zi4 on input line 3
-8.
+(Font)              <5> on input line 47.
+LaTeX Font Info:    Trying to load font information for OT1+zi4 on input line 4
+7.
 (/home/davidbarbero/texmf/tex/latex/inconsolata/ot1zi4.fd
 File: ot1zi4.fd 2018/01/14 OT1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `OT1/zi4/m/n' will be
-(Font)              scaled to size 8.0pt on input line 38.
+(Font)              scaled to size 8.0pt on input line 47.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `zi4' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
@@ -662,46 +662,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 <./images/c.png, id=4, 32.12pt x 32.12pt>
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 40.
+Package pdftex.def Info: ./images/c.png  used on input line 49.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 <./images/r.png, id=6, 32.12pt x 32.12pt>
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 41.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 42.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 43.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-<./images/s.png, id=7, 32.12pt x 32.12pt>
-File: ./images/s.png Graphic file (type png)
-<use ./images/s.png>
-Package pdftex.def Info: ./images/s.png  used on input line 44.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 45.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 46.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 47.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 48.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/s.png Graphic file (type png)
-<use ./images/s.png>
-Package pdftex.def Info: ./images/s.png  used on input line 49.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
 Package pdftex.def Info: ./images/r.png  used on input line 50.
@@ -714,17 +677,18 @@ File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
 Package pdftex.def Info: ./images/r.png  used on input line 52.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 53.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 54.
+<./images/s.png, id=7, 32.12pt x 32.12pt>
+File: ./images/s.png Graphic file (type png)
+<use ./images/s.png>
+Package pdftex.def Info: ./images/s.png  used on input line 53.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 55.
+Package pdftex.def Info: ./images/r.png  used on input line 54.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 55.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
@@ -734,47 +698,47 @@ File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 57.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-
-Overfull \hbox (131.68268pt too wide) in paragraph at lines 58--58
-[][]  
- []
-
+File: ./images/s.png Graphic file (type png)
+<use ./images/s.png>
+Package pdftex.def Info: ./images/s.png  used on input line 58.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 60.
+Package pdftex.def Info: ./images/r.png  used on input line 59.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 61.
+Package pdftex.def Info: ./images/c.png  used on input line 60.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 61.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 62.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 63.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 64.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 65.
+Package pdftex.def Info: ./images/c.png  used on input line 63.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 66.
+Package pdftex.def Info: ./images/r.png  used on input line 64.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 65.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 67.
+Package pdftex.def Info: ./images/c.png  used on input line 66.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 68.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+
+Overfull \hbox (145.90904pt too wide) in paragraph at lines 67--67
+[][]  
+ []
+
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
 Package pdftex.def Info: ./images/r.png  used on input line 69.
@@ -787,217 +751,220 @@ File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 71.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 72.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 73.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 74.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 75.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 76.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 77.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 78.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 79.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 80.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 
-Overfull \hbox (131.68268pt too wide) in paragraph at lines 72--72
+Overfull \hbox (145.90904pt too wide) in paragraph at lines 81--81
 [][]  
  []
 
 <./images/u.png, id=8, 32.12pt x 32.12pt>
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 74.
+Package pdftex.def Info: ./images/u.png  used on input line 83.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 75.
+Package pdftex.def Info: ./images/c.png  used on input line 84.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 76.
+Package pdftex.def Info: ./images/c.png  used on input line 85.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 77.
+Package pdftex.def Info: ./images/r.png  used on input line 86.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 78.
+Package pdftex.def Info: ./images/u.png  used on input line 87.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 79.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 80.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 81.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 82.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-<./images/l.png, id=9, 32.12pt x 32.12pt>
-File: ./images/l.png Graphic file (type png)
-<use ./images/l.png>
-Package pdftex.def Info: ./images/l.png  used on input line 83.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 84.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 85.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/l.png Graphic file (type png)
-<use ./images/l.png>
-Package pdftex.def Info: ./images/l.png  used on input line 86.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 87.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 88.
+Package pdftex.def Info: ./images/r.png  used on input line 88.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 89.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 90.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 91.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 92.
+Package pdftex.def Info: ./images/r.png  used on input line 90.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 91.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+<./images/l.png, id=9, 32.12pt x 32.12pt>
+File: ./images/l.png Graphic file (type png)
+<use ./images/l.png>
+Package pdftex.def Info: ./images/l.png  used on input line 92.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
 Package pdftex.def Info: ./images/u.png  used on input line 93.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 94.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/l.png Graphic file (type png)
 <use ./images/l.png>
-Package pdftex.def Info: ./images/l.png  used on input line 94.
+Package pdftex.def Info: ./images/l.png  used on input line 95.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 96.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 97.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 98.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 99.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 100.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 95.
+Package pdftex.def Info: ./images/r.png  used on input line 101.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 102.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/l.png Graphic file (type png)
+<use ./images/l.png>
+Package pdftex.def Info: ./images/l.png  used on input line 103.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 104.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/s.png Graphic file (type png)
 <use ./images/s.png>
-Package pdftex.def Info: ./images/s.png  used on input line 96.
+Package pdftex.def Info: ./images/s.png  used on input line 105.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 97.
+Package pdftex.def Info: ./images/r.png  used on input line 106.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 98.
+Package pdftex.def Info: ./images/u.png  used on input line 107.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 99.
+Package pdftex.def Info: ./images/r.png  used on input line 108.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 100.
+Package pdftex.def Info: ./images/u.png  used on input line 109.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/l.png Graphic file (type png)
 <use ./images/l.png>
-Package pdftex.def Info: ./images/l.png  used on input line 101.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 102.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 103.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 104.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 105.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 106.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 107.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 108.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 109.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 110.
+Package pdftex.def Info: ./images/l.png  used on input line 110.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 111.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 112.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 113.
+Package pdftex.def Info: ./images/u.png  used on input line 112.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 113.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
 Package pdftex.def Info: ./images/r.png  used on input line 114.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 115.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 115.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 116.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 117.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 117.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 118.
+Package pdftex.def Info: ./images/c.png  used on input line 118.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 119.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 120.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 120.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 121.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-
-Overfull \hbox (131.68268pt too wide) in paragraph at lines 122--122
-[][]  
- []
-
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 122.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 123.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
 Package pdftex.def Info: ./images/u.png  used on input line 124.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 125.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 125.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
@@ -1011,45 +978,42 @@ File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 128.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/s.png Graphic file (type png)
-<use ./images/s.png>
-Package pdftex.def Info: ./images/s.png  used on input line 129.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 130.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 129.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 131.
+Package pdftex.def Info: ./images/c.png  used on input line 130.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/l.png Graphic file (type png)
-<use ./images/l.png>
-Package pdftex.def Info: ./images/l.png  used on input line 132.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+
+Overfull \hbox (145.90904pt too wide) in paragraph at lines 131--131
+[][]  
+ []
+
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
 Package pdftex.def Info: ./images/u.png  used on input line 133.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 134.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 134.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/l.png Graphic file (type png)
-<use ./images/l.png>
-Package pdftex.def Info: ./images/l.png  used on input line 135.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 135.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
 Package pdftex.def Info: ./images/r.png  used on input line 136.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 137.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 138.
+Package pdftex.def Info: ./images/c.png  used on input line 137.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/s.png Graphic file (type png)
+<use ./images/s.png>
+Package pdftex.def Info: ./images/s.png  used on input line 138.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
@@ -1059,21 +1023,21 @@ File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 140.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/l.png Graphic file (type png)
+<use ./images/l.png>
+Package pdftex.def Info: ./images/l.png  used on input line 141.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 141.
+Package pdftex.def Info: ./images/u.png  used on input line 142.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 142.
+Package pdftex.def Info: ./images/r.png  used on input line 143.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 143.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 144.
+File: ./images/l.png Graphic file (type png)
+<use ./images/l.png>
+Package pdftex.def Info: ./images/l.png  used on input line 144.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
@@ -1083,65 +1047,65 @@ File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
 Package pdftex.def Info: ./images/u.png  used on input line 146.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 147.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 148.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 149.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 150.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 151.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 152.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 153.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 154.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 155.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/l.png Graphic file (type png)
 <use ./images/l.png>
-Package pdftex.def Info: ./images/l.png  used on input line 147.
+Package pdftex.def Info: ./images/l.png  used on input line 156.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 148.
+Package pdftex.def Info: ./images/u.png  used on input line 157.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 149.
+Package pdftex.def Info: ./images/r.png  used on input line 158.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 150.
+Package pdftex.def Info: ./images/r.png  used on input line 159.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 151.
+Package pdftex.def Info: ./images/u.png  used on input line 160.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/l.png Graphic file (type png)
 <use ./images/l.png>
-Package pdftex.def Info: ./images/l.png  used on input line 152.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 153.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 154.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 155.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 156.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 157.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 158.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 159.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 160.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 161.
+Package pdftex.def Info: ./images/l.png  used on input line 161.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
@@ -1151,106 +1115,106 @@ File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
 Package pdftex.def Info: ./images/u.png  used on input line 163.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 164.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 164.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 165.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 166.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 166.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 167.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 167.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 168.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 169.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 169.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 170.
+Package pdftex.def Info: ./images/c.png  used on input line 170.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 171.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 172.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-
-Overfull \hbox (131.68268pt too wide) in paragraph at lines 173--173
-[][]  
- []
-
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 175.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 172.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 176.
+Package pdftex.def Info: ./images/u.png  used on input line 173.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 174.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 175.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 176.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 177.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 178.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 178.
+Package pdftex.def Info: ./images/u.png  used on input line 179.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 179.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 180.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 181.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 182.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/s.png Graphic file (type png)
-<use ./images/s.png>
-Package pdftex.def Info: ./images/s.png  used on input line 183.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 184.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/l.png Graphic file (type png)
-<use ./images/l.png>
-Package pdftex.def Info: ./images/l.png  used on input line 185.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 186.
+Package pdftex.def Info: ./images/c.png  used on input line 180.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 187.
+Package pdftex.def Info: ./images/c.png  used on input line 181.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+
+Overfull \hbox (145.90904pt too wide) in paragraph at lines 182--182
+[][]  
+ []
+
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 184.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 185.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 186.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 187.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 188.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 189.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 189.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
@@ -1260,135 +1224,138 @@ File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
 Package pdftex.def Info: ./images/r.png  used on input line 191.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/s.png Graphic file (type png)
+<use ./images/s.png>
+Package pdftex.def Info: ./images/s.png  used on input line 192.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 192.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 193.
+Package pdftex.def Info: ./images/r.png  used on input line 193.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/l.png Graphic file (type png)
 <use ./images/l.png>
 Package pdftex.def Info: ./images/l.png  used on input line 194.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 195.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 195.
+Package pdftex.def Info: ./images/c.png  used on input line 196.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/l.png Graphic file (type png)
-<use ./images/l.png>
-Package pdftex.def Info: ./images/l.png  used on input line 196.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 197.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 197.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
 Package pdftex.def Info: ./images/u.png  used on input line 198.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 199.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 199.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
 Package pdftex.def Info: ./images/r.png  used on input line 200.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 201.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 201.
+Package pdftex.def Info: ./images/u.png  used on input line 202.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/l.png Graphic file (type png)
 <use ./images/l.png>
-Package pdftex.def Info: ./images/l.png  used on input line 202.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 203.
+Package pdftex.def Info: ./images/l.png  used on input line 203.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 204.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 205.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 206.
+File: ./images/l.png Graphic file (type png)
+<use ./images/l.png>
+Package pdftex.def Info: ./images/l.png  used on input line 205.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 207.
+Package pdftex.def Info: ./images/r.png  used on input line 206.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 208.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 207.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 209.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 208.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 209.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
 Package pdftex.def Info: ./images/u.png  used on input line 210.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 211.
+File: ./images/l.png Graphic file (type png)
+<use ./images/l.png>
+Package pdftex.def Info: ./images/l.png  used on input line 211.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 212.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 212.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 213.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 214.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 214.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 215.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 216.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 216.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 217.
+Package pdftex.def Info: ./images/c.png  used on input line 217.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 218.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 219.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 219.
+Package pdftex.def Info: ./images/c.png  used on input line 220.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 220.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 221.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 221.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 222.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 222.
+Package pdftex.def Info: ./images/u.png  used on input line 223.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-
-Overfull \hbox (131.68268pt too wide) in paragraph at lines 223--223
-[][]  
- []
-
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 224.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 225.
@@ -1397,17 +1364,17 @@ File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
 Package pdftex.def Info: ./images/u.png  used on input line 226.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 227.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/l.png Graphic file (type png)
-<use ./images/l.png>
-Package pdftex.def Info: ./images/l.png  used on input line 228.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 227.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 229.
+Package pdftex.def Info: ./images/c.png  used on input line 228.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 229.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
@@ -1417,133 +1384,130 @@ File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
 Package pdftex.def Info: ./images/u.png  used on input line 231.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+
+Overfull \hbox (145.90904pt too wide) in paragraph at lines 232--232
+[][]  
+ []
+
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 232.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 233.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 234.
+Package pdftex.def Info: ./images/c.png  used on input line 234.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
 Package pdftex.def Info: ./images/u.png  used on input line 235.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 236.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 236.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 237.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/s.png Graphic file (type png)
-<use ./images/s.png>
-Package pdftex.def Info: ./images/s.png  used on input line 238.
+File: ./images/l.png Graphic file (type png)
+<use ./images/l.png>
+Package pdftex.def Info: ./images/l.png  used on input line 237.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 239.
+Package pdftex.def Info: ./images/c.png  used on input line 238.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 239.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
 Package pdftex.def Info: ./images/u.png  used on input line 240.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 241.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/l.png Graphic file (type png)
-<use ./images/l.png>
-Package pdftex.def Info: ./images/l.png  used on input line 242.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 243.
+Package pdftex.def Info: ./images/c.png  used on input line 241.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 244.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 242.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 243.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 245.
+Package pdftex.def Info: ./images/u.png  used on input line 244.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 245.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
 Package pdftex.def Info: ./images/r.png  used on input line 246.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 247.
+File: ./images/s.png Graphic file (type png)
+<use ./images/s.png>
+Package pdftex.def Info: ./images/s.png  used on input line 247.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 248.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 248.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 249.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 250.
+Package pdftex.def Info: ./images/u.png  used on input line 249.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 251.
+Package pdftex.def Info: ./images/u.png  used on input line 250.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/l.png Graphic file (type png)
 <use ./images/l.png>
-Package pdftex.def Info: ./images/l.png  used on input line 252.
+Package pdftex.def Info: ./images/l.png  used on input line 251.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 252.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 253.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 253.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 254.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 255.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 256.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 257.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 258.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 259.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 260.
+Package pdftex.def Info: ./images/u.png  used on input line 254.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 261.
+Package pdftex.def Info: ./images/r.png  used on input line 255.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 262.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 256.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 263.
+Package pdftex.def Info: ./images/u.png  used on input line 257.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 258.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 259.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 260.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/l.png Graphic file (type png)
+<use ./images/l.png>
+Package pdftex.def Info: ./images/l.png  used on input line 261.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 262.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 263.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
@@ -1553,152 +1517,155 @@ File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 265.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 266.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/u.png Graphic file (type png)
 <use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 266.
+Package pdftex.def Info: ./images/u.png  used on input line 267.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 267.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 268.
+Package pdftex.def Info: ./images/c.png  used on input line 268.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 269.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 270.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 270.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 271.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 272.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 272.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/l.png Graphic file (type png)
-<use ./images/l.png>
-Package pdftex.def Info: ./images/l.png  used on input line 273.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 273.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-
-Overfull \hbox (131.68268pt too wide) in paragraph at lines 274--274
-[][]  
- []
-
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 274.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 275.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 276.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/s.png Graphic file (type png)
-<use ./images/s.png>
-Package pdftex.def Info: ./images/s.png  used on input line 277.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 277.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 278.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 279.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 279.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 280.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 281.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 281.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 282.
+File: ./images/l.png Graphic file (type png)
+<use ./images/l.png>
+Package pdftex.def Info: ./images/l.png  used on input line 282.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 283.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/s.png Graphic file (type png)
-<use ./images/s.png>
-Package pdftex.def Info: ./images/s.png  used on input line 284.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+
+Overfull \hbox (145.90904pt too wide) in paragraph at lines 283--283
+[][]  
+ []
+
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 285.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/r.png Graphic file (type png)
-<use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 286.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-
-Overfull \hbox (131.68268pt too wide) in paragraph at lines 287--287
-[][]  
- []
-
 File: ./images/s.png Graphic file (type png)
 <use ./images/s.png>
-Package pdftex.def Info: ./images/s.png  used on input line 289.
+Package pdftex.def Info: ./images/s.png  used on input line 286.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 290.
+Package pdftex.def Info: ./images/c.png  used on input line 287.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/s.png Graphic file (type png)
-<use ./images/s.png>
-Package pdftex.def Info: ./images/s.png  used on input line 291.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 288.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 289.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 290.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 291.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 292.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 293.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 294.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/u.png Graphic file (type png)
-<use ./images/u.png>
-Package pdftex.def Info: ./images/u.png  used on input line 295.
+File: ./images/s.png Graphic file (type png)
+<use ./images/s.png>
+Package pdftex.def Info: ./images/s.png  used on input line 293.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 296.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 297.
-(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 298.
+Package pdftex.def Info: ./images/c.png  used on input line 294.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/r.png Graphic file (type png)
 <use ./images/r.png>
-Package pdftex.def Info: ./images/r.png  used on input line 299.
+Package pdftex.def Info: ./images/r.png  used on input line 295.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 
-Overfull \hbox (131.68268pt too wide) in paragraph at lines 300--300
+Overfull \hbox (145.90904pt too wide) in paragraph at lines 296--296
 [][]  
  []
 
+File: ./images/s.png Graphic file (type png)
+<use ./images/s.png>
+Package pdftex.def Info: ./images/s.png  used on input line 298.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 299.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/s.png Graphic file (type png)
+<use ./images/s.png>
+Package pdftex.def Info: ./images/s.png  used on input line 300.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 301.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 302.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 303.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 303.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
-File: ./images/c.png Graphic file (type png)
-<use ./images/c.png>
-Package pdftex.def Info: ./images/c.png  used on input line 304.
+File: ./images/u.png Graphic file (type png)
+<use ./images/u.png>
+Package pdftex.def Info: ./images/u.png  used on input line 304.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
@@ -1712,12 +1679,45 @@ File: ./images/c.png Graphic file (type png)
 <use ./images/c.png>
 Package pdftex.def Info: ./images/c.png  used on input line 307.
 (pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/r.png Graphic file (type png)
+<use ./images/r.png>
+Package pdftex.def Info: ./images/r.png  used on input line 308.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
 
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <30> not available
-(Font)              size <24.88> substituted on input line 308.
+Overfull \hbox (145.90904pt too wide) in paragraph at lines 309--309
+[][]  
+ []
+
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 311.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 312.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 313.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 314.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 315.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+File: ./images/c.png Graphic file (type png)
+<use ./images/c.png>
+Package pdftex.def Info: ./images/c.png  used on input line 316.
+(pdftex.def)             Requested size: 8.53577pt x 8.53581pt.
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <20> not available
+(Font)              size <20.74> substituted on input line 317.
 
 LaTeX Font Info:    Font shape `OT1/zi4/m/n' will be
-(Font)              scaled to size 30.0pt on input line 308.
+(Font)              scaled to size 20.0pt on input line 317.
 [1
 
 {/home/davidbarbero/.texlive2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{
@@ -1731,13 +1731,13 @@ L3 programming layer <2024-05-27>
 
 
 LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 5.12pt have occurred.
+(Font)              up to 0.74pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
  15883 strings out of 475544
  314671 string characters out of 5777741
- 2058905 words of memory out of 5000000
+ 2059905 words of memory out of 5000000
  38244 multiletter control sequences out of 15000+600000
  561101 words of font info for 55 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -1745,7 +1745,7 @@ Here is how much of TeX's memory you used:
 </home/davidbarbero/texmf/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on sor.pdf (1 page, 57328 bytes).
+Output written on sor.pdf (1 page, 57619 bytes).
 PDF statistics:
  38 PDF objects out of 1000 (max. 8388607)
  18 compressed objects within 1 object stream
