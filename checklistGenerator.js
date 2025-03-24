@@ -17,7 +17,7 @@ fs.createReadStream("./" + process.argv[2])
 
         csvData[type].push({
             number: data[1].padStart(3, "0"),
-            checkboxes:new Array(parseInt(data[6])).fill("\\bigcirc"),
+            checkboxes:new Array(parseInt(data[6])).fill("\\begin{tikzpicture}\\draw[gray] (31mm,1.5mm) circle (2pt);\\end{tikzpicture}"),
             rarity: data[3][0].toLowerCase(),
             title: data[2].substring(0,25)
         })
@@ -29,7 +29,7 @@ fs.createReadStream("./" + process.argv[2])
             templateToReplace = templateToReplace.concat(`\\section{${type}} \n`);
             templateToReplace = templateToReplace.concat("\\vspace{-2mm} \n");
             csvData[type].forEach(entry => {
-                templateToReplace = templateToReplace.concat(`\\texttt{${entry.number}} \\(${entry.checkboxes.join("\\\!")}\\) \\makebox[2mm][r]{\\raisebox{-1mm}{\\includegraphics[height=3mm]{${entry.rarity}}}} \\texttt{${entry.title}} \\vspace{-0.3mm}\\\\ \n`);
+                templateToReplace = templateToReplace.concat(`\\texttt{${entry.number}} ${entry.checkboxes.join("")} \\makebox[2mm][r]{\\raisebox{-1mm}{\\includegraphics[height=3mm]{${entry.rarity}}}} \\texttt{${entry.title}} \\vspace{-0.3mm}\\\\ \n`);
             });
         }
         templateToReplace = templateToReplace.concat(`\\swuSet{${process.argv[2].split(".")[0]}}`)
