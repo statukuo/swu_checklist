@@ -1,0 +1,265 @@
+LOF,1,Kylo RenWe're Not Done Yet,Rare,Leader,Vigilance,1
+LOF,2,Mother TalzinPower Through Magick,Common,Leader,Vigilance,1
+LOF,3,Ahsoka TanoFighting For Peace,Common,Leader,Vigilance,1
+LOF,4,Kanan JarrusHelp Us Survive,Rare,Leader,Vigilance,1
+LOF,5,Morgan ElsbethFollowing the Call,Rare,Leader,Command,1
+LOF,6,Supreme Leader SnokeIn the Seat of Power,Common,Leader,Command,1
+LOF,7,Avar KrissMarshal of Starlight,Rare,Leader,Command,1
+LOF,8,Obi-Wan KenobiCourage Makes Heroes,Common,Leader,Command,1
+LOF,9,Darth MaulSith Revealed,Special,Leader,Aggression,1
+LOF,10,Third SisterSeething With Ambition,Common,Leader,Aggression,1
+LOF,11,Kit FistoFocused Jedi Master,Common,Leader,Aggression,1
+LOF,12,ReyNobody,Rare,Leader,Aggression,1
+LOF,13,Barriss OffeeWe Have Become Villains,Rare,Leader,Cunning,1
+LOF,14,Grand InquisitorStories Travel Quickly,Common,Leader,Cunning,1
+LOF,15,Cal KestisI Can't Keep Hiding,Common,Leader,Cunning,1
+LOF,16,Qui-Gon JinnStudent of the Living Force,Special,Leader,Cunning,1
+LOF,17,Darth RevanScourge of the Old Republic,Rare,Leader,Villany,1
+LOF,18,Anakin SkywalkerTempted by the Dark Side,Rare,Leader,Heroism,1
+LOF,19,Vergence Temple,Rare,Base,Vigilance,1
+LOF,20,Nightsister Lair,Common,Base,Vigilance,1
+LOF,21,Shadowed Undercity,Common,Base,Vigilance,1
+LOF,22,Mystic Monastery,Rare,Base,Command,1
+LOF,23,Jedi Temple,Common,Base,Command,1
+LOF,24,Starlight Temple,Common,Base,Command,1
+LOF,25,Temple of Destruction,Rare,Base,Aggression,1
+LOF,26,Fortress Vader,Common,Base,Aggression,1
+LOF,27,Strangled Cliffs,Common,Base,Aggression,1
+LOF,28,Tomb of Eilram,Rare,Base,Cunning,1
+LOF,29,Crystal Caves,Common,Base,Cunning,1
+LOF,30,The Holy City,Common,Base,Cunning,1
+LOF,31,KarisWe Don't Like Strangers,Uncommon,Unit,Vigilance,3
+LOF,32,Magistrate's Scout,Common,Unit,Vigilance,3
+LOF,33,Nameless Terror,Uncommon,Unit,Vigilance,3
+LOF,34,Supremacy TIE/sf,Common,Unit,Vigilance,3
+LOF,35,Talzin's Assassin,Common,Unit,Vigilance,3
+LOF,36,Old DakaOldest and Wisest,Uncommon,Unit,Vigilance,3
+LOF,37,Darth VaderTwilight of the Apprentice,Legendary,Unit,Vigilance,3
+LOF,38,"Pong KrellIt's Treason, Then",Rare,Unit,Vigilance,3
+LOF,39,Darth SidiousThe Phantom Menace,Special,Unit,Vigilance,3
+LOF,40,Kylo Ren's Lightsaber,Rare,Upgrade,Vigilance,3
+LOF,41,Drain Essence,Common,Event,Vigilance,3
+LOF,42,Always Two,Legendary,Event,Vigilance,3
+LOF,43,The Tragedy of Plagueis,Rare,Event,Vigilance,3
+LOF,44,Loth-Wolf,Common,Unit,Vigilance,3
+LOF,45,YaddleA Chance To Make Things Right,Rare,Unit,Vigilance,3
+LOF,46,Ezra BridgerAttuned With Life,Uncommon,Unit,Vigilance,3
+LOF,47,T-6 Shuttle 1974Stay Close,Rare,Unit,Vigilance,3
+LOF,48,Itinerant Warrior,Common,Unit,Vigilance,3
+LOF,49,Jedi Guardian,Common,Unit,Vigilance,3
+LOF,50,Plo KoonI Don't Believe in Chance,Uncommon,Unit,Vigilance,3
+LOF,51,Jedi Holocron,Rare,Upgrade,Vigilance,3
+LOF,52,Jedi Trials,Rare,Upgrade,Vigilance,3
+LOF,53,Heirloom Lightsaber,Common,Upgrade,Vigilance,3
+LOF,54,Calm in the Storm,Uncommon,Event,Vigilance,3
+LOF,55,DumeRedeem the Future,Rare,Unit,Vigilance,3
+LOF,56,Size Matters Not,Rare,Upgrade,Vigilance,3
+LOF,57,Owen LarsDevoted Uncle,Uncommon,Unit,Vigilance,3
+LOF,58,Guardian of the Whills,Common,Unit,Vigilance,3
+LOF,59,Nightsister Warrior,Common,Unit,Vigilance,3
+LOF,60,Padawan Starfighter,Common,Unit,Vigilance,3
+LOF,61,Secretive Sage,Common,Unit,Vigilance,3
+LOF,62,Axe WovesAccomplished Warrior,Rare,Unit,Vigilance,3
+LOF,63,Oggdo BogdoBogano Brute,Rare,Unit,Vigilance,3
+LOF,64,Tauntaun,Common,Unit,Vigilance,3
+LOF,65,"WattoNo Money, No Parts, No Deal",Uncommon,Unit,Vigilance,3
+LOF,66,Awakened Specters,Common,Unit,Vigilance,3
+LOF,67,"Chirrut ÎmweBlind, but not Deaf",Uncommon,Unit,Vigilance,3
+LOF,68,Luthen RaelMasquerading Antiquarian,Uncommon,Unit,Vigilance,3
+LOF,69,Graceful Purrgil,Common,Unit,Vigilance,3
+LOF,70,Anakin SkywalkerChampion of Mortis,Legendary,Unit,Vigilance,3
+LOF,71,Grappling Guardian,Common,Unit,Vigilance,3
+LOF,72,Priestesses of the ForceEternal,Uncommon,Unit,Vigilance,3
+LOF,73,MythosaurFolklore Awakened,Legendary,Unit,Vigilance,3
+LOF,74,Bolstered Endurance,Common,Upgrade,Vigilance,3
+LOF,75,Cure Wounds,Common,Event,Vigilance,3
+LOF,76,Soresu Stance,Uncommon,Event,Vigilance,3
+LOF,77,Crushing Blow,Common,Event,Vigilance,3
+LOF,78,Whirlwind of Power,Common,Event,Vigilance,3
+LOF,79,Shatterpoint,Uncommon,Event,Vigilance,3
+LOF,80,Exegol Patroller,Common,Unit,Command,3
+LOF,81,Sith Legionnaire,Uncommon,Unit,Command,3
+LOF,82,VaneéI Live to Serve,Uncommon,Unit,Command,3
+LOF,83,Captain EnochCaptain of the Guard,Rare,Unit,Command,3
+LOF,84,Knight of Ren,Common,Unit,Command,3
+LOF,85,Praetorian Guard,Common,Unit,Command,3
+LOF,86,Drengir Spawn,Rare,Unit,Command,3
+LOF,87,Eighth BrotherHunt Together,Uncommon,Unit,Command,3
+LOF,88,Eye of SionTo Peridea,Rare,Unit,Command,3
+LOF,89,SupremacyOf Unimaginable Size,Legendary,Unit,Command,3
+LOF,90,Inquisitor's Lightsaber,Common,Upgrade,Command,3
+LOF,91,Craving Power,Rare,Upgrade,Command,3
+LOF,92,Point Rain Reclaimer,Common,Unit,Command,3
+LOF,93,GungiFinding Himself,Uncommon,Unit,Command,3
+LOF,94,Jedi Consular,Common,Unit,Command,3
+LOF,95,Lor San TekkaSecret Keeper,Uncommon,Unit,Command,3
+LOF,96,Obi-Wan KenobiProtective Padawan,Special,Unit,Command,3
+LOF,97,Eeth KothSpiritual Warrior,Rare,Unit,Command,3
+LOF,98,Leia OrganaExtraordinary,Legendary,Unit,Command,3
+LOF,99,Paladin Training Corvette,Common,Unit,Command,3
+LOF,100,Kelleran BeqThe Sabered Hand,Uncommon,Unit,Command,3
+LOF,101,YodaMy Ally is the Force,Legendary,Unit,Command,3
+LOF,102,Yoda's Lightsaber,Rare,Upgrade,Command,3
+LOF,103,Following the Path,Common,Event,Command,3
+LOF,104,Luminous Beings,Rare,Event,Command,3
+LOF,105,Oppo RancisisAncient Councilor,Legendary,Unit,Command,3
+LOF,106,Acclamator Assault Ship,Uncommon,Unit,Command,3
+LOF,107,Village Tender,Common,Unit,Command,3
+LOF,108,MalakiliLoving Rancor Keeper,Rare,Unit,Command,3
+LOF,109,Mynock,Common,Unit,Command,3
+LOF,110,Hive Defense Wing,Common,Unit,Command,3
+LOF,111,Maz KanataThe Light Guides,Uncommon,Unit,Command,3
+LOF,112,Outer Rim Mystic,Common,Unit,Command,3
+LOF,113,Jedi Temple Guards,Common,Unit,Command,3
+LOF,114,Kaadu,Common,Unit,Command,3
+LOF,115,Dagoyan Master,Uncommon,Unit,Command,3
+LOF,116,Relic Scavenger,Common,Unit,Command,3
+LOF,117,Sifo-DyasCommissioning An Army,Rare,Unit,Command,3
+LOF,118,Terentatek,Common,Unit,Command,3
+LOF,119,Hyperspace Wayfarer,Common,Unit,Command,3
+LOF,120,Trident Assault Ship,Common,Unit,Command,3
+LOF,121,The Purrgil KingLeading The Journey,Rare,Unit,Command,3
+LOF,122,Pillio Star Compass,Uncommon,Upgrade,Command,3
+LOF,123,Directed by the Force,Uncommon,Event,Command,3
+LOF,124,Niman Strike,Uncommon,Event,Command,3
+LOF,125,The Burden of Masters,Rare,Event,Command,3
+LOF,126,Overpower,Common,Event,Command,3
+LOF,127,Rampage,Uncommon,Event,Command,3
+LOF,128,Protect the Pod,Common,Event,Command,3
+LOF,129,Acolyte of the Beyond,Common,Unit,Aggression,3
+LOF,130,"HK-47Exclamation: Die, Meatbag!",Legendary,Unit,Aggression,3
+LOF,131,Strikeship,Common,Unit,Aggression,3
+LOF,132,Grand InquisitorYou're Right to Be Afraid,Legendary,Unit,Aggression,3
+LOF,133,Purge Trooper,Common,Unit,Aggression,3
+LOF,134,Heavy Missile Gunship,Uncommon,Unit,Aggression,3
+LOF,135,ScytheIntimidating Silhouette,Rare,Unit,Aggression,3
+LOF,136,Thralls of the Coven,Common,Unit,Aggression,3
+LOF,137,Savage OpressImbued With Hate,Uncommon,Unit,Aggression,3
+LOF,138,Sith Holocron,Rare,Upgrade,Aggression,3
+LOF,139,Battle Fury,Uncommon,Upgrade,Aggression,3
+LOF,140,Darth Maul's Lightsaber,Special,Upgrade,Aggression,3
+LOF,141,Death Field,Rare,Event,Aggression,3
+LOF,142,Adi GalliaStern and Focused,Rare,Unit,Aggression,3
+LOF,143,Attuned Fyrnock,Common,Unit,Aggression,3
+LOF,144,Jedi Starfighter,Common,Unit,Aggression,3
+LOF,145,Jedi Knight,Common,Unit,Aggression,3
+LOF,146,Ki-Adi-MundiWe Must Push On,Uncommon,Unit,Aggression,3
+LOF,147,Kit Fisto's AetherspriteGood Hunting,Rare,Unit,Aggression,3
+LOF,148,ReyWith Palpatine's Power,Rare,Unit,Aggression,3
+LOF,149,Mace WinduLeaping into Action,Uncommon,Unit,Aggression,3
+LOF,150,Cin DralligEsteemed Blademaster,Legendary,Unit,Aggression,3
+LOF,151,Knight's Saber,Common,Upgrade,Aggression,3
+LOF,152,Focus Determines Reality,Uncommon,Event,Aggression,3
+LOF,153,Paz VizslaUnyielding Warrior,Rare,Unit,Aggression,3
+LOF,154,Witch of the Mist,Common,Unit,Aggression,3
+LOF,155,DRK-1 Probe Droid,Common,Unit,Aggression,3
+LOF,156,Infused Brawler,Uncommon,Unit,Aggression,3
+LOF,157,Cartel Interceptor,Common,Unit,Aggression,3
+LOF,158,Hyena Bomber,Common,Unit,Aggression,3
+LOF,159,Jedi In Hiding,Common,Unit,Aggression,3
+LOF,160,MerrinAlone with the Dead,Uncommon,Unit,Aggression,3
+LOF,161,Tuk'ata,Common,Unit,Aggression,3
+LOF,162,Hunting Nexu,Common,Unit,Aggression,3
+LOF,163,Quinlan VosDark Disciple,Uncommon,Unit,Aggression,3
+LOF,164,Wampa,Common,Unit,Aggression,3
+LOF,165,Asajj VentressHarden Your Heart,Uncommon,Unit,Aggression,3
+LOF,166,Blockade Runner,Uncommon,Unit,Aggression,3
+LOF,167,Saesee TiinCourageous Warrior,Uncommon,Unit,Aggression,3
+LOF,168,Ravenous Rathtar,Common,Unit,Aggression,3
+LOF,169,Invasion Control Ship,Rare,Unit,Aggression,3
+LOF,170,BenduDo You Fear the Storm?,Legendary,Unit,Aggression,3
+LOF,171,Heavy Blaster Cannon,Rare,Upgrade,Aggression,3
+LOF,172,Sorcerous Blast,Common,Event,Aggression,3
+LOF,173,Unleash Rage,Common,Event,Aggression,3
+LOF,174,Ataru Onslaught,Uncommon,Event,Aggression,3
+LOF,175,Do or Do Not,Common,Event,Aggression,3
+LOF,176,Lightsaber Throw,Uncommon,Event,Aggression,3
+LOF,177,Time of Crisis,Rare,Event,Aggression,3
+LOF,178,Adept of Anger,Common,Unit,Cunning,3
+LOF,179,Aurra SingPatient and Deadly,Uncommon,Unit,Cunning,3
+LOF,180,Deceptive Shade,Rare,Unit,Cunning,3
+LOF,181,Banking Clan Shuttle,Common,Unit,Cunning,3
+LOF,182,Nihil Marauder,Common,Unit,Cunning,3
+LOF,183,Shin HatiOvereager Apprentice,Uncommon,Unit,Cunning,3
+LOF,184,Second SisterSeeking the Holocron,Rare,Unit,Cunning,3
+LOF,185,Baylan SkollEnigmatic Master,Uncommon,Unit,Cunning,3
+LOF,186,Marchion RoEye of the Nihil,Legendary,Unit,Cunning,3
+LOF,187,Corrupted Saber,Common,Upgrade,Cunning,3
+LOF,188,As I Have Foreseen,Rare,Event,Cunning,3
+LOF,189,Liberated by Darkness,Rare,Event,Cunning,3
+LOF,190,Anakin SkywalkerForce Prodigy,Special,Unit,Cunning,3
+LOF,191,BD-1Beep Boo Boo Bweep,Uncommon,Unit,Cunning,3
+LOF,192,N-1 Starfighter,Common,Unit,Cunning,3
+LOF,193,Youngling Padawan,Common,Unit,Cunning,3
+LOF,194,J-Type Nubian Starship,Common,Unit,Cunning,3
+LOF,195,Vernestra RwohPrecocious Knight,Rare,Unit,Cunning,3
+LOF,196,Jedi Sentinel,Common,Unit,Cunning,3
+LOF,197,Qui-Gon Jinn's AetherspriteGuided by the Force,Special,Unit,Cunning,3
+LOF,198,Stinger MantisWhere Are We Going?,Uncommon,Unit,Cunning,3
+LOF,199,Depa BillabaA Higher Purpose,Uncommon,Unit,Cunning,3
+LOF,200,Qui-Gon JinnThe Negotiations Will Be Short,Legendary,Unit,Cunning,3
+LOF,201,Qui-Gon Jinn's Lightsaber,Special,Upgrade,Cunning,3
+LOF,202,Mind Trick,Rare,Event,Cunning,3
+LOF,203,Premonition of Doom,Rare,Event,Cunning,3
+LOF,204,ZuckussThe Findsman,Legendary,Unit,Cunning,3
+LOF,205,Force Speed,Uncommon,Event,Cunning,3
+LOF,206,Babu FrikHeyyy!,Rare,Unit,Cunning,3
+LOF,207,Loth-Cat,Common,Unit,Cunning,3
+LOF,208,Mysterious Hermit,Common,Unit,Cunning,3
+LOF,209,Tusken Tracker,Common,Unit,Cunning,3
+LOF,210,Charging Phillak,Common,Unit,Cunning,3
+LOF,211,DookuIt Is Too Late,Uncommon,Unit,Cunning,3
+LOF,212,Life Wind Sage,Common,Unit,Cunning,3
+LOF,213,The Legacy RunDoomed Debris,Legendary,Unit,Cunning,3
+LOF,214,Sorcerers of Tund,Common,Unit,Cunning,3
+LOF,215,Ascension Cable,Common,Upgrade,Cunning,3
+LOF,216,Disturbance in the Force,Common,Event,Cunning,3
+LOF,217,Force Slow,Common,Event,Cunning,3
+LOF,218,Impossible Escape,Uncommon,Event,Cunning,3
+LOF,219,Psychometry,Rare,Event,Cunning,3
+LOF,220,Shien Flurry,Uncommon,Event,Cunning,3
+LOF,221,Trust Your Instincts,Rare,Event,Cunning,3
+LOF,222,A Precarious Predicament,Uncommon,Event,Cunning,3
+LOF,223,Force Illusion,Uncommon,Event,Cunning,3
+LOF,224,Pounce,Common,Event,Cunning,3
+LOF,225,Three Lessons,Uncommon,Event,Cunning,3
+LOF,226,Tip the Scale,Common,Event,Cunning,3
+LOF,227,The Will of the Force,Common,Event,Cunning,3
+LOF,228,Forged Starfighter,Common,Unit,Villainy,3
+LOF,229,Kylo RenI Know Your Story,Uncommon,Unit,Villainy,3
+LOF,230,Fallen Jedi,Common,Unit,Villainy,3
+LOF,231,Darth TyranusServant of Sidious,Special,Unit,Villainy,3
+LOF,232,Sandtrooper Cavalry,Common,Unit,Villainy,3
+LOF,233,ScimitarSith Infiltrator,Special,Unit,Villainy,3
+LOF,234,Darth MalakCovetous Apprentice,Legendary,Unit,Villainy,3
+LOF,235,HK-87 Assassin Droid,Uncommon,Unit,Villainy,3
+LOF,236,Army of the Dead,Common,Unit,Villainy,3
+LOF,237,The SonEmbodiment of Darkness,Rare,Unit,Villainy,3
+LOF,238,Darth Revan's Lightsabers,Rare,Upgrade,Villainy,3
+LOF,239,Consumed by the Dark Side,Common,Event,Villainy,3
+LOF,240,Flight of the Inquisitor,Uncommon,Event,Villainy,3
+LOF,241,In the Shadows,Common,Event,Villainy,3
+LOF,242,Refugee of The Path,Common,Unit,Heroism,3
+LOF,243,Caretaker Matron,Uncommon,Unit,Heroism,3
+LOF,244,Jedi Vector,Uncommon,Unit,Heroism,3
+LOF,245,Vulptex,Common,Unit,Heroism,3
+LOF,246,GroguMysterious Child,Legendary,Unit,Heroism,3
+LOF,247,Gungan Warrior,Common,Unit,Heroism,3
+LOF,248,Jocasta NuThe Gift of Knowledge,Uncommon,Unit,Heroism,3
+LOF,249,Luke SkywalkerA Hero's Beginning,Rare,Unit,Heroism,3
+LOF,250,Medical Frigate,Common,Unit,Heroism,3
+LOF,251,Blue Squadron Assault Wing,Common,Unit,Heroism,3
+LOF,252,The DaughterEmbodiment of Light,Rare,Unit,Heroism,3
+LOF,253,Longbeam Cruiser,Common,Unit,Heroism,3
+LOF,254,Porg,Common,Unit,Neutral,3
+LOF,255,Curious Flock,Common,Unit,Neutral,3
+LOF,256,Gifted Urchin,Common,Unit,Neutral,3
+LOF,257,Kowakian Monkey-Lizard,Common,Unit,Neutral,3
+LOF,258,Peli MottoI Should Charge You More,Uncommon,Unit,Neutral,3
+LOF,259,Ravening Gundark,Common,Unit,Neutral,3
+LOF,260,The FatherMaintaining Balance,Legendary,Unit,Neutral,3
+LOF,261,Constructed Lightsaber,Legendary,Upgrade,Neutral,3
+LOF,262,Go Into Hiding,Common,Event,Neutral,3
+LOF,263,Last Words,Common,Event,Neutral,3
+LOF,264,It's Worse,Common,Event,Neutral,3
+LOF,-,The Force,Common,Force Token,Token,1
