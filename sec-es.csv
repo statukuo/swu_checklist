@@ -1,0 +1,264 @@
+SEC,1,Canciller Palpatine Así es como muere la libertad,Special,Leader,Vigilance,1
+SEC,2,Jabba el Hutt Una persona maravillosa,Common,Leader,Vigilance,1
+SEC,3,Lama Su Hemos modificado su estructura genética,Rare,Leader,Vigilance,1
+SEC,4,Leia Organa De un linaje secreto,Common,Leader,Vigilance,1
+SEC,5,Satine Kryze Fiel a sus principios,Rare,Leader,Vigilance,1
+SEC,6,Coronel Yularen Por eso nos organizamos,Common,Leader,Command,1
+SEC,7,Dryden Vos Nunca pido nada dos veces,Rare,Leader,Command,1
+SEC,8,Bail Organa Hace todo lo que puede,Rare,Leader,Command,1
+SEC,9,Mon Mothma Formando una coalición,Common,Leader,Command,1
+SEC,10,Dedra Meero No pierde el tiempo,Common,Leader,Aggression,1
+SEC,11,Gobernadora Pryce Tirana de Lothal,Rare,Leader,Aggression,1
+SEC,12,Cassian Andor¡Subid!,Rare,Leader,Aggression,1
+SEC,13,Luthen Rael¿No quieres luchar de verdad?,Common,Leader,Aggression,1
+SEC,14,Sly Moore Una donnadie,Common,Leader,Cunning,1
+SEC,15,C-3PORelaciones cibernéticas-humanas,Common,Leader,Cunning,1
+SEC,16,Padmé Amidala¿Qué tenéis que ocultar?,Special,Leader,Cunning,1
+SEC,17,SabéSombra de la reina,Rare,Leader,Cunning,1
+SEC,18,DJ¿Necesitáis transporte?,Rare,Leader,Cunning,1
+SEC,19,Calle Rix,Common,Base,Vigilance,1
+SEC,20,Distrito de ocio de Uscru,Common,Base,Vigilance,1
+SEC,21,Ciudad República,Common,Base,Command,1
+SEC,22,Edificio del Senado,Common,Base,Command,1
+SEC,23,Penitenciaría imperial,Common,Base,Aggression,1
+SEC,24,Cuartel general de inteligencia naval,Common,Base,Aggression,1
+SEC,25,Viviendas de la Amnistía,Common,Base,Cunning,1
+SEC,26,Monte Tantiss,Common,Base,Cunning,1
+SEC,27,Lanzadera del canciller Heraldo funesto,Special,Unit,Vigilance,3
+SEC,28,Acólito de Trayus,Common,Unit,Vigilance,3
+SEC,29,Zam Wesell Asesina indetectable,Uncommon,Unit,Vigilance,3
+SEC,30,Soldado de la muerte,Common,Unit,Vigilance,3
+SEC,31,Nute Gunray Prófugo de la justicia,Rare,Unit,Vigilance,3
+SEC,32,Lanzadera de mando de Kylo Ren Icono de autoridad,Legendary,Unit,Vigilance,3
+SEC,33,Sly Moore Testigo del poder,Uncommon,Unit,Vigilance,3
+SEC,34,Cad Bane¿Impresionada ahora?,Special,Unit,Vigilance,3
+SEC,35,Darth Sion Señor del dolor,Legendary,Unit,Vigilance,3
+SEC,36,Tropa de choque dogmática,Common,Unit,Vigilance,3
+SEC,37,Crucero Arrestor clase Cantwell,Uncommon,Unit,Vigilance,3
+SEC,38,Condena,Rare,Upgrade,Vigilance,3
+SEC,39,Reclamación de acreedor,Uncommon,Upgrade,Vigilance,3
+SEC,40,Poderes especiales,Rare,Event,Vigilance,3
+SEC,41,Consejero populista,Uncommon,Unit,Vigilance,3
+SEC,42,Cassian Andor Escondido hasta que todo se calme,Legendary,Unit,Vigilance,3
+SEC,43,Inversora chandrilana,Common,Unit,Vigilance,3
+SEC,44,Defensor populista,Common,Unit,Vigilance,3
+SEC,45,Senadora Chuchi Una voz para quienes no la tienen,Uncommon,Unit,Vigilance,3
+SEC,46,Galen Erso Nunca ganaréis,Rare,Unit,Vigilance,3
+SEC,47,Coronet Navío majestuoso,Uncommon,Unit,Vigilance,3
+SEC,48,Capitán Rex Hacia el fuego enemigo,Rare,Unit,Vigilance,3
+SEC,49,Patrulla del Escuadrón Jade,Common,Unit,Vigilance,3
+SEC,50,Vigilia Asegurando el futuro,Legendary,Unit,Vigilance,3
+SEC,51,Bo-Katan Kryze Sola,Rare,Unit,Vigilance,3
+SEC,52,Inmunidad diplomática,Uncommon,Upgrade,Vigilance,3
+SEC,53,Uno entre un millón,Rare,Event,Vigilance,3
+SEC,54,Exilio de la Fuerza,Rare,Upgrade,Vigilance,3
+SEC,55,Peregrina dhani,Common,Unit,Vigilance,3
+SEC,56,Cápsula de escape,Rare,Unit,Vigilance,3
+SEC,57,Lobot Coordinador de la Ciudad de las Nubes,Uncommon,Unit,Vigilance,3
+SEC,58,Jedi perdido,Common,Unit,Vigilance,3
+SEC,59,Guardia del Senado,Common,Unit,Vigilance,3
+SEC,60,Ala-X de la flota de defensa,Common,Unit,Vigilance,3
+SEC,61,Willrow Hood Fugitivo,Uncommon,Unit,Vigilance,3
+SEC,62,Ornitóptero bardotano,Common,Unit,Vigilance,3
+SEC,63,Comandos de la Cámara del Senado,Common,Unit,Vigilance,3
+SEC,64,Congreso de Malastare,Common,Unit,Vigilance,3
+SEC,65,Nala Se Directora médica y científica,Uncommon,Unit,Vigilance,3
+SEC,66,Enviados alderaanos,Common,Unit,Vigilance,3
+SEC,67,Cañón móvil umbarano,Uncommon,Unit,Vigilance,3
+SEC,68,Lando Calrissian Confiad en mí,Legendary,Unit,Vigilance,3
+SEC,69,Escurridiza,Common,Upgrade,Vigilance,3
+SEC,70,Protección fortuita,Common,Upgrade,Vigilance,3
+SEC,71,Devoción de los discípulos,Uncommon,Upgrade,Vigilance,3
+SEC,72,Buscar en los archivos,Common,Event,Vigilance,3
+SEC,73,El Ojo de Aldhani,Rare,Event,Vigilance,3
+SEC,74,Petición de auxilio,Common,Event,Vigilance,3
+SEC,75,Ciencia y defensa,Common,Event,Vigilance,3
+SEC,76,Acusación de asesinato,Uncommon,Event,Vigilance,3
+SEC,77,Represalia,Common,Event,Vigilance,3
+SEC,78,Desastre hiperespacial,Rare,Event,Vigilance,3
+SEC,79,Político corrupto,Special,Unit,Vigilance,3
+SEC,80,Soldado oscuro imperial,Common,Unit,Vigilance,3
+SEC,81,Mayor Partagaz Trata enfermedades,Rare,Unit,Command,3
+SEC,82,Canciller Palpatine Yo soy el Senado,Rare,Unit,Command,3
+SEC,83,Lanzadera de la OSI,Common,Unit,Command,3
+SEC,84,Mas Amedda Cómplice del poder,Uncommon,Unit,Command,3
+SEC,85,Vicealmirante Rampart Según lo previsto,Rare,Unit,Command,3
+SEC,86,Comando cruel,Common,Unit,Command,3
+SEC,87,Dedra Meero Tiene datos verificables,Uncommon,Unit,Command,3
+SEC,88,Primera Luz Elegancia ominosa,Rare,Unit,Command,3
+SEC,89,Transporte de personal de Pre Mor,Uncommon,Unit,Command,3
+SEC,90,Director Krennic No pierdo nada más que tiempo,Legendary,Unit,Command,3
+SEC,91,Instigar guerras corporativas,Uncommon,Event,Command,3
+SEC,92,Yo soy el Senado,Special,Event,Command,3
+SEC,93,C-3PO¿Hay algo que yo pueda hacer?,Uncommon,Unit,Command,3
+SEC,94,Mina Bonteri Es necesario acabar con esta guerra,Uncommon,Unit,Command,3
+SEC,95,Seguridad de Theed,Common,Unit,Command,3
+SEC,96,Ahsoka Tano Lo aprendí de ti,Special,Unit,Command,3
+SEC,97,Orador estimado,Common,Unit,Command,3
+SEC,98,Capitán Typho Todas las precauciones necesarias,Special,Unit,Command,3
+SEC,99,Astronave real de Naboo Digna de una reina,Rare,Unit,Command,3
+SEC,100,Comando dresseliano,Common,Unit,Command,3
+SEC,101,Reina Amidala En defensa de su pueblo,Legendary,Unit,Command,3
+SEC,102,Dignatarios reconocidos,Uncommon,Unit,Command,3
+SEC,103,Mon Mothma Se aferra a la esperanza,Rare,Unit,Command,3
+SEC,104,Figura de unidad,Legendary,Upgrade,Command,3
+SEC,105,Amistad renovada,Uncommon,Event,Command,3
+SEC,106,Desarticular la conspiración,Rare,Event,Command,3
+SEC,107,Canciller Valorum Funcionario público,Rare,Unit,Command,3
+SEC,108,Asistente de senador,Common,Unit,Command,3
+SEC,109,Enviado diplomático,Common,Unit,Command,3
+SEC,110,Batería droide GNK,Common,Unit,Command,3
+SEC,111,Jar Jar Binks Misa propongo…,Uncommon,Unit,Command,3
+SEC,112,Orn Free Taa Traficante de influencia política,Rare,Unit,Command,3
+SEC,113,Comando de Daro,Common,Unit,Command,3
+SEC,114,Kino Loy Respondéis ante mí,Uncommon,Unit,Command,3
+SEC,115,Lanzadera Taylander,Uncommon,Unit,Command,3
+SEC,116,Esquife estelar Nubian,Common,Unit,Command,3
+SEC,117,Crucero consular,Common,Unit,Command,3
+SEC,118,Asamblea Raxiana,Common,Unit,Command,3
+SEC,119,Crisol Siglos de sabiduría,Uncommon,Unit,Command,3
+SEC,120,Fuerza de seguridad de Naboo,Common,Unit,Command,3
+SEC,121,Alimaña sombría,Common,Unit,Command,3
+SEC,122,Vuutun Palaa Nave de control de droides,Legendary,Unit,Command,3
+SEC,123,Poder revelado,Common,Upgrade,Command,3
+SEC,124,Asignación de presupuestos,Common,Event,Command,3
+SEC,125,Reconocimiento,Common,Event,Command,3
+SEC,126,Impuestos sobre las rutas comerciales,Rare,Event,Command,3
+SEC,127,Acusación de corrupción,Uncommon,Event,Command,3
+SEC,128,Convocar al Senado,Uncommon,Event,Command,3
+SEC,129,Con un estruendoso aplauso,Common,Event,Command,3
+SEC,130,Revuelta en Ferrix,Common,Event,Command,3
+SEC,131,Hablemos,Legendary,Event,Command,3
+SEC,132,Fuerza de ocupación imperial,Common,Unit,Aggression,3
+SEC,133,Syril Karn¿Dónde está?,Rare,Unit,Aggression,3
+SEC,134,Droide asesino de cacería,Common,Unit,Aggression,3
+SEC,135,Droide cangrejo escarbador,Uncommon,Unit,Aggression,3
+SEC,136,Arihnda Pryce Abriéndose paso hacia el poder,Rare,Unit,Aggression,3
+SEC,137,Dryden Vos Estoy muy alterado,Legendary,Unit,Aggression,3
+SEC,138,Escuadrón de represión,Common,Unit,Aggression,3
+SEC,139,Miraj Scintel Los débiles deben arrodillarse,Rare,Unit,Aggression,3
+SEC,140,Hondo Ohnaka Date prisa,Uncommon,Unit,Aggression,3
+SEC,141,El Galeón Nave pirata,Uncommon,Unit,Aggression,3
+SEC,142,Fulminatriz Exterminadora de flotas,Rare,Unit,Aggression,3
+SEC,143,La Escuadra de Élite Neutraliza insurgentes,Rare,Unit,Aggression,3
+SEC,144,Ataque de piratas de la tempestad,Uncommon,Event,Aggression,3
+SEC,145,Confiar en la victoria,Legendary,Event,Aggression,3
+SEC,146,Funcionaria insubordinada,Common,Unit,Aggression,3
+SEC,147,Chopper Héroe de guerra,Legendary,Unit,Aggression,3
+SEC,148,Karis Nemik La libertad es una idea pura,Rare,Unit,Aggression,3
+SEC,149,Kaydel Connix Por nuestra supervivencia,Uncommon,Unit,Aggression,3
+SEC,150,Comando audaz,Uncommon,Unit,Aggression,3
+SEC,151,Kazuda Xiono No soy un espía,Uncommon,Unit,Aggression,3
+SEC,152,Ala-X de fuerza de choque,Common,Unit,Aggression,3
+SEC,153,Remolcadora de Luthen Contramedidas armadas,Rare,Unit,Aggression,3
+SEC,154,Coalición del Borde Interior,Common,Unit,Aggression,3
+SEC,155,Alexsandr Kallus Con un nuevo propósito,Rare,Unit,Aggression,3
+SEC,156,Manifiesto de Nemik,Legendary,Upgrade,Aggression,3
+SEC,157,Una salida,Rare,Event,Aggression,3
+SEC,158,La opresión engendra la rebelión,Uncommon,Event,Aggression,3
+SEC,159,Presidente Papanoida Diplomático indoblegable,Rare,Unit,Aggression,3
+SEC,160,Rebelde temerario,Common,Unit,Aggression,3
+SEC,161,Saltador Estelar de contrabando,Common,Unit,Aggression,3
+SEC,162,Crosshair Asaltado por la duda,Uncommon,Unit,Aggression,3
+SEC,163,Alguacil del Borde Exterior,Common,Unit,Aggression,3
+SEC,164,Guerrero del clan Ordo,Common,Unit,Aggression,3
+SEC,165,Instructor de la Academia estricto,Common,Unit,Aggression,3
+SEC,166,Caza estelar Aurek de la República,Common,Unit,Aggression,3
+SEC,167,Policía de los Subterráneos de Coruscant,Common,Unit,Aggression,3
+SEC,168,Ziton Moj Matón del Sol Negro,Rare,Unit,Aggression,3
+SEC,169,AAT incinerador,Uncommon,Unit,Aggression,3
+SEC,170,Sabuesos corellianos,Common,Unit,Aggression,3
+SEC,171,Castigadora No hace prisioneros,Rare,Unit,Aggression,3
+SEC,172,Cinta Kaz La lucha es lo primero,Uncommon,Unit,Aggression,3
+SEC,173,Andador de guerra de la República,Common,Unit,Aggression,3
+SEC,174,Ala-U de Saw Gerrera Rompe las reglas,Rare,Unit,Aggression,3
+SEC,175,Ambición recompensada,Common,Upgrade,Aggression,3
+SEC,176,Ferocidad súbita,Common,Upgrade,Aggression,3
+SEC,177,Esto aún no ha terminado,Uncommon,Event,Aggression,3
+SEC,178,Seguir la pista,Common,Event,Aggression,3
+SEC,179,Negociaciones agresivas,Uncommon,Event,Aggression,3
+SEC,180,Llamémoslo guerra,Common,Event,Aggression,3
+SEC,181,Investigación no autorizada,Common,Event,Aggression,3
+SEC,182,Acusación de traición,Uncommon,Event,Aggression,3
+SEC,183,Derribar la cumbre,Rare,Event,Aggression,3
+SEC,184,Agente de la OSI,Common,Unit,Cunning,3
+SEC,185,Caza TIE estridente,Uncommon,Unit,Cunning,3
+SEC,186,Garindan Proveedor de información,Uncommon,Unit,Cunning,3
+SEC,187,General Grievous Se escabulle correteando,Rare,Unit,Cunning,3
+SEC,188,Darth Traya Señora de la traición,Legendary,Unit,Cunning,3
+SEC,189,Nave monoplaza al acecho,Common,Unit,Cunning,3
+SEC,190,DesalmadoÁgil y veloz,Uncommon,Unit,Cunning,3
+SEC,191,Delegación de la Federación de Comercio,Common,Unit,Cunning,3
+SEC,192,Gran moff Tarkin Apropiándose del éxito de Krennic,Rare,Unit,Cunning,3
+SEC,193,Gran almirante Thrawn Gran confabulador,Legendary,Unit,Cunning,3
+SEC,194,Armada y en perfecto funcionamiento,Rare,Event,Cunning,3
+SEC,195,Arresto,Rare,Event,Cunning,3
+SEC,196,Nadie nunca lo ha sabido,Uncommon,Event,Cunning,3
+SEC,197,Doncella real furtiva,Special,Unit,Cunning,3
+SEC,198,Bail Organa Respondiendo a la catástrofe,Uncommon,Unit,Cunning,3
+SEC,199,Caza del Escuadrón Bravo,Common,Unit,Cunning,3
+SEC,200,Joven senador,Common,Unit,Cunning,3
+SEC,201,Anakin Skywalker Marido secreto,Special,Unit,Cunning,3
+SEC,202,Propagandista rebelde,Uncommon,Unit,Cunning,3
+SEC,203,Tala Durith Puedo colarte,Rare,Unit,Cunning,3
+SEC,204,As Azul Bólido colorido,Rare,Unit,Cunning,3
+SEC,205,Obi-Wan Kenobi Buscando lo que no existe,Legendary,Unit,Cunning,3
+SEC,206,Emisarios de Ryloth,Common,Unit,Cunning,3
+SEC,207,Iluminadora Tengo una idea,Legendary,Unit,Cunning,3
+SEC,208,Hunter Rastreador extraordinario,Uncommon,Unit,Cunning,3
+SEC,209,El mandaloriano Limpiando Nevarro,Rare,Unit,Cunning,3
+SEC,210,Unidad Vía Estelar robada,Rare,Upgrade,Cunning,3
+SEC,211,Fe en tus amigos,Uncommon,Event,Cunning,3
+SEC,212,Libertino Tiene nuevo dueño,Rare,Unit,Cunning,3
+SEC,213,Ala-A,Common,Unit,Cunning,3
+SEC,214,Saltador Aéreo para barrancos,Common,Unit,Cunning,3
+SEC,215,Vainípieda de emisario,Common,Unit,Cunning,3
+SEC,216,Burócrata de ordenanzas,Common,Unit,Cunning,3
+SEC,217,Caza furtivo Zenuas,Common,Unit,Cunning,3
+SEC,218,Cikatro Vizago Los negocios son lo único que importa,Uncommon,Unit,Cunning,3
+SEC,219,Halcón de Ébano Causa y efecto,Rare,Unit,Cunning,3
+SEC,220,Pirata informático a sueldo,Uncommon,Unit,Cunning,3
+SEC,221,Droide astromecánico temperamental,Common,Unit,Cunning,3
+SEC,222,Usurero,Common,Unit,Cunning,3
+SEC,223,Investigadores de la duquesa,Common,Unit,Cunning,3
+SEC,224,"Vel Sartha Un camino, una decisión",Uncommon,Unit,Cunning,3
+SEC,225,Synara San Oculta un secreto,Legendary,Unit,Cunning,3
+SEC,226,Ligera sospecha,Common,Upgrade,Cunning,3
+SEC,227,Modificaciones especiales,Rare,Upgrade,Cunning,3
+SEC,228,Acelerar nuestro plan,Common,Event,Cunning,3
+SEC,229,Pillar desprevenido,Common,Event,Cunning,3
+SEC,230,Acusación de espionaje,Uncommon,Event,Cunning,3
+SEC,231,Incriminación,Rare,Event,Cunning,3
+SEC,232,Susurros de Kreia,Common,Event,Cunning,3
+SEC,233,Engatusar,Common,Event,Cunning,3
+SEC,234,Trámites interminables,Common,Event,Cunning,3
+SEC,235,El vehículo equivocado,Uncommon,Event,Cunning,3
+SEC,236,Operación encubierta,Uncommon,Event,Cunning,3
+SEC,237,Edecán del Consejo Supremo,Common,Unit,Villainy,3
+SEC,238,Asesino sith,Common,Unit,Villainy,3
+SEC,239,Droide sonda Víbora,Common,Unit,Villainy,3
+SEC,240,Caza estelar del Cártel Hutt,Common,Unit,Villainy,3
+SEC,241,Político avasallador,Common,Unit,Villainy,3
+SEC,242,Elia Kane Falsa conversa,Uncommon,Unit,Villainy,3
+SEC,243,Infantería FN,Common,Unit,Villainy,3
+SEC,244,Darth Nihilus Señor del hambre,Legendary,Unit,Villainy,3
+SEC,245,'Cuándo' ya es 'ahora',Uncommon,Event,Villainy,3
+SEC,246,Desprecio por la cultura,Common,Event,Villainy,3
+SEC,247,El mal está por doquier,Rare,Event,Villainy,3
+SEC,248,B2EMOEso son dos mentiras,Uncommon,Unit,Heroism,3
+SEC,249,Consejero del Alto Mando,Common,Unit,Heroism,3
+SEC,250,Señalizador rebelde,Common,Unit,Heroism,3
+SEC,251,Veterano de Crait,Common,Unit,Heroism,3
+SEC,252,Maarva Andor Estábamos dormidos,Uncommon,Unit,Heroism,3
+SEC,253,Agente encubierto,Common,Unit,Heroism,3
+SEC,254,ARC-170 heroico,Common,Unit,Heroism,3
+SEC,255,Tanque de escolta remota,Common,Unit,Heroism,3
+SEC,256,Autoridad moral,Rare,Upgrade,Heroism,3
+SEC,257,Restablecer la libertad,Rare,Event,Heroism,3
+SEC,258,Resistencia tribal,Common,Event,Heroism,3
+SEC,259,ASP obrero,Common,Unit,Neutral,3
+SEC,260,Lanzadera de inspector,Common,Unit,Neutral,3
+SEC,261,Senadora inspiradora,Common,Unit,Neutral,3
+SEC,262,Comisión de Ando,Common,Unit,Neutral,3
+SEC,263,Sonda asesina,Common,Unit,Neutral,3
+SEC,264,Contactos clandestinos,Common,Upgrade,Neutral,3
