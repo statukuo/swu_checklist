@@ -76,8 +76,8 @@ SEC,75,Ciencia y defensa,Common,Event,Vigilance,3
 SEC,76,Acusación de asesinato,Uncommon,Event,Vigilance,3
 SEC,77,Represalia,Common,Event,Vigilance,3
 SEC,78,Desastre hiperespacial,Rare,Event,Vigilance,3
-SEC,79,Político corrupto,Special,Unit,Vigilance,3
-SEC,80,Soldado oscuro imperial,Common,Unit,Vigilance,3
+SEC,79,Político corrupto,Special,Unit,Command,3
+SEC,80,Soldado oscuro imperial,Common,Unit,Command,3
 SEC,81,Mayor Partagaz Trata enfermedades,Rare,Unit,Command,3
 SEC,82,Canciller Palpatine Yo soy el Senado,Rare,Unit,Command,3
 SEC,83,Lanzadera de la OSI,Common,Unit,Command,3

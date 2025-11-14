@@ -76,8 +76,8 @@ SEC,75,Knowledge and Defense,Common,Event,Vigilance,3
 SEC,76,Charged with Murder,Uncommon,Event,Vigilance,3
 SEC,77,Retaliation,Common,Event,Vigilance,3
 SEC,78,Hyperspace Disaster,Rare,Event,Vigilance,3
-SEC,79,Corrupt Politician,Special,Unit,Vigilance,3
-SEC,80,Imperial Dark Trooper,Common,Unit,Vigilance,3
+SEC,79,Corrupt Politician,Special,Unit,Command,3
+SEC,80,Imperial Dark Trooper,Common,Unit,Command,3
 SEC,81,Major Partagaz Healthcare Provider,Rare,Unit,Command,3
 SEC,82,Chancellor Palpatine I Am the Senate,Rare,Unit,Command,3
 SEC,83,ISB Shuttle,Common,Unit,Command,3
