@@ -1,0 +1,264 @@
+LAW,001,Saw Gerrera Bring Down the Empire,Rare,Leader,Aggression Command ,1
+LAW,002,Tobias Beckett People are Predictable,Rare,Leader,Cunning Vigilance ,1
+LAW,003,Agent Kallus Reconsider Your Allegiance,Rare,Leader,Vigilance  ,1
+LAW,004,Aurra Sing Assassin,Common,Leader,Vigilance  ,1
+LAW,005,Jyn Erso Time to Fight,Rare,Leader,Vigilance  ,1
+LAW,006,Vel Sartha Aldhani Insurgent,Common,Leader,Vigilance  ,1
+LAW,007,Boba Fett Krayt's Claw Commander,Common,Leader,Command  ,1
+LAW,008,Director Krennic Amidst My Achievement,Rare,Leader,Command  ,1
+LAW,009,Hera Syndulla Not Fighting Alone,Common,Leader,Command  ,1
+LAW,010,Leia Organa Someone Who Loves You,Special,Leader,Command  ,1
+LAW,011,Darth Vader Unstoppable,Common,Leader,Aggression  ,1
+LAW,012,Sebulba Especially Dangerous Dug,Rare,Leader,Aggression  ,1
+LAW,013,Chewbacca Hero of Kessel,Rare,Leader,Aggression  ,1
+LAW,014,Enfys Nest Until We Can Go No Higher,Common,Leader,Aggression  ,1
+LAW,015,Jabba the Hutt Crime Boss,Special,Leader,Cunning  ,1
+LAW,016,The Client Please Lower Your Blaster,Common,Leader,Cunning  ,1
+LAW,017,Han Solo I Got a Really Good Feeling,Common,Leader,Cunning  ,1
+LAW,018,Lando Calrissian Full Sabacc,Rare,Leader,Cunning  ,1
+LAW,019,Alliance Outpost,Rare,Base,Vigilance ,1
+LAW,020,Daimyo's Palace,Common,Base,Vigilance ,1
+LAW,021,Coaxium Mine,Common,Base,Vigilance ,1
+LAW,022,Aldhani Garrison,Common,Base,Command ,1
+LAW,023,Great Pit of Carkoon,Special,Base,Command ,1
+LAW,024,Imperial Command Complex,Common,Base,Command ,1
+LAW,025,Contested Caverns,Common,Base,Aggression ,1
+LAW,026,Shipbreaking Yard,Rare,Base,Aggression ,1
+LAW,027,Stygeon Spire,Common,Base,Aggression ,1
+LAW,028,Canto Bight,Common,Base,Cunning ,1
+LAW,029,Citadel Research Center,Rare,Base,Cunning ,1
+LAW,030,Partisan Hideout,Common,Base,Cunning ,1
+LAW,031,Bossk Join Our Merry Band,Uncommon,Unit,Command Vigilance  ,3
+LAW,032,Cad Bane Now It's My Turn,Legendary,Unit,Command Vigilance  ,3
+LAW,033,Hound's Tooth Hunters' Approach,Rare,Unit,Command Vigilance  ,3
+LAW,034,Chewbacca Mighty Rescuer,Legendary,Unit,Command Vigilance  ,3
+LAW,035,Ezra Bridger Spectre Six,Uncommon,Unit,Command Vigilance  ,3
+LAW,036,Obi-Wan Kenobi Protector of Felucia,Legendary,Unit,Command Vigilance  ,3
+LAW,037,Han Solo Hibernation Sick,Special,Unit,Command Vigilance ,3
+LAW,038,Lepi Lookout,Common,Unit,Command Vigilance ,3
+LAW,039,Latts Razzi Deadly Whipmaster,Rare,Unit,Command Vigilance ,3
+LAW,040,Taramyn Barcona Eyes Front!,Uncommon,Unit,Command Vigilance ,3
+LAW,041,Nothing Left to Fear,Uncommon,Event,Command Vigilance ,3
+LAW,042,IG-88 Programmed to Kill,Rare,Unit,Aggression Vigilance  ,3
+LAW,043,Shadow Cloaking,Uncommon,Event,Aggression Vigilance  ,3
+LAW,044,Single Reactor Ignition,Legendary,Event,Aggression Vigilance  ,3
+LAW,045,Zeb Orellios Spectre Four,Uncommon,Unit,Aggression Vigilance  ,3
+LAW,046,Chirrut Îmwe I Don't Need Luck,Rare,Unit,Aggression Vigilance  ,3
+LAW,047,Baze Malbus Good Luck,Rare,Unit,Aggression Vigilance  ,3
+LAW,048,Chio Fain Four-Armed Slicer,Uncommon,Unit,Aggression Vigilance ,3
+LAW,049,Bith Brute,Common,Unit,Aggression Vigilance ,3
+LAW,050,Honnah OINK! SQUEE!,Uncommon,Unit,Aggression Vigilance ,3
+LAW,051,Beilert Valance Target: Vader,Rare,Unit,Aggression Vigilance ,3
+LAW,052,The Mandalorian Let's See the Puck,Legendary,Unit,Aggression Vigilance ,3
+LAW,053,Dengar Take Your Shot,Uncommon,Unit,Aggression Command  ,3
+LAW,054,Maul Master of the Shadow Collective,Legendary,Unit,Aggression Command  ,3
+LAW,055,Chopper Spectre Three,Uncommon,Unit,Aggression Command  ,3
+LAW,056,Cassian Andor Everything For the Rebellion,Rare,Unit,Aggression Command  ,3
+LAW,057,Benthic “Two Tubes” The War Has Just Begun,Rare,Unit,Aggression Command ,3
+LAW,058,Honor-Bound Partisan,Uncommon,Unit,Aggression Command ,3
+LAW,059,Highsinger Deadly Droid,Rare,Unit,Aggression Command ,3
+LAW,060,Quarren Contractor,Common,Unit,Aggression Command ,3
+LAW,061,Asajj Ventress Reluctant Hunter,Rare,Unit,Aggression Command ,3
+LAW,062,Defiant Hammerhead,Uncommon,Unit,Aggression Command ,3
+LAW,063,L3-37 Radical Instigator,Legendary,Unit,Aggression Command ,3
+LAW,064,Zuckuss Dangerous,Rare,Unit,Command Cunning  ,3
+LAW,065,4-LOM Devious,Uncommon,Unit,Command Cunning  ,3
+LAW,066,Tear This Ship Apart,Legendary,Event,Command Cunning  ,3
+LAW,067,Jyn Erso Take the Next Chance,Rare,Unit,Command Cunning  ,3
+LAW,068,Millennium Falcon Dodging Patrols,Uncommon,Unit,Command Cunning  ,3
+LAW,069,The Ghost Home of the Spectres,Rare,Unit,Command Cunning  ,3
+LAW,070,Devaronian Doorbuster,Common,Unit,Command Cunning ,3
+LAW,071,The Max Rebo Band Jatz-Wailers,Uncommon,Unit,Command Cunning ,3
+LAW,072,Max Rebo Encore!,Legendary,Unit,Command Cunning ,3
+LAW,073,Patient Hunter,Uncommon,Unit,Command Cunning ,3
+LAW,074,Maz Kanata Where's My Boyfriend?,Legendary,Unit,Command Cunning ,3
+LAW,075,Interrogation Droid,Uncommon,Unit,Aggression Cunning  ,3
+LAW,076,Vult Skerris's Defender Secret Project,Rare,Unit,Aggression Cunning  ,3
+LAW,077,Shadow of Stygeon Prime,Rare,Upgrade,Aggression Cunning  ,3
+LAW,078,Sabine Wren Spectre Five,Uncommon,Unit,Aggression Cunning  ,3
+LAW,079,K-2SO Locking the Vault,Rare,Unit,Aggression Cunning  ,3
+LAW,080,Luke Skywalker Profit or Be Destroyed,Legendary,Unit,Aggression Cunning  ,3
+LAW,081,Sullustan Sapper,Common,Unit,Aggression Cunning ,3
+LAW,082,Urrr'k Elite Sharpshooter,Uncommon,Unit,Aggression Cunning ,3
+LAW,083,Broken Horn Vizago's Pride,Uncommon,Unit,Aggression Cunning ,3
+LAW,084,Krrsantan Hit and Run,Rare,Unit,Aggression Cunning ,3
+LAW,085,You Hold This,Rare,Event,Aggression Cunning ,3
+LAW,086,The Stranger No Survivors,Legendary,Unit,Cunning Vigilance  ,3
+LAW,087,Jango Fett Wily Mercenary,Uncommon,Unit,Cunning Vigilance  ,3
+LAW,088,Anakin Skywalker Prescient Podracer,Rare,Unit,Cunning Vigilance  ,3
+LAW,089,Kanan Jarrus Spectre One,Uncommon,Unit,Cunning Vigilance  ,3
+LAW,090,Toydarian Technician,Common,Unit,Cunning Vigilance ,3
+LAW,091,"Val It's Been a Ride, Babe",Uncommon,Unit,Cunning Vigilance ,3
+LAW,092,Two-Faced Troig,Rare,Unit,Cunning Vigilance ,3
+LAW,093,Rio Durant Beckett's Right Hands,Rare,Unit,Cunning Vigilance ,3
+LAW,094,Hondo Ohnaka Plays By His Own Rules,Legendary,Unit,Cunning Vigilance ,3
+LAW,095,Finn Looking Closer,Uncommon,Unit,Cunning Vigilance ,3
+LAW,096,Rhydonium Detonation,Rare,Event,Cunning Vigilance ,3
+LAW,097,Imperial Door Technician,Common,Unit,Vigilance  ,3
+LAW,098,Vandor Range Troopers,Common,Unit,Vigilance  ,3
+LAW,099,Governor's Shuttle,Uncommon,Unit,Vigilance  ,3
+LAW,100,IGV-55 Listener,Common,Unit,Vigilance  ,3
+LAW,101,Lawbringer Shadow Over Lothal,Legendary,Unit,Vigilance  ,3
+LAW,102,Choke on Aspirations,Uncommon,Event,Vigilance  ,3
+LAW,103,Display Piece,Rare,Event,Vigilance  ,3
+LAW,104,Bodhi Rook Creating a Diversion,Rare,Unit,Vigilance  ,3
+LAW,105,Cinta Kaz Stone Cold and Fearless,Uncommon,Unit,Vigilance  ,3
+LAW,106,Defiant Scrapper,Common,Unit,Vigilance  ,3
+LAW,107,Swoop Bike Marauder,Common,Unit,Vigilance  ,3
+LAW,108,Lando Calrissian Eyes Open,Special,Unit,Vigilance  ,3
+LAW,109,Tantive IV Carrying Hope,Uncommon,Unit,Vigilance  ,3
+LAW,110,Phoenix Squadron Fighters,Common,Unit,Vigilance  ,3
+LAW,111,Leia's Disguise,Special,Upgrade,Vigilance  ,3
+LAW,112,Boonta Eve Flagbearer,Uncommon,Unit,Vigilance ,3
+LAW,113,Shield Drive Outfitter,Common,Unit,Vigilance ,3
+LAW,114,Alkenzi Patroller,Common,Unit,Vigilance ,3
+LAW,115,Rickety Quadjumper,Common,Unit,Vigilance ,3
+LAW,116,Rodian Bondsman,Common,Unit,Vigilance ,3
+LAW,117,Conveyex Security Captain,Rare,Unit,Vigilance ,3
+LAW,118,Droid Laser Turret,Common,Unit,Vigilance ,3
+LAW,119,Rogue One At Any Cost,Rare,Unit,Vigilance ,3
+LAW,120,Vigilant Scouts,Common,Unit,Vigilance ,3
+LAW,121,Canto Bight Security,Uncommon,Unit,Vigilance ,3
+LAW,122,Shielded Hauler,Common,Unit,Vigilance ,3
+LAW,123,Syndicate Security,Common,Unit,Vigilance ,3
+LAW,124,Industrious Team,Common,Unit,Vigilance ,3
+LAW,125,Watchful,Common,Upgrade,Vigilance ,3
+LAW,126,Adventurer Sniper Rifle,Rare,Upgrade,Vigilance ,3
+LAW,127,Kill Switch,Common,Upgrade,Vigilance ,3
+LAW,128,Veiled Strength,Uncommon,Upgrade,Vigilance ,3
+LAW,129,Mastery,Common,Upgrade,Vigilance ,3
+LAW,130,Betrayed Trust,Uncommon,Event,Vigilance ,3
+LAW,131,Incapacitate,Common,Event,Vigilance ,3
+LAW,132,The Tree Remembers,Uncommon,Event,Vigilance ,3
+LAW,133,Lost and Forgotten,Common,Event,Vigilance ,3
+LAW,134,Bib Fortuna Die Wanna Wanga?,Rare,Unit,Command  ,3
+LAW,135,Pirate Snub Fighter,Common,Unit,Command  ,3
+LAW,136,Syndicate Spice Runner,Uncommon,Unit,Command  ,3
+LAW,137,Ruthless Duo,Common,Unit,Command  ,3
+LAW,138,Undercity Hunting Team,Common,Unit,Command  ,3
+LAW,139,Admiral Motti Chain of Command,Rare,Unit,Command  ,3
+LAW,140,Intimidator Citadel Overwatch,Legendary,Unit,Command  ,3
+LAW,141,Targeted For Removal,Uncommon,Upgrade,Command  ,3
+LAW,142,Scarif Lieutenant,Uncommon,Unit,Command  ,3
+LAW,143,Liberated Wookiee,Common,Unit,Command  ,3
+LAW,144,Phantom Spectre Shuttle,Rare,Unit,Command  ,3
+LAW,145,R2-D2 Part of the Plan,Special,Unit,Command  ,3
+LAW,146,Massassi Group Marines,Common,Unit,Command  ,3
+LAW,147,Jaunty Light Freighter,Common,Unit,Command  ,3
+LAW,148,Smuggler's YT-2400,Uncommon,Unit,Command  ,3
+LAW,149,Rey Skywalker,Legendary,Unit,Command  ,3
+LAW,150,Fulcrum,Rare,Upgrade,Command  ,3
+LAW,151,Profiteering Hunter,Common,Unit,Command ,3
+LAW,152,C-3PO Translation Protocol,Uncommon,Unit,Command ,3
+LAW,153,Follower of the Code,Common,Unit,Command ,3
+LAW,154,Partisan Infantry,Common,Unit,Command ,3
+LAW,155,Getaway Freighter,Common,Unit,Command ,3
+LAW,156,Hunter For Hire,Uncommon,Unit,Command ,3
+LAW,157,Target Tagger,Common,Unit,Command ,3
+LAW,158,Khetanna Upon the Dune Sea,Uncommon,Unit,Command ,3
+LAW,159,Expendable Mercenary,Common,Unit,Command ,3
+LAW,160,Hidden Hunters,Common,Unit,Command ,3
+LAW,161,Partisan U-Wing,Common,Unit,Command ,3
+LAW,162,Beach Patrol AT-ACT,Common,Unit,Command ,3
+LAW,163,The Sarlacc of Carkoon Horror of the Dune Sea,Special,Unit,Command ,3
+LAW,164,Mercenary Fleet,Common,Unit,Command ,3
+LAW,165,Combat Exercise,Common,Event,Command ,3
+LAW,166,Putting a Team Together,Common,Event,Command ,3
+LAW,167,Common Cause,Common,Event,Command ,3
+LAW,168,Haymaker,Common,Event,Command ,3
+LAW,169,Payroll Heist,Uncommon,Event,Command ,3
+LAW,170,Double-Cross,Rare,Event,Command ,3
+LAW,171,Stockpile,Uncommon,Event,Command ,3
+LAW,172,Storm Raider,Common,Unit,Aggression  ,3
+LAW,173,BT-1 Blastomech,Uncommon,Unit,Aggression  ,3
+LAW,174,0-0-0 Translation and Torture,Uncommon,Unit,Aggression  ,3
+LAW,175,Prototype TIE Advanced,Common,Unit,Aggression  ,3
+LAW,176,Sebulba's Podracer Taking the Lead,Rare,Unit,Aggression  ,3
+LAW,177,Son-tuul Berserkers,Common,Unit,Aggression  ,3
+LAW,178,Persecutor Fire Over Scarif,Legendary,Unit,Aggression  ,3
+LAW,179,Fear and Dead Men,Rare,Event,Aggression  ,3
+LAW,180,Inspired Recruit,Common,Unit,Aggression  ,3
+LAW,181,Cloud-Rider Veteran,Common,Unit,Aggression  ,3
+LAW,182,Weazel Fighting Back,Uncommon,Unit,Aggression  ,3
+LAW,183,B-Wing Skirmisher,Common,Unit,Aggression  ,3
+LAW,184,Aerie Cloud-Rider Dropship,Rare,Unit,Aggression  ,3
+LAW,185,Ben Solo Facing the Light,Legendary,Unit,Aggression  ,3
+LAW,186,Enfys Nest's Helmet,Rare,Upgrade,Aggression  ,3
+LAW,187,“Staccato Lightning” Repeater,Uncommon,Upgrade,Aggression  ,3
+LAW,188,Savareen Survivor,Common,Unit,Aggression ,3
+LAW,189,Cavern Angels X-Wing,Common,Unit,Aggression ,3
+LAW,190,Haxion Aggressor,Common,Unit,Aggression ,3
+LAW,191,Arvel Skeen Win and Walk Away,Uncommon,Unit,Aggression ,3
+LAW,192,Bracca Shipbreaker,Common,Unit,Aggression ,3
+LAW,193,Mid Rim Sharpshooter,Uncommon,Unit,Aggression ,3
+LAW,194,Doctor Aphra Digging For Answers,Rare,Unit,Aggression ,3
+LAW,195,Overcharged Transport,Common,Unit,Aggression ,3
+LAW,196,Relentless Hunters,Common,Unit,Aggression ,3
+LAW,197,Shifty Suspects,Uncommon,Unit,Aggression ,3
+LAW,198,Dogged Pursuers,Common,Unit,Aggression ,3
+LAW,199,Ohnaka Gang Bandits,Common,Unit,Aggression ,3
+LAW,200,Salvaged Blaster,Uncommon,Upgrade,Aggression ,3
+LAW,201,Thermal Detonator,Rare,Upgrade,Aggression ,3
+LAW,202,Commence the Festivities,Common,Event,Aggression ,3
+LAW,203,Daring Delve,Common,Event,Aggression ,3
+LAW,204,"Every Day, More Lies",Common,Event,Aggression ,3
+LAW,205,Flash the Vents,Common,Event,Aggression ,3
+LAW,206,That's a Rock,Uncommon,Event,Aggression ,3
+LAW,207,Attack From All Sides,Common,Event,Aggression ,3
+LAW,208,Collateral Damage,Common,Event,Aggression ,3
+LAW,209,Nihil Stormsower,Common,Unit,Cunning  ,3
+LAW,210,Salacious Crumb Cackling Companion,Special,Unit,Cunning  ,3
+LAW,211,Black Sun Patroller,Common,Unit,Cunning  ,3
+LAW,212,Malakili Keeper of the Menagerie,Special,Unit,Cunning  ,3
+LAW,213,Cutthroat Podracer,Common,Unit,Cunning  ,3
+LAW,214,Boba Fett For a Price,Rare,Unit,Cunning  ,3
+LAW,215,Vermillion Qi'ra's Auction House,Rare,Unit,Cunning  ,3
+LAW,216,Jabba's Rancor Snack Time!,Uncommon,Unit,Cunning  ,3
+LAW,217,Hold For Questioning,Uncommon,Event,Cunning  ,3
+LAW,218,Artful Pickpocket,Common,Unit,Cunning  ,3
+LAW,219,Anakin's Podracer So Wizard!,Legendary,Unit,Cunning  ,3
+LAW,220,Wookiee Guerilla,Common,Unit,Cunning  ,3
+LAW,221,Lieutenant Gorn I Deserve Worse,Rare,Unit,Cunning  ,3
+LAW,222,Rebel Blockade Runner,Common,Unit,Cunning  ,3
+LAW,223,Rose Tico Now It's Worth It,Rare,Unit,Cunning  ,3
+LAW,224,Liberty Draw Their Fire!,Legendary,Unit,Cunning  ,3
+LAW,225,Han's Golden Dice,Uncommon,Upgrade,Cunning  ,3
+LAW,226,Secret Battle of Pretend,Uncommon,Event,Cunning  ,3
+LAW,227,Rookie Rocket-jumper,Common,Unit,Cunning ,3
+LAW,228,Canyon Frontrunner,Common,Unit,Cunning ,3
+LAW,229,The Master Codebreaker High Stakes,Rare,Unit,Cunning ,3
+LAW,230,Ohnaka Gang Starhopper,Common,Unit,Cunning ,3
+LAW,231,Weequay Pirate,Common,Unit,Cunning ,3
+LAW,232,Champion's KT9 Podracer,Common,Unit,Cunning ,3
+LAW,233,Galen Erso Destroying His Creation,Rare,Unit,Cunning ,3
+LAW,234,Kage Elite,Common,Unit,Cunning ,3
+LAW,235,Lady Proxima Where's the Money?,Uncommon,Unit,Cunning ,3
+LAW,236,Bix Caleen Selling Scrap,Uncommon,Unit,Cunning ,3
+LAW,237,Qui-Gon Jinn Influencing Chance,Rare,Unit,Cunning ,3
+LAW,238,Scavenging Sandcrawler,Common,Unit,Cunning ,3
+LAW,239,Guild Ambush Team,Common,Unit,Cunning ,3
+LAW,240,Milodon Rider,Common,Unit,Cunning ,3
+LAW,241,The Blade Wing The Secret of Shantipole,Uncommon,Unit,Cunning ,3
+LAW,242,Improvise,Common,Event,Cunning ,3
+LAW,243,Transmission Jamming,Uncommon,Event,Cunning ,3
+LAW,244,Unmarked Credits,Common,Event,Cunning ,3
+LAW,245,Salvaged Materials,Uncommon,Event,Cunning ,3
+LAW,246,The Axe Forgets,Common,Event,Cunning ,3
+LAW,247,Backed by the Hutts,Common,Event,Cunning ,3
+LAW,248,Windfall,Common,Event,Cunning ,3
+LAW,249,Black Sun Cabalist,Common,Unit,Villainy,3
+LAW,250,Callous Bounty Hunter,Common,Unit,Villainy,3
+LAW,251,Night Wind Assailants,Common,Unit,Villainy,3
+LAW,252,Fett's Firespray In Pursuit,Rare,Unit,Villainy,3
+LAW,253,Alliance X-Wing,Common,Unit,Heroism ,3
+LAW,254,Stalwart Fleet Trooper,Common,Unit,Heroism ,3
+LAW,255,Circuit Challenger,Common,Unit,Heroism ,3
+LAW,256,Fire Across the Galaxy,Rare,Event,Heroism ,3
+LAW,257,Hidden Hand Supplier,Common,Unit,Neutral,3
+LAW,258,Criminal Contact,Common,Unit,Neutral,3
+LAW,259,Cartel Heavy Fighter,Common,Unit,Neutral,3
+LAW,260,Seasoned Tracker,Common,Unit,Neutral,3
+LAW,261,Street Gang Recruiter,Common,Unit,Neutral,3
+LAW,262,Bank Job Fugitives,Common,Unit,Neutral,3
+LAW,263,Kessel Hulk,Common,Unit,Neutral,3
+LAW,264,From a Certain Point of View,Common,Event,Neutral,3

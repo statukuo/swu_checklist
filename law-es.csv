@@ -1,0 +1,264 @@
+LAW,001,Saw Gerrera Hay que acabar con el Imperio,Rare,Leader,Agresividad Mando,1
+LAW,002,Tobias Beckett La gente es previsible,Rare,Leader,Astucia Vigilancia,1
+LAW,003,Agente Kallus Reconsidera tus lealtades,Rare,Leader,Vigilancia,1
+LAW,004,Aurra Sing Asesina,Common,Leader,Vigilancia,1
+LAW,005,"Jyn Erso ¡Hay que luchar, y ahora!",Rare,Leader,Vigilancia,1
+LAW,006,Vel Sartha Insurgente de Aldhani,Common,Leader,Vigilancia,1
+LAW,007,Boba Fett Líder de la Garra de Krayt,Common,Leader,Mando,1
+LAW,008,Director Krennic Contemplando mi éxito,Rare,Leader,Mando,1
+LAW,009,Hera Syndulla No lucha sola,Common,Leader,Mando,1
+LAW,010,Leia Organa Alguien que te quiere,Special,Leader,Mando,1
+LAW,011,Darth Vader Imparable,Common,Leader,Agresividad,1
+LAW,012,Sebulba Un dug especialmente peligroso,Rare,Leader,Agresividad,1
+LAW,013,Chewbacca Héroe de Kessel,Rare,Leader,Agresividad,1
+LAW,014,Enfys Nest Hasta que no podamos subir más,Common,Leader,Agresividad,1
+LAW,015,Jabba el Hutt Jefe criminal,Special,Leader,Astucia,1
+LAW,016,"El cliente Por favor, baja el bláster",Common,Leader,Astucia,1
+LAW,017,Han Solo Tengo un buen presentimiento,Common,Leader,Astucia,1
+LAW,018,Lando Calrissian Sabacc puro,Rare,Leader,Astucia,1
+LAW,019,Puesto avanzado de la Alianza,Rare,Base,Vigilancia,1
+LAW,020,Palacio de daimio,Common,Base,Vigilancia,1
+LAW,021,Mina de coaxium,Common,Base,Vigilancia,1
+LAW,022,Guarnición de Aldhani,Common,Base,Mando,1
+LAW,023,La Gran Fosa de Carkoon,Special,Base,Mando,1
+LAW,024,Complejo de mando imperial,Common,Base,Mando,1
+LAW,025,Cavernas disputadas,Common,Base,Agresividad,1
+LAW,026,Desguace de naves,Rare,Base,Agresividad,1
+LAW,027,Aguja de Stygeon,Common,Base,Agresividad,1
+LAW,028,Canto Bight,Common,Base,Astucia,1
+LAW,029,Centro de investigación de la Ciudadela,Rare,Base,Astucia,1
+LAW,030,Escondite de partisanos,Common,Base,Astucia,1
+LAW,031,Bossk Únete a nuestro alegre grupo,Uncommon,Unit,Mando Vigilancia,3
+LAW,032,Cad Bane Ahora me toca a mí,Legendary,Unit,Mando Vigilancia,3
+LAW,033,Diente de Perro Llegan los cazadores,Rare,Unit,Mando Vigilancia,3
+LAW,034,Chewbacca Salvador forzudo,Legendary,Unit,Mando Vigilancia,3
+LAW,035,Ezra Bridger Espectro Seis,Uncommon,Unit,Mando Vigilancia,3
+LAW,036,Obi-Wan Kenobi Protector de Felucia,Legendary,Unit,Mando Vigilancia,3
+LAW,037,Han Solo Bajo los efectos de la hibernación,Special,Unit,Mando Vigilancia,3
+LAW,038,Vigía lepi,Common,Unit,Mando Vigilancia,3
+LAW,039,Latts Razzi Letal con los látigos,Rare,Unit,Mando Vigilancia,3
+LAW,040,Taramyn Barcona ¡Vista al frente!,Uncommon,Unit,Mando Vigilancia,3
+LAW,041,No queda nada que temer,Uncommon,Event,Mando Vigilancia,3
+LAW,042,IG-88 Programado para matar,Rare,Unit,Agresividad Vigilancia,3
+LAW,043,Camuflaje óptico,Uncommon,Event,Agresividad Vigilancia,3
+LAW,044,Un único encendido del reactor,Legendary,Event,Agresividad Vigilancia,3
+LAW,045,Zeb Orellios Espectro Cuatro,Uncommon,Unit,Agresividad Vigilancia,3
+LAW,046,"Chirrut Îmwe No la necesito, te tengo a ti",Rare,Unit,Agresividad Vigilancia,3
+LAW,047,Baze Malbus Buena suerte,Rare,Unit,Agresividad Vigilancia,3
+LAW,048,Chio Fain Pirata informático de cuatro brazos,Uncommon,Unit,Agresividad Vigilancia,3
+LAW,049,Bruto bith,Common,Unit,Agresividad Vigilancia,3
+LAW,050,Honnah ¡OINK! ¡SQUIIII!,Uncommon,Unit,Agresividad Vigilancia,3
+LAW,051,Beilert Valance Objetivo: Vader,Rare,Unit,Agresividad Vigilancia,3
+LAW,052,El mandaloriano A ver el disco,Legendary,Unit,Agresividad Vigilancia,3
+LAW,053,"Dengar Adelante, dispara",Uncommon,Unit,Agresividad Mando,3
+LAW,054,Maul Líder del Colectivo Sombra,Legendary,Unit,Agresividad Mando,3
+LAW,055,Chopper Espectro Tres,Uncommon,Unit,Agresividad Mando,3
+LAW,056,Cassian Andor Todo por la Rebelión,Rare,Unit,Agresividad Mando,3
+LAW,057,Benthic “Dos Tubos” La guerra acaba de empezar,Rare,Unit,Agresividad Mando,3
+LAW,058,Partisano comprometido,Uncommon,Unit,Agresividad Mando,3
+LAW,059,Highsinger Droide mortífero,Rare,Unit,Agresividad Mando,3
+LAW,060,Contratista quarren,Common,Unit,Agresividad Mando,3
+LAW,061,Asajj Ventress Cazadora reticente,Rare,Unit,Agresividad Mando,3
+LAW,062,Cabeza de Martillo desafiante,Uncommon,Unit,Agresividad Mando,3
+LAW,063,L3-37 Instigadora radical,Legendary,Unit,Agresividad Mando,3
+LAW,064,Zuckuss Peligroso,Rare,Unit,Mando Astucia,3
+LAW,065,4-LOM Artero,Uncommon,Unit,Mando Astucia,3
+LAW,066,Registre a fondo esta nave,Legendary,Event,Mando Astucia,3
+LAW,067,"Jyn Erso Aprovecharemos esa oportunidad, y la siguiente",Rare,Unit,Mando Astucia,3
+LAW,068,Halcón Milenario Eludiendo patrullas,Uncommon,Unit,Mando Astucia,3
+LAW,069,Espíritu Hogar de los Espectros,Rare,Unit,Mando Astucia,3
+LAW,070,Allanador devaroniano,Common,Unit,Mando Astucia,3
+LAW,071,La banda de Max Rebo Orquesta de jatz,Uncommon,Unit,Mando Astucia,3
+LAW,072,Max Rebo ¡Otra!,Legendary,Unit,Mando Astucia,3
+LAW,073,Cazador paciente,Uncommon,Unit,Mando Astucia,3
+LAW,074,Maz Kanata ¿Dónde está mi novio?,Legendary,Unit,Mando Astucia,3
+LAW,075,Droide interrogador,Uncommon,Unit,Agresividad Astucia,3
+LAW,076,Defensor TIE de Vult Skerris Proyecto secreto,Rare,Unit,Agresividad Astucia,3
+LAW,077,La sombra de Stygeon Prime,Rare,Upgrade,Agresividad Astucia,3
+LAW,078,Sabine Wren Espectro Cinco,Uncommon,Unit,Agresividad Astucia,3
+LAW,079,K-2SO Cerrando puerta del almacén,Rare,Unit,Agresividad Astucia,3
+LAW,080,Luke Skywalker Puedes sacar provecho o ser destruido,Legendary,Unit,Agresividad Astucia,3
+LAW,081,Zapador sullustano,Common,Unit,Agresividad Astucia,3
+LAW,082,Urrr'k Tiradora de élite,Uncommon,Unit,Agresividad Astucia,3
+LAW,083,Cuerno Roto El orgullo de Vizago,Uncommon,Unit,Agresividad Astucia,3
+LAW,084,Krrsantan Ataque relámpago,Rare,Unit,Agresividad Astucia,3
+LAW,085,Sostenedme esto,Rare,Event,Agresividad Astucia,3
+LAW,086,El Extraño No deja supervivientes,Legendary,Unit,Astucia Vigilancia,3
+LAW,087,Jango Fett Mercenario astuto,Uncommon,Unit,Astucia Vigilancia,3
+LAW,088,Anakin Skywalker Piloto de vainas precognitivo,Rare,Unit,Astucia Vigilancia,3
+LAW,089,Kanan Jarrus Espectro Uno,Uncommon,Unit,Astucia Vigilancia,3
+LAW,090,Técnico toydariano,Common,Unit,Astucia Vigilancia,3
+LAW,091,"Val Ha sido una aventura, mi amor",Uncommon,Unit,Astucia Vigilancia,3
+LAW,092,Troig hipócrita,Rare,Unit,Astucia Vigilancia,3
+LAW,093,Rio Durant Las manos derechas de Beckett,Rare,Unit,Astucia Vigilancia,3
+LAW,094,Hondo Ohnaka Juega según sus propias reglas,Legendary,Unit,Astucia Vigilancia,3
+LAW,095,Finn Fijándose bien,Uncommon,Unit,Astucia Vigilancia,3
+LAW,096,Explosión de ridonium,Rare,Event,Astucia Vigilancia,3
+LAW,097,Técnico de puertas imperial,Common,Unit,Vigilancia,3
+LAW,098,Soldados de frontera de Vandor,Common,Unit,Vigilancia,3
+LAW,099,Lanzadera de gobernador,Uncommon,Unit,Vigilancia,3
+LAW,100,Nave espía IGV-55,Common,Unit,Vigilancia,3
+LAW,101,Legislador Una sombra sobre Lothal,Legendary,Unit,Vigilancia,3
+LAW,102,Atragantarse con sus aspiraciones,Uncommon,Event,Vigilancia,3
+LAW,103,Pieza de exposición,Rare,Event,Vigilancia,3
+LAW,104,Bodhi Rook Creando una distracción,Rare,Unit,Vigilancia,3
+LAW,105,Cinta Kaz Valiente y fría como el hielo,Uncommon,Unit,Vigilancia,3
+LAW,106,Chatarrera insolente,Common,Unit,Vigilancia,3
+LAW,107,Saqueador motorista,Common,Unit,Vigilancia,3
+LAW,108,Lando Calrissian Ojo avizor,Special,Unit,Vigilancia,3
+LAW,109,Tantive IV Lleva esperanza a bordo,Uncommon,Unit,Vigilancia,3
+LAW,110,Cazas del Escuadrón Fénix,Common,Unit,Vigilancia,3
+LAW,111,Disfraz de Leia,Special,Upgrade,Vigilancia,3
+LAW,112,Abanderado de la Víspera de Boonta,Uncommon,Unit,Vigilancia,3
+LAW,113,Instalador de sistema de escudos,Common,Unit,Vigilancia,3
+LAW,114,Patrulla de Alkenzi,Common,Unit,Vigilancia,3
+LAW,115,Saltador quad destartalado,Common,Unit,Vigilancia,3
+LAW,116,Fiador rodiano,Common,Unit,Vigilancia,3
+LAW,117,Jefe de seguridad del conveyex,Rare,Unit,Vigilancia,3
+LAW,118,Torreta láser droide,Common,Unit,Vigilancia,3
+LAW,119,Rogue One A toda costa,Rare,Unit,Vigilancia,3
+LAW,120,Exploradores atentos,Common,Unit,Vigilancia,3
+LAW,121,Seguridad de Canto Bight,Uncommon,Unit,Vigilancia,3
+LAW,122,Carguero blindado,Common,Unit,Vigilancia,3
+LAW,123,Seguridad del Sindicato,Common,Unit,Vigilancia,3
+LAW,124,Equipo diligente,Common,Unit,Vigilancia,3
+LAW,125,Alerta,Common,Upgrade,Vigilancia,3
+LAW,126,Fusil de precisión Aventurero,Rare,Upgrade,Vigilancia,3
+LAW,127,Interruptor de apagado,Common,Upgrade,Vigilancia,3
+LAW,128,Fuerza contenida,Uncommon,Upgrade,Vigilancia,3
+LAW,129,Maestría,Common,Upgrade,Vigilancia,3
+LAW,130,Confianza traicionada,Uncommon,Event,Vigilancia,3
+LAW,131,Incapacitar,Common,Event,Vigilancia,3
+LAW,132,El árbol recuerda,Uncommon,Event,Vigilancia,3
+LAW,133,Caídos en el olvido,Common,Event,Vigilancia,3
+LAW,134,Bib Fortuna ¿Die wanna wanga?,Rare,Unit,Mando,3
+LAW,135,Nave monoplaza pirata,Common,Unit,Mando,3
+LAW,136,Contrabandista de especia del Sindicato,Uncommon,Unit,Mando,3
+LAW,137,Dúo despiadado,Common,Unit,Mando,3
+LAW,138,Cazadores de los Subterráneos,Common,Unit,Mando,3
+LAW,139,Almirante Motti Cadena de mando,Rare,Unit,Mando,3
+LAW,140,Intimidante Vigilancia espacial de la Ciudadela,Legendary,Unit,Mando,3
+LAW,141,Orden de eliminación,Uncommon,Upgrade,Mando,3
+LAW,142,Teniente de Scarif,Uncommon,Unit,Mando,3
+LAW,143,Wookiee liberado,Common,Unit,Mando,3
+LAW,144,Fantasma Nave auxiliar de los Espectros,Rare,Unit,Mando,3
+LAW,145,R2-D2 Parte del plan,Special,Unit,Mando,3
+LAW,146,Marines de la unidad de Massassi,Common,Unit,Mando,3
+LAW,147,Carguero ligero flamante,Common,Unit,Mando,3
+LAW,148,YT-2400 de contrabandista,Uncommon,Unit,Mando,3
+LAW,149,Rey Skywalker,Legendary,Unit,Mando,3
+LAW,150,Fulcrum,Rare,Upgrade,Mando,3
+LAW,151,Cazador oportunista,Common,Unit,Mando,3
+LAW,152,C-3PO Protocolo de traducción,Uncommon,Unit,Mando,3
+LAW,153,Seguidor del Código,Common,Unit,Mando,3
+LAW,154,Infantería partisana,Common,Unit,Mando,3
+LAW,155,Carguero de fuga,Common,Unit,Mando,3
+LAW,156,Cazador a sueldo,Uncommon,Unit,Mando,3
+LAW,157,Identificador de presas,Common,Unit,Mando,3
+LAW,158,Khetanna Sobrevolando el Mar de las Dunas,Uncommon,Unit,Mando,3
+LAW,159,Mercenario prescindible,Common,Unit,Mando,3
+LAW,160,Cazadores encubiertos,Common,Unit,Mando,3
+LAW,161,Ala-U partisana,Common,Unit,Mando,3
+LAW,162,AT-ACT de patrulla costera,Common,Unit,Mando,3
+LAW,163,El sarlacc de Carkoon Horror del Mar de las Dunas,Special,Unit,Mando,3
+LAW,164,Flota mercenaria,Common,Unit,Mando,3
+LAW,165,Maniobras de combate,Common,Event,Mando,3
+LAW,166,Reunir un equipo,Common,Event,Mando,3
+LAW,167,Causa común,Common,Event,Mando,3
+LAW,168,Derechazo,Common,Event,Mando,3
+LAW,169,Robo de nóminas,Uncommon,Event,Mando,3
+LAW,170,Jugar a dos bandas,Rare,Event,Mando,3
+LAW,171,Almacén de reservas,Uncommon,Event,Mando,3
+LAW,172,Incursor pirata de la tormenta,Common,Unit,Agresividad,3
+LAW,173,BT-1 droide blastomecánico,Uncommon,Unit,Agresividad,3
+LAW,174,0-0-0 Traducción y tortura,Uncommon,Unit,Agresividad,3
+LAW,175,Prototipo de TIE Avanzado,Common,Unit,Agresividad,3
+LAW,176,Vaina de carreras de Sebulba Tomando la delantera,Rare,Unit,Agresividad,3
+LAW,177,Salvajes de Son-tuul,Common,Unit,Agresividad,3
+LAW,178,Perseguidor Fuego sobre Scarif,Legendary,Unit,Agresividad,3
+LAW,179,Miedo y cadáveres,Rare,Event,Agresividad,3
+LAW,180,Recluta inspirada,Common,Unit,Agresividad,3
+LAW,181,Jinete de las Nubes veterano,Common,Unit,Agresividad,3
+LAW,182,Weazel Presentando batalla,Uncommon,Unit,Agresividad,3
+LAW,183,Ala-B hostigador,Common,Unit,Agresividad,3
+LAW,184,Nido de Águilas Nave de desembarco de los Jinetes de las Nubes,Rare,Unit,Agresividad,3
+LAW,185,Ben Solo Enfrentado a la luz,Legendary,Unit,Agresividad,3
+LAW,186,Casco de Enfys Nest,Rare,Upgrade,Agresividad,3
+LAW,187,Bláster de repetición “Relámpago Staccato”,Uncommon,Upgrade,Agresividad,3
+LAW,188,Superviviente de Savareen,Common,Unit,Agresividad,3
+LAW,189,Ala-X de los Ángeles Cavernarios,Common,Unit,Agresividad,3
+LAW,190,Agresor de Haxion,Common,Unit,Agresividad,3
+LAW,191,Arvel Skeen Vengo a ganar y a largarme,Uncommon,Unit,Agresividad,3
+LAW,192,Desguazador de naves de Bracca,Common,Unit,Agresividad,3
+LAW,193,Francotirador del Borde Intermedio,Uncommon,Unit,Agresividad,3
+LAW,194,Doctora Aphra Excava en busca de respuestas,Rare,Unit,Agresividad,3
+LAW,195,Transporte sobrecargado,Common,Unit,Agresividad,3
+LAW,196,Cazadores implacables,Common,Unit,Agresividad,3
+LAW,197,Individuos sospechosos,Uncommon,Unit,Agresividad,3
+LAW,198,Perseguidores tenaces,Common,Unit,Agresividad,3
+LAW,199,Bandidos de Ohnaka,Common,Unit,Agresividad,3
+LAW,200,Bláster encontrado,Uncommon,Upgrade,Agresividad,3
+LAW,201,Detonador térmico,Rare,Upgrade,Agresividad,3
+LAW,202,Que comience la celebración,Common,Event,Agresividad,3
+LAW,203,Exploración temeraria,Common,Event,Agresividad,3
+LAW,204,"Mentira va, mentira viene",Common,Event,Agresividad,3
+LAW,205,Lanzar un fogonazo,Common,Event,Agresividad,3
+LAW,206,Eso es una piedra,Uncommon,Event,Agresividad,3
+LAW,207,Atacar por todos los flancos,Common,Event,Agresividad,3
+LAW,208,Daños colaterales,Common,Event,Agresividad,3
+LAW,209,Siembratormentas nihil,Common,Unit,Astucia,3
+LAW,210,Salacious Crumb Compañero carcajeante,Special,Unit,Astucia,3
+LAW,211,Patrulla del Sol Negro,Common,Unit,Astucia,3
+LAW,212,Malakili Cuidador de las fieras,Special,Unit,Astucia,3
+LAW,213,Piloto de vaina sin escrúpulos,Common,Unit,Astucia,3
+LAW,214,Boba Fett Por un precio,Rare,Unit,Astucia,3
+LAW,215,Bermellón Casa de subastas de Qi'ra,Rare,Unit,Astucia,3
+LAW,216,Rancor de Jabba ¡Hora de comer!,Uncommon,Unit,Astucia,3
+LAW,217,Someter a un interrogatorio,Uncommon,Event,Astucia,3
+LAW,218,Carterista habilidosa,Common,Unit,Astucia,3
+LAW,219,Vaina de carreras de Anakin ¡Esto es alucinante!,Legendary,Unit,Astucia,3
+LAW,220,Guerrillero wookiee,Common,Unit,Astucia,3
+LAW,221,Teniente Gorn Me merezco algo peor,Rare,Unit,Astucia,3
+LAW,222,Nave antibloqueo rebelde,Common,Unit,Astucia,3
+LAW,223,Rose Tico Ahora sí ha merecido la pena,Rare,Unit,Astucia,3
+LAW,224,Libertad ¡Atraed sus disparos!,Legendary,Unit,Astucia,3
+LAW,225,Dados dorados de Han,Uncommon,Upgrade,Astucia,3
+LAW,226,Pelea fingida,Uncommon,Event,Astucia,3
+LAW,227,Recluta retropropulsada,Common,Unit,Astucia,3
+LAW,228,Vaina en cabeza,Common,Unit,Astucia,3
+LAW,229,El maestro descifrador Grandes apuestas,Rare,Unit,Astucia,3
+LAW,230,Saltador Estelar de la banda de Ohnaka,Common,Unit,Astucia,3
+LAW,231,Pirata weequay,Common,Unit,Astucia,3
+LAW,232,Vaina de carreras KT9 de campeón,Common,Unit,Astucia,3
+LAW,233,Galen Erso Destruyendo su creación,Rare,Unit,Astucia,3
+LAW,234,Kage de élite,Common,Unit,Astucia,3
+LAW,235,Lady Proxima ¿Dónde está el dinero?,Uncommon,Unit,Astucia,3
+LAW,236,Bix Caleen Vende chatarra,Uncommon,Unit,Astucia,3
+LAW,237,Qui-Gon Jinn Influye en el azar,Rare,Unit,Astucia,3
+LAW,238,Tractor de las arenas en busca de restos,Common,Unit,Astucia,3
+LAW,239,Equipo de emboscada del Gremio,Common,Unit,Astucia,3
+LAW,240,Jinete de milodón,Common,Unit,Astucia,3
+LAW,241,El Ala Bisel El secreto de Shantipole,Uncommon,Unit,Astucia,3
+LAW,242,Improvisación,Common,Event,Astucia,3
+LAW,243,Transmisión interferida,Uncommon,Event,Astucia,3
+LAW,244,Créditos sin marcar,Common,Event,Astucia,3
+LAW,245,Materiales recuperados,Uncommon,Event,Astucia,3
+LAW,246,El hacha olvida,Common,Event,Astucia,3
+LAW,247,Respaldo de los hutts,Common,Event,Astucia,3
+LAW,248,Dinero caído del cielo,Common,Event,Astucia,3
+LAW,249,Cabalista del Sol Negro,Common,Unit,Maldad,3
+LAW,250,Cazarrecompensas insensible,Common,Unit,Maldad,3
+LAW,251,Asaltantes del Viento Nocturno,Common,Unit,Maldad,3
+LAW,252,Firespray de Fett Persecución,Rare,Unit,Maldad,3
+LAW,253,Ala-X de la Alianza,Common,Unit,Heroismo,3
+LAW,254,Soldado de la Flota leal,Common,Unit,Heroismo,3
+LAW,255,Aspirante al premio del circuito,Common,Unit,Heroismo,3
+LAW,256,Fuego a través de la galaxia,Rare,Event,Heroismo,3
+LAW,257,Proveedor de la Mano Oculta,Common,Unit,Neutral,3
+LAW,258,Contacto criminal,Common,Unit,Neutral,3
+LAW,259,Caza pesado del Cártel,Common,Unit,Neutral,3
+LAW,260,Rastreador avezado,Common,Unit,Neutral,3
+LAW,261,Reclutador de banda callejera,Common,Unit,Neutral,3
+LAW,262,Ladrones de banco fugitivos,Common,Unit,Neutral,3
+LAW,263,Nave lastrada de Kessel,Common,Unit,Neutral,3
+LAW,264,Desde cierto punto de vista,Common,Event,Neutral,3

@@ -19,7 +19,7 @@ fs.createReadStream("./" + process.argv[2])
             number: data[1].padStart(3, "0"),
             checkboxes:new Array(parseInt(data[6])).fill("\\begin{tikzpicture}\\draw[gray] (31mm,1.5mm) circle (2pt);\\end{tikzpicture}"),
             rarity: data[3][0].toLowerCase(),
-            title: data[2].substring(0,25)
+            title: data[2].length > 28 ? data[2].substring(0,25) + "..." : data[2]
         })
     })
     .on('end',function() {
