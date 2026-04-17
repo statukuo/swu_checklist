@@ -1,55 +1,120 @@
-SOR,193,Millennium Falcon - Piece Of Junk,0,Legendary,3,Normal
-SHD,37,"Supreme Leader Snoke, Shadow Ruler",1,Legendary,3,Normal
-SHD,53,Second Chance,2,Legendary,3,Normal
-SHD,92,"Finalizer, Might of the First Order",1,Legendary,3,Normal
-SHD,109,Endless Legions,2,Legendary,3,Normal
-SHD,126,The Darksaber,2,Legendary,3,Normal
-SHD,141,"Kylo Ren, Killing the Past",1,Legendary,3,Normal
-SHD,172,Krayt Dragon,2,Legendary,3,Normal
-SHD,208,Final Showdown,2,Legendary,3,Normal
-SHD,233,Evacuate,2,Legendary,3,Normal
-TWI,34,General Grievous Trophy Collector,1,Legendary,3,Normal
-TWI,47,Satine Kryze Committed to Peace,1,Legendary,3,Normal
-TWI,64,Ki-Adi-Mundi Composed and Confident,0,Legendary,3,Normal
-TWI,96,Aayla Secura Master of the Blade,1,Legendary,3,Normal
-TWI,118,Gor Grievous's Pet,1,Legendary,3,Normal
-TWI,178,Planetary Invasion,0,Legendary,3,Normal
-TWI,194,Ahsoka Tano Always Ready For Trouble,2,Legendary,3,Normal
-TWI,203,Chancellor Palpatine Wartime Chancellor,2,Legendary,3,Normal
-TWI,225,Now There Are Two of Them,0,Legendary,3,Normal
-JTL,41,Annihilator Tagge's Flagship,1,Legendary,3,Normal
-JTL,56,Hondo Ohnaka Superfluous Swindler,1,Legendary,3,Normal
-JTL,80,Nebula Ignition,0,Legendary,3,Normal
-JTL,90,Executor Might of the Empire,1,Legendary,3,Normal
-JTL,92,Scramble Fighters,2,Legendary,3,Normal
-JTL,105,The Starhawk Prototype Battleship,0,Legendary,3,Normal
-JTL,131,Turbolaser Salvo,0,Legendary,3,Normal
-JTL,154,Profundity We Fight!,0,Legendary,3,Normal
-JTL,169,Shadow Caster Just Business,1,Legendary,3,Normal
-JTL,204,Home One On My Mark,0,Legendary,3,Normal
-JTL,221,Stolen AT-Hauler,0,Legendary,3,Normal
-JTL,226,Radiant VII Ambassadors' Arrival,1,Legendary,3,Normal
-JTL,260,Death Star Plans,2,Legendary,3,Normal
-SHD,8,Greef Karga,0,Common,1,Promo
-TWI,12,Clone Cohort,0,Rare,1,Promo
-TWI,14,Disruptive Burst,0,Rare,1,Promo
-JTL,1,Director Krennic,0,Uncommon,1,Promo
-JTL,2,Onyx Squadron Brute,0,Common,1,Promo
-JTL,3,Hera Syndulla,0,Uncommon,1,Promo
-JTL,4,Cassian Andor,0,Rare,1,Promo
-JTL,5,Leia Organa,0,Uncommon,1,Promo
-JTL,6,Poe Dameron,0,Uncommon,1,Promo
-JTL,7,Chewbacca,0,Special,1,Promo
-JTL,8,General Hux,0,Uncommon,1,Promo
-JTL,9,IG-88,0,Rare,1,Promo
-JTL,10,BB-8,0,Uncommon,1,Promo
-JTL,11,Red Squadron Y-Wing,0,Common,1,Promo
-JTL,12,Red Five,0,Uncommon,1,Promo
-JTL,13,Captain Tarkin,0,Common,1,Promo
-JTL,14,Shoot Down,0,Rare,1,Promo
-JTL,15,Boba Fett,0,Uncommon,1,Promo
-JTL,16,Anakin Skywalker,0,Legendary,1,Promo
-JTL,17,Han Solo,0,Special,1,Promo
-JTL,18,Fett's Firespray,0,Special,1,Promo
-JTL,19,Millennium Falcon,0,Special,1,Promo
-JTL,20,Swarming Vulture Droid,0,Common,1,Promo
+SHD,37,Supreme Leader Snoke  Shadow Ruler,1,Legendary,3,Normal,Vigilance,Villainy,None
+SHD,53,Second Chance,2,Legendary,3,Normal,Vigilance,Vigilance,None
+SHD,92,Finalizer  Might of the First Order,1,Legendary,3,Normal,Command,Villainy,None
+SHD,109,Endless Legions,2,Legendary,3,Normal,Command,Command,None
+SHD,126,The Darksaber,2,Legendary,3,Normal,Command,None,None
+SHD,141,Kylo Ren  Killing the Past,1,Legendary,3,Normal,Aggression,Villainy,None
+SHD,172,Krayt Dragon,2,Legendary,3,Normal,Aggression,None,None
+SHD,208,Final Showdown,2,Legendary,3,Normal,Cunning,Cunning,None
+SHD,233,Evacuate,2,Legendary,3,Normal,Cunning,None,None
+TWI,34,General Grievous Trophy Collector,1,Legendary,3,Normal,Vigilance,Villainy,None
+TWI,47,Satine Kryze Committed to Peace,2,Legendary,3,Normal,Vigilance,Heroism,None
+TWI,64,Ki-Adi-Mundi Composed and Confident,2,Legendary,3,Normal,Vigilance,None,None
+TWI,96,Aayla Secura Master of the Blade,1,Legendary,3,Normal,Command,Heroism,None
+TWI,118,Gor Grievouss Pet,1,Legendary,3,Normal,Command,None,None
+TWI,178,Planetary Invasion,1,Legendary,3,Normal,Aggression,None,None
+TWI,203,Chancellor Palpatine Wartime Chancellor,2,Legendary,3,Normal,Cunning,Cunning,None
+TWI,225,Now There Are Two of Them,1,Legendary,3,Normal,Cunning,None,None
+JTL,41,Annihilator Tagges Flagship,2,Legendary,3,Normal,Vigilance,Villainy,None
+JTL,56,Hondo Ohnaka Superfluous Swindler,1,Legendary,3,Normal,Vigilance,Vigilance,None
+JTL,80,Nebula Ignition,1,Legendary,3,Normal,Vigilance,None,None
+JTL,90,Executor Might of the Empire,1,Legendary,3,Normal,Command,Villainy,None
+JTL,92,Scramble Fighters,2,Legendary,3,Normal,Command,Villainy,None
+JTL,105,The Starhawk Prototype Battleship,2,Legendary,3,Normal,Command,Heroism,None
+JTL,131,Turbolaser Salvo,1,Legendary,3,Normal,Command,None,None
+JTL,226,Radiant VII Ambassadors Arrival,1,Legendary,3,Normal,Cunning,None,None
+LOF,98,Leia Organa  Extraordinaria,1,Legendary,3,Normal,Command,Heroism,None
+LOF,130,H  K-47  Exclamación: ¡Muere  saco de carne,1,Legendary,3,Normal,Aggression,Villainy,None
+LOF,186,Marchion Ro  El Ojo de los Nihil,2,Legendary,3,Normal,Cunning,Villainy,None
+LOF,200,Qui-Gon Jinn  La negociación será corta,1,Legendary,3,Normal,Cunning,Heroism,None
+LOF,204,Zuckuss  Buscador gandiano,2,Legendary,3,Normal,Cunning,Cunning,None
+LOF,234,Darth Malak  Aprendiz ambicioso,2,Legendary,3,Normal,Villainy,None,None
+SEC,32,Kylo Rens Command Shuttle  Icon of Authority,1,Legendary,3,Normal,Vigilance,Villainy,None
+SEC,35,Darth Sion  Lord of Pain,1,Legendary,3,Normal,Vigilance,Villainy,None
+SEC,40,Emergency Powers,1,Rare,3,Normal,Vigilance,Villainy,None
+SEC,42,Cassian Andor  Lay Low,2,Legendary,3,Normal,Vigilance,Heroism,None
+SEC,50,Vigil  Securing the Future,2,Legendary,3,Normal,Vigilance,Heroism,None
+SEC,56,Escape Pod,2,Rare,3,Normal,Vigilance,None,None
+SEC,68,Lando Calrissian  Trust Me,2,Legendary,3,Normal,Vigilance,None,None
+SEC,78,Hyperspace Disaster,2,Rare,3,Normal,Vigilance,None,None
+SEC,90,Director Krennic  I Lose Nothing But Time,0,Legendary,3,Normal,Command,Villainy,None
+SEC,99,Naboo Royal Starship  Fit For A Queen,2,Rare,3,Normal,Command,Heroism,None
+SEC,101,Queen Amidala  Championing Her People,2,Legendary,3,Normal,Command,Heroism,None
+SEC,106,Dismantle the Conspiracy,2,Rare,3,Normal,Command,Heroism,None
+SEC,107,Chancellor Valorum  Civil Servant,2,Rare,3,Normal,Command,Command,None
+SEC,112,Orn Free Taa  Political Power Broker,2,Rare,3,Normal,Command,None,None
+SEC,122,Vuutun Palaa  Droid Control Ship,1,Legendary,3,Normal,Command,None,None
+SEC,136,Arihnda Pryce  On The Road To Power,2,Rare,3,Normal,Aggression,Villainy,None
+SEC,137,Dryden Vos  I Get All Worked Up,1,Legendary,3,Normal,Aggression,Villainy,None
+SEC,139,Miraj Scintel  The Weak Deserve to Kneel,0,Rare,3,Normal,Aggression,Villainy,None
+SEC,145,Confidence in Victory,1,Legendary,3,Normal,Aggression,Villainy,None
+SEC,147,Chopper  War Hero,1,Legendary,3,Normal,Aggression,Heroism,None
+SEC,156,Nemiks Manifesto,1,Legendary,3,Normal,Aggression,Heroism,None
+SEC,157,One Way Out,1,Rare,3,Normal,Aggression,Heroism,None
+SEC,168,Ziton Moj  Black Sun Bully,2,Rare,3,Normal,Aggression,None,None
+SEC,188,Darth Traya  Lord of Betrayal,2,Legendary,3,Normal,Cunning,Villainy,None
+SEC,192,Grand Moff Tarkin  Taking Krennics Achievement,0,Rare,3,Normal,Cunning,Villainy,None
+SEC,194,Fully Armed and Operational,2,Rare,3,Normal,Cunning,Villainy,None
+SEC,195,Arrest,2,Rare,3,Normal,Cunning,Villainy,None
+SEC,203,Tala Durith  I Can Get You Inside,2,Rare,3,Normal,Cunning,Heroism,None
+SEC,204,Blue Ace  Colorful Racer,2,Rare,3,Normal,Cunning,Heroism,None
+SEC,207,Lightmaker  I Have An Idea,1,Legendary,3,Normal,Cunning,Heroism,None
+SEC,210,Stolen Starpath Unit,0,Rare,3,Normal,Cunning,Heroism,None
+SEC,225,Synara San  Harboring a Secret,2,Legendary,3,Normal,Cunning,None,None
+SEC,231,Implicate,2,Rare,3,Normal,Cunning,None,None
+SEC,244,Darth Nihilus  Lord of Hunger,1,Legendary,3,Normal,Villainy,None,None
+SEC,257,Restore Freedom,1,Rare,3,Normal,Heroism,None,None
+LAW,2,Tobias Beckett  People Are Predictable,0,Rare,1,Normal,Cunning,Vigilance,None
+LAW,19,Alliance Outpost,0,Rare,1,Normal,Vigilance,None,None
+LAW,32,Cad Bane  Now Its My Turn,2,Legendary,1,Normal,Command,Vigilance,Villainy
+LAW,33,Hounds Tooth  Hunters Approach,1,Rare,3,Normal,Command,Vigilance,Villainy
+LAW,34,Chewbacca  Mighty Rescuer,1,Legendary,3,Normal,Command,Vigilance,Heroism
+LAW,36,Obi-Wan Kenobi  Protector of Felucia,2,Legendary,3,Normal,Command,Vigilance,Heroism
+LAW,39,Latts Razzi  Deadly Whipmaster,1,Rare,3,Normal,Command,Vigilance,None
+LAW,44,Single Reactor Ignition,0,Legendary,3,Normal,Aggression,Vigilance,Villainy
+LAW,46,Chirrut Îmwe  I Dont Need Luck,2,Rare,3,Normal,Aggression,Vigilance,Heroism
+LAW,52,The Mandalorian  Lets See the Puck,1,Legendary,3,Normal,Aggression,Vigilance,None
+LAW,54,Maul  Master of the Shadow Collective,2,Legendary,3,Normal,Aggression,Command,Villainy
+LAW,59,Highsinger  Deadly Droid,0,Rare,3,Normal,Aggression,Command,None
+LAW,61,Asajj Ventress  Reluctant Hunter,2,Rare,3,Normal,Aggression,Command,None
+LAW,63,L3-37  Radical Instigator,1,Legendary,3,Normal,Aggression,Command,None
+LAW,64,Zuckuss  Dangerous,2,Rare,3,Normal,Command,Cunning,Villainy
+LAW,66,Tear This Ship Apart,2,Legendary,3,Normal,Command,Cunning,Villainy
+LAW,72,Max Rebo  Encore,2,Legendary,3,Normal,Command,Cunning,None
+LAW,74,Maz Kanata  Wheres My Boyfriend?,2,Legendary,3,Normal,Command,Cunning,None
+LAW,76,Vult Skerriss Defender  Secret Project,1,Rare,3,Normal,Aggression,Cunning,Villainy
+LAW,77,Shadow of Stygeon Prime,0,Rare,3,Normal,Aggression,Cunning,Villainy
+LAW,80,Luke Skywalker  Profit or Be Destroyed,0,Legendary,3,Normal,Aggression,Cunning,Heroism
+LAW,84,Krrsantan  Hit and Run,0,Rare,3,Normal,Aggression,Cunning,None
+LAW,85,You Hold This,1,Rare,3,Normal,Aggression,Cunning,None
+LAW,92,Two-Faced Troig,2,Rare,3,Normal,Cunning,Vigilance,None
+LAW,93,Rio Durant  Becketts Right Hands,1,Rare,3,Normal,Cunning,Vigilance,None
+LAW,94,Hondo Ohnaka  Plays By His Own Rules,0,Legendary,3,Normal,Cunning,Vigilance,None
+LAW,101,Lawbringer  Shadow Over Lothal,2,Legendary,3,Normal,Vigilance,Villainy,None
+LAW,103,Display Piece,2,Rare,3,Normal,Vigilance,Villainy,None
+LAW,104,Bodhi Rook  Creating a Diversion,1,Rare,3,Normal,Vigilance,Heroism,None
+LAW,117,Conveyex Security Captain,2,Rare,3,Normal,Vigilance,None,None
+LAW,119,Rogue One  At Any Cost,2,Rare,3,Normal,Vigilance,None,None
+LAW,126,Adventurer Sniper Rifle,2,Rare,3,Normal,Vigilance,None,None
+LAW,139,Admiral Motti  Chain of Command,0,Rare,3,Normal,Command,Villainy,None
+LAW,144,Phantom  Spectre Shuttle,2,Rare,3,Normal,Command,Heroism,None
+LAW,149,Rey  Skywalker,1,Legendary,3,Normal,Command,Heroism,None
+LAW,150,Fulcrum,2,Rare,3,Normal,Command,Heroism,None
+LAW,156,Hunter For Hire,2,Uncommon,3,Normal,Command,None,None
+LAW,176,Sebulbas Podracer  Taking the Lead,0,Rare,3,Normal,Aggression,Villainy,None
+LAW,178,Persecutor  Fire Over Scarif,1,Legendary,3,Normal,Aggression,Villainy,None
+LAW,179,Fear and Dead Men,2,Rare,3,Normal,Aggression,Villainy,None
+LAW,184,Aerie  Cloud-Rider Dropship,2,Rare,3,Normal,Aggression,Heroism,None
+LAW,185,Ben Solo  Facing the Light,1,Legendary,3,Normal,Aggression,Heroism,None
+LAW,201,Thermal Detonator,0,Rare,3,Normal,Aggression,None,None
+LAW,215,Vermillion  Qiras Auction House,2,Rare,3,Normal,Cunning,Villainy,None
+LAW,221,Lieutenant Gorn  I Deserve Worse,1,Rare,3,Normal,Cunning,Heroism,None
+LAW,223,Rose Tico  Now Its Worth It,2,Rare,3,Normal,Cunning,Heroism,None
+LAW,229,The Master Codebreaker  High Stakes,1,Rare,3,Normal,Cunning,None,None
+LAW,256,Fire Across the Galaxy,2,Rare,3,Normal,Heroism,None,None
+SEC,8,Jar Jar Binks,0,Uncommon,1,Promo,Command,None,None
+SEC,11,The Elite Squad,0,Rare,1,Promo,Aggression,Villainy,None
+LAW,2,IG-88,0,Rare,1,Promo,Vigilance,Aggression,Villainy
+LAW,6,Maz Kanata,0,Legendary,1,Promo,Command,Cunning,None
+LAW,8,K-2SO,0,Rare,1,Promo,Aggression,Cunning,Heroism
+LAW,17,Jabba s Rancor,0,Uncommon,1,Promo,Cunning,Villainy,None

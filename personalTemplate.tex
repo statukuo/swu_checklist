@@ -1,0 +1,57 @@
+\documentclass[a4paper,landscape]{article}
+\usepackage{inconsolata}
+\usepackage[a4paper,margin=0.5cm]{geometry}
+\usepackage{multicol}
+\usepackage{titlesec}
+\usepackage[breakall]{truncate}
+\usepackage{tikz}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{forloop}
+\usepackage{setspace}
+\usepackage{xcolor}
+\usepackage[letterspace=125]{microtype}
+\usepackage[document]{ragged2e}
+\graphicspath{ {./images/} }
+\definecolor{Vigilance}{HTML}{6694CE}           % HTML hex code
+\definecolor{Command}{HTML}{41AD49}           % HTML hex code
+\definecolor{Aggression}{HTML}{D2232A}           % HTML hex code
+\definecolor{Cunning}{HTML}{FDB933}           % HTML hex code
+\definecolor{Villainy}{HTML}{040004}           % HTML hex code
+\definecolor{Heroism}{HTML}{C6C1A0}           % HTML hex code
+\definecolor{Neutral}{HTML}{FFFFFF}           % HTML hex code
+\definecolor{None}{HTML}{FFFFFF}           % HTML hex code
+
+\newcommand{\addulc}[1]{\texttt{\textcolor{white}{#1}}}
+\newcommand{\swuSet}[1]{\begin{tikzpicture}[remember picture,overlay]
+  \tikzset{shift={(current page.center)},xshift=13cm,yshift=-10cm}
+  \filldraw[black, thick] (0,0) -- (0,0.5cm) -- (0.5cm,1cm) -- (1.5cm,1cm) -- (1.5cm, 0) -- cycle;
+  \tikzstyle{every node}=[font=\fontsize{20}{20}\selectfont]
+\end{tikzpicture}}
+
+\renewcommand{\TruncateMarker}{...}
+
+
+\titleformat{\section}%
+  {\vspace{-4mm}}% format applied to label+text
+  {}%label
+  {0mm}% horizontal separation between label and title body
+  {\begin{minipage}{0mm}
+    \vspace{-0.5mm}
+    \begin{tikzpicture}
+      \filldraw[black, thick] (0,0) -- (0,3mm) -- (30mm,3mm) -- (33mm,0) -- cycle;
+      \filldraw[gray, thick] (35mm,0) -- (32mm,3mm) -- (37mm,3mm) -- (40mm,0.2mm) -- (55mm,0.2mm) -- (55mm, 0) -- cycle;
+      \filldraw[gray] (41mm,1.5mm) circle (2pt);
+      \filldraw[gray] (43mm,1.5mm) circle (2pt);
+    \end{tikzpicture}
+  \end{minipage}
+    \addulc}% before the title body
+  []% after the title body
+
+\begin{document}
+\fontsize{8}{8}\selectfont
+
+\begin{multicols*}{4}
+    %{TEMPLATE}
+\end{multicols*}
+\end{document}

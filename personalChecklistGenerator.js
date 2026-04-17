@@ -18,13 +18,17 @@ fs.createReadStream("./" + process.argv[2])
             csvData[type][data[0]] = [];
         }
 
-
         csvData[type][data[0]].push({
             set: data[0],
             number: data[1].padStart(3, "0"),
             checkboxes:new Array(parseInt(data[5])).fill("").map((_, idx) => idx < data[3]? "\\begin{tikzpicture}\\filldraw[black] (31mm,1.5mm) circle (2pt);\\end{tikzpicture}" : "\\begin{tikzpicture}\\draw[gray] (31mm,1.5mm) circle (2pt);\\end{tikzpicture}"),
             rarity: data[4][0].toLowerCase(),
-            title: data[2].substring(0,25)
+            title: data[2].substring(0,30),
+            aspects: [
+                `\\begin{tikzpicture}\\filldraw[${data[7]}] (0,0) -- (1mm,0) -- (1mm,3mm) -- (0mm,3mm) -- cycle;\\end{tikzpicture}`,
+                `\\begin{tikzpicture}\\filldraw[${data[8]}] (0,0) -- (1mm,0) -- (1mm,3mm) -- (0mm,3mm) -- cycle;\\end{tikzpicture}`,
+                `\\begin{tikzpicture}\\filldraw[${data[9]}] (0,0) -- (1mm,0) -- (1mm,3mm) -- (0mm,3mm) -- cycle;\\end{tikzpicture}`,
+            ]
         });
     })
     .on('end',function() {
@@ -41,7 +45,7 @@ fs.createReadStream("./" + process.argv[2])
                     templateToReplace = templateToReplace.concat("\\vspace{-2mm} \n");
                 }
                 csvData[type][set].forEach(entry => {
-                    templateToReplace = templateToReplace.concat(`\\texttt{${type==="Promo"? entry.set + " - ": ""}${entry.number}} ${entry.checkboxes.join("")} \\makebox[2mm][r]{\\raisebox{-1mm}{\\includegraphics[height=3mm]{${entry.rarity}}}} \\texttt{${entry.title}} \\vspace{-0.3mm}\\\\ \n`);
+                    templateToReplace = templateToReplace.concat(`\\texttt{${type==="Promo"? entry.set + " - ": ""}${entry.number}} ${entry.aspects.join("")} ${entry.checkboxes.join("")} \\makebox[2mm][r]{\\raisebox{-1mm}{\\includegraphics[height=3mm]{${entry.rarity}}}} \\texttt{${entry.title}} \\vspace{-0.3mm}\\\\ \n`);
                 });
             }
 
@@ -50,7 +54,7 @@ fs.createReadStream("./" + process.argv[2])
 
         const newFilePath = "./" + process.argv[2].split(".")[0] + ".tex"
 
-        fs.readFile("template.tex", 'utf-8', (err, contents) => {
+        fs.readFile("personalTemplate.tex", 'utf-8', (err, contents) => {
             if (err) {
                 return console.error(err)
             }
