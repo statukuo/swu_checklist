@@ -1,5 +1,6 @@
 var fs = require('fs');
 var {parse} = require('csv-parse');
+var removeAccents = require('remove-accents');
 
 var csvData={};
 
@@ -23,7 +24,7 @@ fs.createReadStream("./" + process.argv[2])
             number: data[1].padStart(3, "0"),
             checkboxes:new Array(parseInt(data[5])).fill("").map((_, idx) => idx < data[3]? "\\begin{tikzpicture}\\filldraw[black] (31mm,1.5mm) circle (2pt);\\end{tikzpicture}" : "\\begin{tikzpicture}\\draw[gray] (31mm,1.5mm) circle (2pt);\\end{tikzpicture}"),
             rarity: data[4][0].toLowerCase(),
-            title: data[2].substring(0,30),
+            title: removeAccents(data[2].substring(0,30)),
             aspects: [
                 `\\begin{tikzpicture}\\filldraw[${data[7]}] (0,0) -- (1mm,0) -- (1mm,3mm) -- (0mm,3mm) -- cycle;\\end{tikzpicture}`,
                 `\\begin{tikzpicture}\\filldraw[${data[8]}] (0,0) -- (1mm,0) -- (1mm,3mm) -- (0mm,3mm) -- cycle;\\end{tikzpicture}`,

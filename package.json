@@ -13,6 +13,7 @@
     "csv-parse": "^5.6.0",
     "csv-parser": "^3.2.0",
     "fs": "^0.0.1-security",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "remove-accents": "^0.5.0"
   }
 }
