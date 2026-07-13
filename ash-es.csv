@@ -1,0 +1,264 @@
+ASH,1,La Armera El acero nos moldea,Rare,Leader,Command Vigilance,1
+ASH,2,Fennec Shand La guerra es inevitable,Rare,Leader,Aggression Cunning,1
+ASH,3,Baylan Skoll Mas poder del que nunca hayas sonado,Common,Leader,Vigilance Villainy,1
+ASH,4,Gran almirante Thrawn La victoria es mia,Rare,Leader,Vigilance Villainy,1
+ASH,5,Luke Skywalker Yo puedo salvarle,Special,Leader,Vigilance Heroism,1
+ASH,6,Sabine Wren Se la juega por un palpito,Common,Leader,Vigilance Heroism,1
+ASH,7,Gran almirante Sloane Mantiene unido al Imperio,Rare,Leader,Command Villainy,1
+ASH,8,Moff Gideon Caudillo indomito,Common,Leader,Command Villainy,1
+ASH,9,Ahsoka Tano Confia en la Fuerza,Common,Leader,Command Heroism,1
+ASH,10,Bo-Katan Kryze Quiere recuperar Mandalore,Rare,Leader,Command Heroism,1
+ASH,11,Cad Bane Sigo siendo mas rapido que tu,Common,Leader,Aggression Villainy,1
+ASH,12,Vane Pirata pendenciero,Rare,Leader,Aggression Villainy,1
+ASH,13,Ezra Bridger Es ahora o nunca,Common,Leader,Aggression Heroism,1
+ASH,14,El mandaloriano No podemos seguir huyendo,Rare,Leader,Aggression Heroism,1
+ASH,15,Emperador Palpatine De acuerdo con mis designios,Special,Leader,Cunning Villainy,1
+ASH,16,Shin Hati rival impetuosa,Common,Leader,Cunning Villainy,1
+ASH,17,Greef Karga Magistrado cortes,Common,Leader,Cunning Heroism,1
+ASH,18,Grogu Companero encantador,Rare,Leader,Cunning Heroism,1
+ASH,19,Fortaleza de las Grandes Madres,Common,Base,Vigilance,1
+ASH,20,"Ciudad Nevarro, restaurada",Common,Base,Vigilance,1
+ASH,21,Salon del trono del Emperador,Common,Base,Command,1
+ASH,22,Castillo de Kryze,Common,Base,Command,1
+ASH,23,Circulo de piedras antiguo,Common,Base,Aggression,1
+ASH,24,Cienaga de la serpiente dragon,Common,Base,Aggression,1
+ASH,25,Observatorio del Emperador,Common,Base,Cunning,1
+ASH,26,Ciudad Libre,Common,Base,Cunning,1
+ASH,27,Enoch Siervo solemne,Rare,Unit,Multicolor,3
+ASH,28,Paz Vizsla En pro de un futuro mejor,Rare,Unit,Multicolor,3
+ASH,29,Droide aniquilador Scorpenek,Uncommon,Unit,Multicolor,3
+ASH,30,Marrok Guerrero misterioso,Rare,Unit,Multicolor,3
+ASH,31,Hera Syndulla General renegada,Rare,Unit,Multicolor,3
+ASH,32,Cuidador del rancor,Uncommon,Unit,Multicolor,3
+ASH,33,Gran almirante Thrawn Orquestando su regreso,Rare,Unit,Multicolor,3
+ASH,34,Wicket Yab nab!,Rare,Unit,Multicolor,3
+ASH,35,Tren repulsor de Tatooine,Uncommon,Unit,Multicolor,3
+ASH,36,Rukh Desde las sombras,Rare,Unit,Multicolor,3
+ASH,37,Jefe Rojo Dispara al reactor,Rare,Unit,Multicolor,3
+ASH,38,Purrgil Ultra,Uncommon,Unit,Multicolor,3
+ASH,39,Baylan Skoll Jedi caido,Rare,Unit,Multicolor,3
+ASH,40,Poe Dameron Yo te buscare,Rare,Unit,Multicolor,3
+ASH,41,Outcast Nave estelar mercenaria,Uncommon,Unit,Multicolor,3
+ASH,42,Jabba el Hutt Eminencia de Tatooine,Rare,Unit,Multicolor,3
+ASH,43,Corona Cuatro Justicia por Alderaan,Rare,Unit,Multicolor,3
+ASH,44,Barriss Offee Quiere redimirse,Uncommon,Unit,Multicolor,3
+ASH,45,Soldado nocturno reanimado,Common,Unit,Vigilance Villainy,3
+ASH,46,Lanzadera Vastago A disposicion de Morgan,Uncommon,Unit,Vigilance Villainy,3
+ASH,47,Gar Saxon Ambiciona el poder,Rare,Unit,Vigilance Villainy,3
+ASH,48,Comando acorazado imperial,Common,Unit,Vigilance Villainy,3
+ASH,49,Shin Hati Vais a algun sitio?,Uncommon,Unit,Vigilance Villainy,3
+ASH,50,Morgan Elsbeth Ha abandonado su antigua vida,Uncommon,Unit,Vigilance Villainy,3
+ASH,51,Crucero ligero de refuerzo,Common,Unit,Vigilance Villainy,3
+ASH,52,Quimera Una espantosa realidad,Legendary,Unit,Vigilance Villainy,3
+ASH,53,Pre Vizsla Gobierna con tenacidad,Legendary,Unit,Vigilance Villainy,3
+ASH,54,Es inutil resistirse,Uncommon,Upgrade,Vigilance Villainy,3
+ASH,55,Espada de Talzin Un regalo de las sombras,Rare,Upgrade,Vigilance Villainy,3
+ASH,56,Huyang Su dominio de la Fuerza es inferior,Uncommon,Unit,Vigilance Heroism,3
+ASH,57,Ala-E de Lothal,Common,Unit,Vigilance Heroism,3
+ASH,58,Protector de la duquesa,Common,Unit,Vigilance Heroism,3
+ASH,59,Leia Organa Alerta ante el peligro,Special,Unit,Vigilance Heroism,3
+ASH,60,Cobb Vanth Ya me ocupo yo,Rare,Unit,Vigilance Heroism,3
+ASH,61,Vanguardia del comando de asalto,Common,Unit,Vigilance Heroism,3
+ASH,62,El mandaloriano Salvador abnegado,Legendary,Unit,Vigilance Heroism,3
+ASH,63,Guantelete de Bo-Katan Ayuda desde el cielo,Rare,Unit,Vigilance Heroism,3
+ASH,64,La Armera Nuestro secretismo es nuestra supervivencia,Uncommon,Unit,Vigilance Heroism,3
+ASH,65,Hogar Uno El corazon de la flota,Uncommon,Unit,Vigilance Heroism,3
+ASH,66,Sable de luz jedi de Luke Construido a mano,Special,Upgrade,Vigilance Heroism,3
+ASH,67,Pierdete,Uncommon,Event,Vigilance Heroism,3
+ASH,68,Gato de Lothal domestico,Uncommon,Unit,Vigilance,3
+ASH,69,Nomada noti,Common,Unit,Vigilance,3
+ASH,70,Droide de seguridad de At Attin,Rare,Unit,Vigilance,3
+ASH,71,Remolcadora danada,Common,Unit,Vigilance,3
+ASH,72,Doctor Pershing Consagrado a la investigacion,Uncommon,Unit,Vigilance,3
+ASH,73,Droide cocinero de palacio,Common,Unit,Vigilance,3
+ASH,74,Modificador de Mos Eisley,Uncommon,Unit,Vigilance,3
+ASH,75,Equipo de droides de boxes,Common,Unit,Vigilance,3
+ASH,76,Oficial del Remanente,Common,Unit,Vigilance,3
+ASH,77,Ryder Azadi Gobernador restituido,Rare,Unit,Vigilance,3
+ASH,78,Ala-B de retaguardia,Common,Unit,Vigilance,3
+ASH,79,Koska Reeves Guerrera de Mandalore,Rare,Unit,Vigilance,3
+ASH,80,Fieles del escondrijo,Common,Unit,Vigilance,3
+ASH,81,Fragata Nebulon-C,Common,Unit,Vigilance,3
+ASH,82,Merodeador blindado Trexler,Common,Unit,Vigilance,3
+ASH,83,Summa-verminoth,Legendary,Unit,Vigilance,3
+ASH,84,Mapa estelar de Arcana La ruta hacia Peridea,Legendary,Upgrade,Vigilance,3
+ASH,85,Explosivo gravitico,Uncommon,Upgrade,Vigilance,3
+ASH,86,Blindaje de duracero,Common,Upgrade,Vigilance,3
+ASH,87,Mejoras ciberneticas,Common,Upgrade,Vigilance,3
+ASH,88,La lucha en tu interior,Uncommon,Upgrade,Vigilance,3
+ASH,89,Perseverancia,Common,Event,Vigilance,3
+ASH,90,Forjar de nuevo,Rare,Event,Vigilance,3
+ASH,91,Ganar tiempo,Common,Event,Vigilance,3
+ASH,92,Rescate de huerfano,Common,Event,Vigilance,3
+ASH,93,Capitan Pellaeon Conspira en la sombra,Uncommon,Unit,Command Villainy,3
+ASH,94,Moff Jerjerrod Nos esforzaremos,Special,Unit,Command Villainy,3
+ASH,95,Interceptor del Remanente,Common,Unit,Command Villainy,3
+ASH,96,Patrulla del bosque,Common,Unit,Command Villainy,3
+ASH,97,Moff Gideon Comandante del Remanente,Uncommon,Unit,Command Villainy,3
+ASH,98,AT-ST incursor,Common,Unit,Command Villainy,3
+ASH,99,Portacazas de asalto Gozanti,Uncommon,Unit,Command Villainy,3
+ASH,100,Gallius Rax Consejero del Imperio,Legendary,Unit,Command Villainy,3
+ASH,101,Las Grandes Madres Dominan una magia extrana,Rare,Unit,Command Villainy,3
+ASH,102,Desolador La ultima nave de mando imperial,Legendary,Unit,Command Villainy,3
+ASH,103,Larga vida al Imperio,Uncommon,Event,Command Villainy,3
+ASH,104,Magia de Dathomir,Rare,Event,Command Villainy,3
+ASH,105,Bo-Katan Kryze Por todo Mandalore,Rare,Unit,Command Heroism,3
+ASH,106,Sargento de senalizadores,Common,Unit,Command Heroism,3
+ASH,107,Leal al clan Wren,Common,Unit,Command Heroism,3
+ASH,108,Crix Madine Estratega del comando de asalto,Uncommon,Unit,Command Heroism,3
+ASH,109,Lanzadera T-6 1974 Con la devocion de una mentora,Uncommon,Unit,Command Heroism,3
+ASH,110,Almirante Ackbar Todos los grupos en coordenadas de ataque,Legendary,Unit,Command Heroism,3
+ASH,111,Hijos de la Guardia,Common,Unit,Command Heroism,3
+ASH,112,Luke Skywalker Respondiendo a la llamada,Legendary,Unit,Command Heroism,3
+ASH,113,Nave insignia mandaloriana Capturada al Imperio,Uncommon,Unit,Command Heroism,3
+ASH,114,Sable de luz de Sabine Sola no,Rare,Upgrade,Command Heroism,3
+ASH,115,El alumno guia al maestro,Uncommon,Event,Command Heroism,3
+ASH,116,Droide hormiga,Common,Unit,Command,3
+ASH,117,TIE Forastero protector,Common,Unit,Command,3
+ASH,118,8D8 Mayordomo del daimio,Rare,Unit,Command,3
+ASH,119,Greef Karga Hay que hacer presentaciones,Uncommon,Unit,Command,3
+ASH,120,Guerrero del clan Kryze,Common,Unit,Command,3
+ASH,121,Blurrg,Common,Unit,Command,3
+ASH,122,Vibora Estelar del Consorcio,Common,Unit,Command,3
+ASH,123,Lang Mercenario arrogante,Rare,Unit,Command,3
+ASH,124,Caza del Protectorado,Common,Unit,Command,3
+ASH,125,Lanzadera clase Eta robada,Uncommon,Unit,Command,3
+ASH,126,Esquife de supervivientes,Common,Unit,Command,3
+ASH,127,Los mellizos No queremos una guerra,Rare,Unit,Command,3
+ASH,128,Bothan-5 Nave prision de la Nueva Republica,Rare,Unit,Command,3
+ASH,129,Defensores del bosque,Common,Unit,Command,3
+ASH,130,Escuadron de cazas Colmillo,Common,Unit,Command,3
+ASH,131,Tortuga dinosaurio,Common,Unit,Command,3
+ASH,132,Reina Soruna Dispuesta a luchar,Rare,Unit,Command,3
+ASH,133,Andador Trask,Uncommon,Unit,Command,3
+ASH,134,Legado de guerreros,Common,Upgrade,Command,3
+ASH,135,La Espada Oscura Simbolo de liderazgo,Legendary,Upgrade,Command,3
+ASH,136,Demostracion de fuerza,Common,Event,Command,3
+ASH,137,Aniquiladles,Uncommon,Event,Command,3
+ASH,138,Invertir las tornas,Common,Event,Command,3
+ASH,139,Mantenerlos a raya,Uncommon,Event,Command,3
+ASH,140,Mas fuertes juntos,Common,Event,Command,3
+ASH,141,Fustigador TIE,Common,Unit,Aggression Villainy,3
+ASH,142,Soldado con mortero,Uncommon,Unit,Aggression Villainy,3
+ASH,143,Teniente de la Fuerza Tempestad,Common,Unit,Aggression Villainy,3
+ASH,144,Caza monoplaza de Vane Orgulloso e impulsivo,Rare,Unit,Aggression Villainy,3
+ASH,145,Pretoriano de elite,Common,Unit,Aggression Villainy,3
+ASH,146,Justificador Implacable,Uncommon,Unit,Aggression Villainy,3
+ASH,147,Ciborg mecanico Amenaza misteriosa,Uncommon,Unit,Aggression Villainy,3
+ASH,148,La Novena Hermana Inquisidora descomunal,Legendary,Unit,Aggression Villainy,3
+ASH,149,Eviscerador Incinera ideas que no deben perdurar,Rare,Unit,Aggression Villainy,3
+ASH,150,Vulnerabilidad critica,Uncommon,Upgrade,Aggression Villainy,3
+ASH,151,Operacion Ceniza,Rare,Event,Aggression Villainy,3
+ASH,152,Recluta inspirada,Common,Unit,Aggression Heroism,3
+ASH,153,Jefe Verde El sacrificio de Crynyd,Rare,Unit,Aggression Heroism,3
+ASH,154,Buho Nocturno honorable,Common,Unit,Aggression Heroism,3
+ASH,155,Grogu Si. Si. Si.,Legendary,Unit,Aggression Heroism,3
+ASH,156,R5-D4 Hecho para la aventura,Uncommon,Unit,Aggression Heroism,3
+ASH,157,Pilotos de flanco del Escuadron Peligro,Common,Unit,Aggression Heroism,3
+ASH,158,Han Solo Funcionara,Special,Unit,Aggression Heroism,3
+ASH,159,Ala-U del Escuadron Alfabeto Devocion silenciosa,Uncommon,Unit,Aggression Heroism,3
+ASH,160,Milicia de Kachirho,Uncommon,Unit,Aggression Heroism,3
+ASH,161,Zeb Orrelios Los punos nunca fallan,Legendary,Unit,Aggression Heroism,3
+ASH,162,Accion impulsiva,Uncommon,Event,Aggression Heroism,3
+ASH,163,Sacrificio temerario,Rare,Event,Aggression Heroism,3
+ASH,164,Cazador alamita,Common,Unit,Aggression,3
+ASH,165,Soldado del clan Vizsla,Common,Unit,Aggression,3
+ASH,166,Guerrero ewok,Common,Unit,Aggression,3
+ASH,167,Lanzadera de ataque clase Fulgor,Common,Unit,Aggression,3
+ASH,168,Migs Mayfeld Que tal un brindis?,Rare,Unit,Aggression,3
+ASH,169,Axe Woves Impavido,Uncommon,Unit,Aggression,3
+ASH,170,Francotiradora del desierto,Common,Unit,Aggression,3
+ASH,171,Tri-ala Pegaso,Common,Unit,Aggression,3
+ASH,172,Razor Crest Armamento recien instalado,Uncommon,Unit,Aggression,3
+ASH,173,Esquife de piratas shydopp,Common,Unit,Aggression,3
+ASH,174,Bombardero pesado Fortaleza Estelar,Common,Unit,Aggression,3
+ASH,175,Jefe tribal wookiee,Common,Unit,Aggression,3
+ASH,176,Andador explorador imponente,Common,Unit,Aggression,3
+ASH,177,Ceniza de onix La aventura os aguarda,Rare,Unit,Aggression,3
+ASH,178,Arana nudosa blanca de los hielos,Uncommon,Unit,Aggression,3
+ASH,179,Rancor de Boba Fett Una criatura emocionalmente compleja,Legendary,Unit,Aggression,3
+ASH,180,Bokken,Uncommon,Upgrade,Aggression,3
+ASH,181,Presta atencion,Common,Upgrade,Aggression,3
+ASH,182,Ambicion desmedida,Rare,Upgrade,Aggression,3
+ASH,183,Silbadores,Legendary,Upgrade,Aggression,3
+ASH,184,Sigueme,Common,Event,Aggression,3
+ASH,185,Intimidacion,Common,Event,Aggression,3
+ASH,186,Campo de minas traicionero,Rare,Event,Aggression,3
+ASH,187,El sonido de la venganza,Uncommon,Event,Aggression,3
+ASH,188,Salto potenciado,Common,Event,Aggression,3
+ASH,189,Emisario del Emperador,Common,Unit,Cunning Villainy,3
+ASH,190,Bandido de Peridea,Common,Unit,Cunning Villainy,3
+ASH,191,Caza Diabolico de Shin Hati Compacto y agil,Uncommon,Unit,Cunning Villainy,3
+ASH,192,Fennec Shand La galaxia es peligrosa,Uncommon,Unit,Cunning Villainy,3
+ASH,193,Adalid del Emperador,Common,Unit,Cunning Villainy,3
+ASH,194,Escuadron de monoplazas,Uncommon,Unit,Cunning Villainy,3
+ASH,195,Helgait Dooku era un visionario,Rare,Unit,Cunning Villainy,3
+ASH,196,Corsario de Gorian Shard Acorazado pirata,Legendary,Unit,Cunning Villainy,3
+ASH,197,Ejecutor La destruccion final de la Alianza,Special,Unit,Cunning Villainy,3
+ASH,198,No hay donde esconderse,Uncommon,Upgrade,Cunning Villainy,3
+ASH,199,No hay lucha interna,Special,Upgrade,Cunning Villainy,3
+ASH,200,Rehabilitacion,Rare,Event,Cunning Villainy,3
+ASH,201,As del Circulo Abierto,Common,Unit,Cunning Heroism,3
+ASH,202,Carson Teva Aqui esta pasando algo,Rare,Unit,Cunning Heroism,3
+ASH,203,Caza estelar N-1 de Mando Mas rapida que un fathier,Rare,Unit,Cunning Heroism,3
+ASH,204,Espada Tres La perdicion del Devastador,Uncommon,Unit,Cunning Heroism,3
+ASH,205,Veterana ejemplar,Common,Unit,Cunning Heroism,3
+ASH,206,Kelleran Beq Y los demas?,Legendary,Unit,Cunning Heroism,3
+ASH,207,Purrgil heroico,Common,Unit,Cunning Heroism,3
+ASH,208,Sabine Wren Lo aprendi por las malas,Uncommon,Unit,Cunning Heroism,3
+ASH,209,Ezra Bridger Me basta con la Fuerza,Uncommon,Unit,Cunning Heroism,3
+ASH,210,Defensor del CDD,Uncommon,Upgrade,Cunning Heroism,3
+ASH,211,Despedida amarga,Rare,Event,Cunning Heroism,3
+ASH,212,Peli Motto Traes el dinero?,Rare,Unit,Cunning,3
+ASH,213,Rata womp,Common,Unit,Cunning,3
+ASH,214,Oficial amnistiado,Common,Unit,Cunning,3
+ASH,215,Interceptor TIE flanqueador,Common,Unit,Cunning,3
+ASH,216,Explorador mandaloriano,Common,Unit,Cunning,3
+ASH,217,Mayordomo del alcalde No tiene ningun reparo en arrastrarse,Uncommon,Unit,Cunning,3
+ASH,218,Droide barquero,Common,Unit,Cunning,3
+ASH,219,Jod Na Nawood Guardadme el secreto,Rare,Unit,Cunning,3
+ASH,220,Centinelas del Remanente,Uncommon,Unit,Cunning,3
+ASH,221,Caza estelar Helix,Common,Unit,Cunning,3
+ASH,222,Patrulla no autorizada,Common,Unit,Cunning,3
+ASH,223,Halo el plan se ha torcido,Uncommon,Unit,Cunning,3
+ASH,224,Elzar Mann Atormentado por una vision,Legendary,Unit,Cunning,3
+ASH,225,Bestia de las arenas de Tatooine,Common,Unit,Cunning,3
+ASH,226,Qi'ra Experta en ter s k si,Uncommon,Unit,Cunning,3
+ASH,227,Percepcion agudizada,Common,Upgrade,Cunning,3
+ASH,228,Preparacion,Common,Upgrade,Cunning,3
+ASH,229,Camtono,Rare,Upgrade,Cunning,3
+ASH,230,Disfraz improvisado,Legendary,Upgrade,Cunning,3
+ASH,231,Etiqueta diplomatica,Common,Event,Cunning,3
+ASH,232,Lleno de sorpresas,Common,Event,Cunning,3
+ASH,233,Que sigan hablando,Common,Event,Cunning,3
+ASH,234,Jugada magistral,Common,Event,Cunning,3
+ASH,235,Percibir mediante la Fuerza,Rare,Event,Cunning,3
+ASH,236,"Muy, muy lejana",Uncommon,Event,Cunning,3
+ASH,237,Droide raton,Common,Unit,Villainy,3
+ASH,238,Navegante asistente,Common,Unit,Villainy,3
+ASH,239,Leal al Imperio,Common,Unit,Villainy,3
+ASH,240,Supercomando mandaloriano,Common,Unit,Villainy,3
+ASH,241,Caza Diabolico de Marrok Formidable en la persecucion,Uncommon,Unit,Villainy,3
+ASH,242,Escuadra de soldados de la muerte,Common,Unit,Villainy,3
+ASH,243,Darth Vader Sabras cual es tu destino,Special,Unit,Villainy,3
+ASH,244,Brigada de soldados del Remanente,Common,Unit,Villainy,3
+ASH,245,El Ojo de Sion Rescatado del exilio,Legendary,Unit,Villainy,3
+ASH,246,Aprovechar una ventaja,Common,Event,Villainy,3
+ASH,247,Hay que destruir para poder crear,Rare,Event,Villainy,3
+ASH,248,Neel Un crio adorable,Rare,Unit,Heroism,3
+ASH,249,Veterano del escondrijo,Common,Unit,Heroism,3
+ASH,250,Desertor del Imperio,Common,Unit,Heroism,3
+ASH,251,Soldado fanatico,Common,Unit,Heroism,3
+ASH,252,Droide centinela N5,Common,Unit,Heroism,3
+ASH,253,Bombardero de los Ases Amarillos,Uncommon,Unit,Heroism,3
+ASH,254,Transporte de Gallofree,Common,Unit,Heroism,3
+ASH,255,Anakin Skywalker Tenias razon acerca de mi,Special,Unit,Heroism,3
+ASH,256,Comando de infiltracion rebelde,Common,Unit,Heroism,3
+ASH,257,Elige tu camino,Rare,Event,Heroism,3
+ASH,258,Resistencia tribal,Common,Event,Heroism,3
+ASH,259,Droide LEP cazarratas,Common,Unit,Neutral,3
+ASH,260,Vendedor de agua de Mos Espa,Common,Unit,Neutral,3
+ASH,261,Capsula movil noti,Common,Unit,Neutral,3
+ASH,262,Fe en el Imperio,Common,Upgrade,Neutral,3
+ASH,263,El camino del mand'alor,Common,Upgrade,Neutral,3
+ASH,264,Un nuevo orden,Common,Event,Neutral,3
