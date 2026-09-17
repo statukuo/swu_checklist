@@ -1,0 +1,272 @@
+HMW,1,Asajj Ventress  No Time For Regret,Rare,Leader,Vigilance Aggression,1
+HMW,2,Maz Kanata  Eclectic Pirate Queen,Rare,Leader,Command Cunning,1
+HMW,3,Doctor Hemlock  Emotion Has No Place Here,Common,Leader,Vigilance Villainy,1
+HMW,4,Grand Moff Tarkin  Tyrant of the Outer Rim,Special,Leader,Vigilance Villainy,1
+HMW,5,Jar Jar Binks  Bombad General,Common,Leader,Vigilance Heroism,1
+HMW,6,Omega  Close Your Eyes and Focus,Rare,Leader,Vigilance Heroism,1
+HMW,7,Darth Vader  Might of the Empire,Rare,Leader,Command Villainy,1
+HMW,8,General Grievous  Separatist Warlord,Common,Leader,Command Villainy,1
+HMW,9,Chewbacca  Relentless Rebel,Special,Leader,Command Heroism,1
+HMW,10,Tarfful  Fighting from the Shadowlands,Common,Leader,Command Heroism,1
+HMW,11,Darth Sidious  There is No Mercy,Rare,Leader,Aggression Villainy,1
+HMW,12,Poggle the Lesser  Let the Executions Begin,Common,Leader,Aggression Villainy,1
+HMW,13,Cham Syndulla  Hammer of Ryloth,Rare,Leader,Aggression Heroism,1
+HMW,14,Wicket  Few Greater Battles to Fight,Common,Leader,Aggression Heroism,1
+HMW,15,Bossk  Cruel Hunter,Common,Leader,Cunning Villainy,1
+HMW,16,Maul  Old Master,Rare,Leader,Cunning Villainy,1
+HMW,17,Osha  Haunted by her Past,Rare,Leader,Cunning Heroism,1
+HMW,18,The Warrior  Deft Duelist,Common,Leader,Cunning Heroism,1
+HMW,19,Dune Sea,Common,Base,Vigilance,1
+HMW,20,Great Grass Plains,Common,Base,Vigilance,1
+HMW,21,Kachirho,Common,Base,Vigilance,1
+HMW,22,Shield Generator Complex,Common,Base,Vigilance,1
+HMW,23,Bright Tree Village,Common,Base,Command,1
+HMW,24,Origin Tree,Common,Base,Command,1
+HMW,25,Theed Palace,Common,Base,Command,1
+HMW,26,Tusken Camp,Common,Base,Command,1
+HMW,27,Bioweapons Lab,Common,Base,Aggression,1
+HMW,28,Jundland Wastes,Common,Base,Aggression,1
+HMW,29,Dendroid Wilds,Common,Base,Aggression,1
+HMW,30,Shadowlands,Common,Base,Aggression,1
+HMW,31,Kyyyalstaad Swamp,Common,Base,Cunning,1
+HMW,32,Mos Eisley,Common,Base,Cunning,1
+HMW,33,Otoh Gunga,Common,Base,Cunning,1
+HMW,34,Research Station 9,Common,Base,Cunning,1
+HMW,35,Hunter  Everyone Get to Cover!,Legendary,Unit,Multicolor,3
+HMW,36,Kelnacca  Solitary Master,Rare,Unit,Multicolor,3
+HMW,37,Bacta Tank,Rare,Upgrade,Multicolor,3
+HMW,38,Bestial Bond,Uncommon,Upgrade,Multicolor,3
+HMW,39,Mother Talzin  Pledged to the Sisterhood,Rare,Unit,Multicolor,3
+HMW,40,Talzin's Shuttle  Mysterious Arrival,Uncommon,Unit,Multicolor,3
+HMW,41,Keeper of Skara Nal  Awoken,Rare,Unit,Multicolor,3
+HMW,42,Dooku  Corruption Must Be Eradicated,Legendary,Unit,Multicolor,3
+HMW,43,Darth Vader  Any Methods Necessary,Legendary,Unit,Multicolor,3
+HMW,44,Ima-Gun Di  Holding Out For Resupply,Legendary,Unit,Multicolor,3
+HMW,45,Logray  Bright Tree Shaman,Uncommon,Unit,Multicolor,3
+HMW,46,Krrsantan  Santo,Rare,Unit,Multicolor,3
+HMW,47,Eravana  Hauling Rathtars,Uncommon,Unit,Multicolor,3
+HMW,48,Vernestra Rwoh  We Should Handle This Ourselves,Legendary,Unit,Multicolor,3
+HMW,49,Greater Sarlacc,Rare,Unit,Multicolor,3
+HMW,50,Low Altitude Combat,Rare,Event,Multicolor,3
+HMW,51,Third Sister  Cycle of Vengeance,Legendary,Unit,Multicolor,3
+HMW,52,A'Koba  Restless Raider,Uncommon,Unit,Multicolor,3
+HMW,53,Fett's Firespray  Settling the Score,Rare,Unit,Multicolor,3
+HMW,54,Seismic Detonation,Rare,Event,Multicolor,3
+HMW,55,Mae  Kill the Dream,Legendary,Unit,Multicolor,3
+HMW,56,Yoda  Trickster In Exile,Legendary,Unit,Multicolor,3
+HMW,57,Boss Lyonie  Hypnotized,Uncommon,Unit,Multicolor,3
+HMW,58,Mysterious Disappearance,Rare,Event,Multicolor,3
+HMW,59,Clone X Assassin,Common,Unit,Vigilance Villainy,3
+HMW,60,Vice Admiral Rampart  A New Era of Safety,Special,Unit,Vigilance Villainy,3
+HMW,61,Director Krennic  The Work Has Stalled,Special,Unit,Vigilance Villainy,3
+HMW,62,Nuvo Vindi  Blue Shadow Perfected,Rare,Unit,Vigilance Villainy,3
+HMW,63,Rho Medical Shuttle,Common,Unit,Vigilance Villainy,3
+HMW,64,Scorch  Imperial Commando,Uncommon,Unit,Vigilance Villainy,3
+HMW,65,Clone of the Zillo Beast  Emperor's Experiment,Rare,Unit,Vigilance Villainy,3
+HMW,66,Carrion Spike  Harbinger of Tyranny,Rare,Unit,Vigilance Villainy,3
+HMW,67,The Great Progenitor  First of the Drengir,Legendary,Unit,Vigilance Villainy,3
+HMW,68,Imperial Commandos,Uncommon,Unit,Vigilance Villainy,3
+HMW,69,Imperial Venator,Common,Unit,Vigilance Villainy,3
+HMW,70,Dark Sanctum,Uncommon,Upgrade,Vigilance Villainy,3
+HMW,71,Ravage,Uncommon,Event,Vigilance Villainy,3
+HMW,72,Grand Army Marine,Common,Unit,Vigilance Heroism,3
+HMW,73,Peppi Bow  Shaak Herder,Uncommon,Unit,Vigilance Heroism,3
+HMW,74,Yord Fandar  Devoutly Disciplined,Rare,Unit,Vigilance Heroism,3
+HMW,75,Wookiee Protector,Common,Unit,Vigilance Heroism,3
+HMW,76,Yanna  Sanctuary Elder,Uncommon,Unit,Vigilance Heroism,3
+HMW,77,Boss Nass  Otoh Gunga Boss,Rare,Unit,Vigilance Heroism,3
+HMW,78,Qui-Gon Jinn  We'll Handle This,Legendary,Unit,Vigilance Heroism,3
+HMW,79,Radiant VII  Negotiating For Naboo,Uncommon,Unit,Vigilance Heroism,3
+HMW,80,Fambaa Shield Team,Common,Unit,Vigilance Heroism,3
+HMW,81,Alliance Shield Generator,Uncommon,Upgrade,Vigilance Heroism,3
+HMW,82,Nala Se  Silent Survivor,Rare,Unit,Vigilance Vigilance,3
+HMW,83,Batcher  Loyal Hound,Uncommon,Unit,Vigilance,3
+HMW,84,Gunga City Guard,Common,Unit,Vigilance,3
+HMW,85,Remote Scout,Common,Unit,Vigilance,3
+HMW,86,N-1 Patroller,Common,Unit,Vigilance,3
+HMW,87,Venomous Wyyyshokk,Common,Unit,Vigilance,3
+HMW,88,Numa  Still Fighting,Uncommon,Unit,Vigilance,3
+HMW,89,Territorial Mudhorn,Common,Unit,Vigilance,3
+HMW,90,Opee Sea Killer,Common,Unit,Vigilance,3
+HMW,91,Pelta Relief Frigate,Common,Unit,Vigilance,3
+HMW,92,Starlit Purrgil,Common,Unit,Vigilance,3
+HMW,93,Coastal Catamarans,Common,Unit,Vigilance,3
+HMW,94,Sando Aqua Monster,Legendary,Unit,Vigilance,3
+HMW,95,Carbonite Chamber,Uncommon,Upgrade,Vigilance,3
+HMW,96,Devotion,Uncommon,Upgrade,Vigilance,3
+HMW,97,Dire Prowess,Common,Upgrade,Vigilance,3
+HMW,98,Resonate,Common,Event,Vigilance,3
+HMW,99,Always a Bigger Fish,Rare,Event,Vigilance,3
+HMW,100,Torrent,Common,Event,Vigilance,3
+HMW,101,Trust Yourself,Common,Event,Vigilance,3
+HMW,102,Dragon's Might,Common,Event,Vigilance,3
+HMW,103,Disposable B1,Common,Unit,Command Villainy,3
+HMW,104,Garnac  Let the Hunt Begin!,Rare,Unit,Command Villainy,3
+HMW,105,Nute Gunray  Perfectly Legal,Uncommon,Unit,Command Villainy,3
+HMW,106,Secessionist Convert,Common,Unit,Command Villainy,3
+HMW,107,Stormtrooper Patrol,Uncommon,Unit,Command Villainy,3
+HMW,108,The First Legion  Vader's Fist,Rare,Unit,Command Villainy,3
+HMW,109,Tireless Magnaguard,Uncommon,Unit,Command Villainy,3
+HMW,110,Emperor Palpatine  Consolidating Power,Legendary,Unit,Command Villainy,3
+HMW,111,Invasion Lander,Common,Unit,Command Villainy,3
+HMW,112,Military Academy,Uncommon,Upgrade,Command Villainy,3
+HMW,113,Sinister War Memorial,Special,Upgrade,Command Villainy,3
+HMW,114,Breach,Rare,Event,Command Villainy,3
+HMW,115,Leia Organa  These Are My Friends,Uncommon,Unit,Command Heroism,3
+HMW,116,Ewok Brigade,Common,Unit,Command Heroism,3
+HMW,117,Chewbacca  Resourceful Wookiee,Rare,Unit,Command Heroism,3
+HMW,118,Ryyk Blademaster,Common,Unit,Command Heroism,3
+HMW,119,Saw Gerrera  Shadowlands Insurgent,Rare,Unit,Command Heroism,3
+HMW,120,Auzituck Avenger,Common,Unit,Command Heroism,3
+HMW,121,Hijacked AT-ST,Special,Unit,Command Heroism,3
+HMW,122,Boga  Loyal Varactyl,Uncommon,Unit,Command Heroism,3
+HMW,123,King Grakchawwaa  King of Kashyyyk,Rare,Unit,Command Heroism,3
+HMW,124,Luminara Unduli  Besieged General,Legendary,Unit,Command Heroism,3
+HMW,125,The Marauder  A New Home,Uncommon,Unit,Command Heroism,3
+HMW,126,Verdant Fortress,Uncommon,Upgrade,Command Heroism,3
+HMW,127,Chewbacca's Bowcaster  Handcrafted Tradition,Special,Upgrade,Command Heroism,3
+HMW,128,Mace Windu  Austere Centrist,Rare,Unit,Command Command,3
+HMW,129,Child of Dathomir,Common,Unit,Command,3
+HMW,130,Emerie Karr  For Your Own Good,Common,Unit,Command,3
+HMW,131,Soaring Can-Cell,Common,Unit,Command,3
+HMW,132,Tibidee Mate,Common,Unit,Command,3
+HMW,133,Wroshyr Rebel,Common,Unit,Command,3
+HMW,134,Zam Wesell  Not What She Seems,Rare,Unit,Command,3
+HMW,135,Arena Reek  Fixture of Ceremony,Uncommon,Unit,Command,3
+HMW,136,Lifetree Caravan,Common,Unit,Command,3
+HMW,137,V-19 Skirmisher,Common,Unit,Command,3
+HMW,138,Commander Gree  Of the 41st Elite Corps,Rare,Unit,Command,3
+HMW,139,Flock of Mynocks,Common,Unit,Command,3
+HMW,140,Assault Frigate,Common,Unit,Command,3
+HMW,141,Rex  Outserved His Purpose,Uncommon,Unit,Command,3
+HMW,142,Wookiee Rangers,Common,Unit,Command,3
+HMW,143,Banking Clan Warship,Common,Unit,Command,3
+HMW,144,Howler Pack,Common,Unit,Command,3
+HMW,145,Origin Tree Shyyyo,Legendary,Unit,Command,3
+HMW,146,Outer Rim Garrison,Common,Unit,Command,3
+HMW,147,Beast Lair,Rare,Upgrade,Command,3
+HMW,148,Local Support,Common,Upgrade,Command,3
+HMW,149,Log Trap,Uncommon,Event,Command,3
+HMW,150,Migrate,Common,Event,Command,3
+HMW,151,Overgrowth,Common,Event,Command,3
+HMW,152,Babwa Venomor  Burning Kashyyyk,Rare,Unit,Aggression Villainy,3
+HMW,153,Poacher's Starfighter,Common,Unit,Aggression Villainy,3
+HMW,154,Dooku's Solar Sailer  Droid Army Portent,Rare,Unit,Aggression Villainy,3
+HMW,155,Filthy Dianoga,Common,Unit,Aggression Villainy,3
+HMW,156,Arena Acklay  Screaming Predator,Uncommon,Unit,Aggression Villainy,3
+HMW,157,Corpo Thugs,Common,Unit,Aggression Villainy,3
+HMW,158,Battle-Scarred Destroyer,Uncommon,Unit,Aggression Villainy,3
+HMW,159,General Grievous  Scourge of Dathomir,Legendary,Unit,Aggression Villainy,3
+HMW,160,Noxious Refinery,Uncommon,Upgrade,Aggression Villainy,3
+HMW,161,Raze to Ruin,Rare,Event,Aggression Villainy,3
+HMW,162,Teebo  Striped Hunter,Uncommon,Unit,Aggression Heroism,3
+HMW,163,Champions of Endor,Common,Unit,Aggression Heroism,3
+HMW,164,Chief Chirpa  Defiant Elder,Rare,Unit,Aggression Heroism,3
+HMW,165,Commandeered Tour Shuttle,Common,Unit,Aggression Heroism,3
+HMW,166,Gungi  Fighting For Kashyyyk,Uncommon,Unit,Aggression Heroism,3
+HMW,167,Dune Sea Nomads,Common,Unit,Aggression Heroism,3
+HMW,168,Ezra Bridger  What Are You Afraid Of?,Rare,Unit,Aggression Heroism,3
+HMW,169,Crosshair  I've Changed,Legendary,Unit,Aggression Heroism,3
+HMW,170,Han Solo  My Team's Ready,Uncommon,Unit,Aggression Heroism,3
+HMW,171,Trap Field,Special,Upgrade,Aggression Heroism,3
+HMW,172,Heavy Ion Cannon,Uncommon,Upgrade,Aggression Heroism,3
+HMW,173,Rebel Operation,Rare,Event,Aggression Heroism,3
+HMW,174,Maul  Only Revenge Remains,Rare,Unit,Aggression Aggression,3
+HMW,175,Fennec Shand  A Ship For a Life,Uncommon,Unit,Aggression,3
+HMW,176,Village Troublemaker,Common,Unit,Aggression,3
+HMW,177,Adamant Ewoks,Common,Unit,Aggression,3
+HMW,178,Desperate Nantex,Common,Unit,Aggression,3
+HMW,179,Feisty Blurrg,Common,Unit,Aggression,3
+HMW,180,Stormchaser,Uncommon,Unit,Aggression,3
+HMW,181,Tusken Bantha Rider,Common,Unit,Aggression,3
+HMW,182,Arena Nexu  Starved For Prey,Rare,Unit,Aggression,3
+HMW,183,Nightsister Prodigy,Common,Unit,Aggression,3
+HMW,184,Aggrocrab,Common,Unit,Aggression,3
+HMW,185,Ty Yorrick  Monster Hunter,Rare,Unit,Aggression,3
+HMW,186,Mining Guild Trespasser,Common,Unit,Aggression,3
+HMW,187,Dathomiri Rancor,Common,Unit,Aggression,3
+HMW,188,Giant Gorax,Legendary,Unit,Aggression,3
+HMW,189,Neebray Manta,Uncommon,Unit,Aggression,3
+HMW,190,Enraged,Common,Upgrade,Aggression,3
+HMW,191,Hunter's Instinct,Common,Upgrade,Aggression,3
+HMW,192,Volley Fire,Uncommon,Event,Aggression,3
+HMW,193,Nightfall,Common,Event,Aggression,3
+HMW,194,Run Amok,Common,Event,Aggression,3
+HMW,195,Catch the Scent,Common,Event,Aggression,3
+HMW,196,Qimir  Everyone Has a Weakness,Rare,Unit,Cunning Villainy,3
+HMW,197,Cid Scaleback  Can't Be Trusted,Rare,Unit,Cunning Villainy,3
+HMW,198,Treacherous Pyke,Uncommon,Unit,Cunning Villainy,3
+HMW,199,Geonosian Picador,Common,Unit,Cunning Villainy,3
+HMW,200,Rish Loo  Traitorous Minister,Rare,Unit,Cunning Villainy,3
+HMW,201,Sandtrooper Squad,Common,Unit,Cunning Villainy,3
+HMW,202,Inferno Squad  We Can Grieve Later,Uncommon,Unit,Cunning Villainy,3
+HMW,203,Victor Squadron  In Attack Formation,Uncommon,Unit,Cunning Villainy,3
+HMW,204,Nightbrother  Maul's Gauntlet,Legendary,Unit,Cunning Villainy,3
+HMW,205,Intelligence Agency,Uncommon,Upgrade,Cunning Villainy,3
+HMW,206,The Tarkin Doctrine  Protect and Punish,Special,Upgrade,Cunning Villainy,3
+HMW,207,Maim,Common,Event,Cunning Villainy,3
+HMW,208,Luke Skywalker  Dreaming Farmboy,Rare,Unit,Cunning Heroism,3
+HMW,209,Corona Squadron X-Wing,Common,Unit,Cunning Heroism,3
+HMW,210,Sol  Compassionate Guardian,Uncommon,Unit,Cunning Heroism,3
+HMW,211,Tech  I Thought It Was Obvious,Uncommon,Unit,Cunning Heroism,3
+HMW,212,The Chieftain  Here Since the Oceans Dried,Rare,Unit,Cunning Heroism,3
+HMW,213,Tribubble Bongo Sub,Common,Unit,Cunning Heroism,3
+HMW,214,Phee Genoa  Liberator of Ancient Wonders,Rare,Unit,Cunning Heroism,3
+HMW,215,L3-37  We're Programmed to Learn,Legendary,Unit,Cunning Heroism,3
+HMW,216,Insurgent Camp,Uncommon,Upgrade,Cunning Heroism,3
+HMW,217,Don't Touch Anything,Uncommon,Event,Cunning Heroism,3
+HMW,218,New Tactics,Common,Event,Cunning Heroism,3
+HMW,219,Jaxxon  I Can Hear you Breathing!,Rare,Unit,Cunning Cunning,3
+HMW,220,Clever Trapper,Common,Unit,Cunning,3
+HMW,221,Teeka  You're In Luck,Uncommon,Unit,Cunning,3
+HMW,222,Sandcrawler Sales Team,Common,Unit,Cunning,3
+HMW,223,Therm Scissorpunch  Boastful Gambler,Rare,Unit,Cunning,3
+HMW,224,Tusken Raider,Common,Unit,Cunning,3
+HMW,225,Boba Fett  Family Found,Rare,Unit,Cunning,3
+HMW,226,Gungan Battle Wagon,Common,Unit,Cunning,3
+HMW,227,Horizon Chaser,Common,Unit,Cunning,3
+HMW,228,Lakeside Shaaks,Common,Unit,Cunning,3
+HMW,229,Lurking Wampa,Common,Unit,Cunning,3
+HMW,230,Raiding Party,Common,Unit,Cunning,3
+HMW,231,Dragonboat Freighter,Common,Unit,Cunning,3
+HMW,232,Mon Cal Cruiser,Uncommon,Unit,Cunning,3
+HMW,233,Awakened Exogorth,Uncommon,Unit,Cunning,3
+HMW,234,Ritual Dragon,Legendary,Unit,Cunning,3
+HMW,235,Gaderffii Stick,Common,Upgrade,Cunning,3
+HMW,236,Booma Ball,Common,Upgrade,Cunning,3
+HMW,237,Easy Prey,Common,Event,Cunning,3
+HMW,238,Exploit Confidence,Rare,Event,Cunning,3
+HMW,239,Pounce,Common,Event,Cunning,3
+HMW,240,Sandstorm,Common,Event,Cunning,3
+HMW,241,Howl,Uncommon,Event,Cunning,3
+HMW,242,Occupation Officer,Common,Unit,Villainy,3
+HMW,243,Sun Fac  Poggle's Second,Uncommon,Unit,Villainy,3
+HMW,244,Separatist Harbinger,Common,Unit,Villainy,3
+HMW,245,Trandoshan Collaborator,Common,Unit,Villainy,3
+HMW,246,Pyke Sarisa,Common,Unit,Villainy,3
+HMW,247,Surveillance Cruiser,Common,Unit,Villainy,3
+HMW,248,Defoliator Tank,Rare,Unit,Villainy,3
+HMW,249,Frenzied Tri-Fighters,Common,Unit,Villainy,3
+HMW,250,Imperial Cavalry,Common,Unit,Villainy,3
+HMW,251,Blockade Ship,Uncommon,Unit,Villainy,3
+HMW,252,Villainous Ambition,Common,Upgrade,Villainy,3
+HMW,253,Forced Pacification,Uncommon,Unit,Villainy,3
+HMW,254,Captain Tarpals  Grand Army Captain,Uncommon,Unit,Heroism,3
+HMW,255,C-3PO  Captivating Storyteller,Special,Unit,Heroism,3
+HMW,256,Jedi Interceptor,Common,Unit,Heroism,3
+HMW,257,Ewok Archers,Common,Unit,Heroism,3
+HMW,258,Ryloth Revolutionary Rider,Common,Unit,Heroism,3
+HMW,259,Pack Guardian,Common,Unit,Heroism,3
+HMW,260,Queen Amidala  Retaking Theed,Rare,Unit,Heroism,3
+HMW,261,Ben Kenobi  Don't Be Afraid,Uncommon,Unit,Heroism,3
+HMW,262,Mylaya Rider,Common,Unit,Heroism,3
+HMW,263,Wrecker  Wrecking the Empire,Uncommon,Unit,Heroism,3
+HMW,264,Heroic Bravery,Common,Upgrade,Heroism,3
+HMW,265,Twi'lek Kalikori,Rare,Upgrade,Heroism,3
+HMW,266,Familiar Strategem,Common,Event,Heroism,3
+HMW,267,Renew,Common,Event,Heroism,3
+HMW,268,Offworld Jawa,Common,Unit,—,3
+HMW,269,Friendly Eopie,Common,Unit,—,3
+HMW,270,Wild Space Wanderer,Uncommon,Unit,—,3
+HMW,271,Landing Pad,Common,Upgrade,—,3
+HMW,272,Growth,Common,Event,—,3
