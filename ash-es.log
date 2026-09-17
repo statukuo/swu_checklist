@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025/Debian) (preloaded format=pdflatex 2026.6.4)  13 JUL 2026 08:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025/Debian) (preloaded format=pdflatex 2026.6.4)  17 SEP 2026 12:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -541,7 +541,7 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 618
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count323
 )
-(./ash-es.aux)
+No file ash-es.aux.
 \openout1 = `ash-es.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
@@ -558,7 +558,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
 LaTeX Font Info:    ... okay on input line 43.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
 LaTeX Font Info:    ... okay on input line 43.
- (/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
+(/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
@@ -1830,16 +1830,16 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 15929 strings out of 469514
- 315566 string characters out of 5470073
- 1292595 words of memory out of 5000000
- 44304 multiletter control sequences out of 15000+600000
+ 15926 strings out of 469514
+ 315521 string characters out of 5470073
+ 1292617 words of memory out of 5000000
+ 44303 multiletter control sequences out of 15000+600000
  630753 words of font info for 59 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 102i,6n,107p,1003b,1403s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,6n,107p,1003b,1405s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/davidbarbero/texmf/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on ash-es.pdf (1 page, 56329 bytes).
+Output written on ash-es.pdf (1 page, 56483 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  15 compressed objects within 1 object stream

@@ -1,0 +1,264 @@
+LOF,1,Kylo Ren Aun no hemos concluido,Rare,Leader,Vigilance,1
+LOF,2,Madre Talzin Poder mediante la magia,Common,Leader,Vigilance,1
+LOF,3,Ahsoka Tano Lucha por la paz,Common,Leader,Vigilance,1
+LOF,4,Kanan Jarrus Ayudanos a sobrevivir,Rare,Leader,Vigilance,1
+LOF,5,Morgan Elsbeth Sigue la llamada,Rare,Leader,Command,1
+LOF,6,Lider supremo Snoke Sentado en el trono,Common,Leader,Command,1
+LOF,7,Avar Kriss Alguacil de la estacion Starlight,Rare,Leader,Command,1
+LOF,8,Obi-Wan Kenobi La valentia hace a los heroes,Common,Leader,Command,1
+LOF,9,Darth Maul sith revelado,Special,Leader,Aggression,1
+LOF,10,La Tercera Hermana Rebosante de ambicion,Common,Leader,Aggression,1
+LOF,11,Kit Fisto Maestro jedi concentrado,Common,Leader,Aggression,1
+LOF,12,Rey Nadie,Rare,Leader,Aggression,1
+LOF,13,Barriss Offee Somos los villanos,Rare,Leader,Cunning,1
+LOF,14,Gran Inquisidor Los rumores se propagan con rapidez,Common,Leader,Cunning,1
+LOF,15,Cal Kestis No puedo seguir escondiendome,Common,Leader,Cunning,1
+LOF,16,Qui-Gon Jinn Estudioso de la Fuerza Viviente,Special,Leader,Cunning,1
+LOF,17,Darth Revan Azote de la Antigua Republica,Rare,Leader,Villany,1
+LOF,18,Anakin Skywalker Tentado por el Lado Oscuro,Rare,Leader,Heroism,1
+LOF,19,Templo en la vergencia,Rare,Base,Vigilance,1
+LOF,20,Guarida de las hermanas nocturnas,Common,Base,Vigilance,1
+LOF,21,Subterraneos de Coruscant,Common,Base,Vigilance,1
+LOF,22,Monasterio mistico,Rare,Base,Command,1
+LOF,23,Templo Jedi,Common,Base,Command,1
+LOF,24,Templo de Starlight,Common,Base,Command,1
+LOF,25,Templo de la destruccion,Rare,Base,Aggression,1
+LOF,26,Fortaleza de Vader,Common,Base,Aggression,1
+LOF,27,Acantilados escarpados,Common,Base,Aggression,1
+LOF,28,Tumba de Eilram,Rare,Base,Cunning,1
+LOF,29,Cuevas de cristal,Common,Base,Cunning,1
+LOF,30,La Ciudad Sagrada,Common,Base,Cunning,1
+LOF,31,Karis No nos gustan los forasteros,Uncommon,Unit,Vigilance,3
+LOF,32,Explorador de la magistrada,Common,Unit,Vigilance,3
+LOF,33,Terror innombrable,Uncommon,Unit,Vigilance,3
+LOF,34,TIE/sf supremacista,Common,Unit,Vigilance,3
+LOF,35,Asesina de Talzin,Common,Unit,Vigilance,3
+LOF,36,La vieja Daka La mas anciana y sabia,Uncommon,Unit,Vigilance,3
+LOF,37,Darth Vader El ocaso del aprendiz,Legendary,Unit,Vigilance,3
+LOF,38,Pong Krell Entonces esto es traicion,Rare,Unit,Vigilance,3
+LOF,39,Darth Sidious La amenaza fantasma,Special,Unit,Vigilance,3
+LOF,40,Sable de luz de Kylo Ren,Rare,Upgrade,Vigilance,3
+LOF,41,Absorcion de esencia,Common,Event,Vigilance,3
+LOF,42,Siempre dos,Legendary,Event,Vigilance,3
+LOF,43,La tragedia de Plagueis,Rare,Event,Vigilance,3
+LOF,44,Lobo de Lothal,Common,Unit,Vigilance,3
+LOF,45,Yaddle Todavia puedes arreglar las cosas,Rare,Unit,Vigilance,3
+LOF,46,Ezra Bridger En sintonia con la vida,Uncommon,Unit,Vigilance,3
+LOF,47,Lanzadera T-6 1974 No te alejes,Rare,Unit,Vigilance,3
+LOF,48,Guerrera errante,Common,Unit,Vigilance,3
+LOF,49,Guardian jedi,Common,Unit,Vigilance,3
+LOF,50,Plo Koon No creo en la suerte,Uncommon,Unit,Vigilance,3
+LOF,51,Holocron jedi,Rare,Upgrade,Vigilance,3
+LOF,52,Pruebas jedi,Rare,Upgrade,Vigilance,3
+LOF,53,Sable de luz heredado,Common,Upgrade,Vigilance,3
+LOF,54,Serenidad ante el peligro,Uncommon,Event,Vigilance,3
+LOF,55,Dume Redimir el futuro,Rare,Unit,Vigilance,3
+LOF,56,No importa nada el tamano,Rare,Upgrade,Vigilance,3
+LOF,57,Owen Lars Tio abnegado,Uncommon,Unit,Vigilance,3
+LOF,58,Guardian de los Whills,Common,Unit,Vigilance,3
+LOF,59,Guerrera de las hermanas nocturnas,Common,Unit,Vigilance,3
+LOF,60,Caza estelar de padawan,Common,Unit,Vigilance,3
+LOF,61,Sabio reservado,Common,Unit,Vigilance,3
+LOF,62,Axe Woves Guerrero consumado,Rare,Unit,Vigilance,3
+LOF,63,Oggdo Bogdo Bestia de Bogano,Rare,Unit,Vigilance,3
+LOF,64,Tauntaun,Common,Unit,Vigilance,3
+LOF,65,Watto Sin dinero no hay piezas y no hay trato,Uncommon,Unit,Vigilance,3
+LOF,66,Espectros despertados,Common,Unit,Vigilance,3
+LOF,67,"Chirrut Imwe Ciego, pero no sordo",Uncommon,Unit,Vigilance,3
+LOF,68,Luthen Rael Falso anticuario,Uncommon,Unit,Vigilance,3
+LOF,69,Purrgil gracil,Common,Unit,Vigilance,3
+LOF,70,Anakin Skywalker Campeon de Mortis,Legendary,Unit,Vigilance,3
+LOF,71,Guardian tentaculado,Common,Unit,Vigilance,3
+LOF,72,Sacerdotisas de la Fuerza Eternas,Uncommon,Unit,Vigilance,3
+LOF,73,Mitosaurio Leyenda revivida,Legendary,Unit,Vigilance,3
+LOF,74,Vigor potenciado,Common,Upgrade,Vigilance,3
+LOF,75,Curacion de heridas,Common,Event,Vigilance,3
+LOF,76,Guardia de soresu,Uncommon,Event,Vigilance,3
+LOF,77,Golpe demoledor,Common,Event,Vigilance,3
+LOF,78,Torbellino de poder,Common,Event,Vigilance,3
+LOF,79,Punto de fractura,Uncommon,Event,Vigilance,3
+LOF,80,Patrulla de Exegol,Common,Unit,Command,3
+LOF,81,Legionario sith,Uncommon,Unit,Command,3
+LOF,82,Vanee Vivo para servir,Uncommon,Unit,Command,3
+LOF,83,Capitan Enoch Capitan de la guardia,Rare,Unit,Command,3
+LOF,84,Caballero de Ren,Common,Unit,Command,3
+LOF,85,Guardia pretoriano,Common,Unit,Command,3
+LOF,86,Retono de drengir,Rare,Unit,Command,3
+LOF,87,El Octavo Hermano Cazan juntos,Uncommon,Unit,Command,3
+LOF,88,El Ojo de Sion El camino a Peridea,Rare,Unit,Command,3
+LOF,89,Supremacia Con un tamano inimaginable,Legendary,Unit,Command,3
+LOF,90,Sable de luz de inquisidor,Common,Upgrade,Command,3
+LOF,91,Ansia de poder,Rare,Upgrade,Command,3
+LOF,92,Liberador de Punto de Lluvia,Common,Unit,Command,3
+LOF,93,Gungi Buscandose a si mismo,Uncommon,Unit,Command,3
+LOF,94,Consul jedi,Common,Unit,Command,3
+LOF,95,Lor San Tekka Custodio secreto,Uncommon,Unit,Command,3
+LOF,96,Obi-Wan Kenobi Padawan protector,Special,Unit,Command,3
+LOF,97,Eeth Koth Guerrero espiritual,Rare,Unit,Command,3
+LOF,98,Leia Organa Extraordinaria,Legendary,Unit,Command,3
+LOF,99,Corbeta de instruccion clase Paladin,Common,Unit,Command,3
+LOF,100,Kelleran Beq Mano de Sable,Uncommon,Unit,Command,3
+LOF,101,Yoda La Fuerza es mi aliada,Legendary,Unit,Command,3
+LOF,102,Sable de luz de Yoda,Rare,Upgrade,Command,3
+LOF,103,Seguir el camino,Common,Event,Command,3
+LOF,104,Seres luminosos,Rare,Event,Command,3
+LOF,105,Oppo Rancisis Anciano consejero,Legendary,Unit,Command,3
+LOF,106,Nave de asalto clase Aclamador,Uncommon,Unit,Command,3
+LOF,107,Cuidador de la aldea,Common,Unit,Command,3
+LOF,108,Malakili Cuidador encarinado del rancor,Rare,Unit,Command,3
+LOF,109,Mynock,Common,Unit,Command,3
+LOF,110,Naves de defensa de la colmena,Common,Unit,Command,3
+LOF,111,Maz Kanata La luz te guiara,Uncommon,Unit,Command,3
+LOF,112,Mistico del Borde Exterior,Common,Unit,Command,3
+LOF,113,Guardias del Templo Jedi,Common,Unit,Command,3
+LOF,114,Kaadu,Common,Unit,Command,3
+LOF,115,Maestro dagoyano,Uncommon,Unit,Command,3
+LOF,116,Saqueador de reliquias,Common,Unit,Command,3
+LOF,117,Sifo-Dyas Ha encargado un ejercito,Rare,Unit,Command,3
+LOF,118,Terentatek,Common,Unit,Command,3
+LOF,119,Viajero hiperespacial,Common,Unit,Command,3
+LOF,120,Nave de asalto clase Tridente,Common,Unit,Command,3
+LOF,121,El rey de los purrgils Encabeza el viaje,Rare,Unit,Command,3
+LOF,122,Brujula estelar de Pillio,Uncommon,Upgrade,Command,3
+LOF,123,Guiados por la Fuerza,Uncommon,Event,Command,3
+LOF,124,Golpe de niman,Uncommon,Event,Command,3
+LOF,125,La carga de los maestros,Rare,Event,Command,3
+LOF,126,Despliegue abrumador,Common,Event,Command,3
+LOF,127,Fieras desbocadas,Uncommon,Event,Command,3
+LOF,128,Proteger la manada,Common,Event,Command,3
+LOF,129,Acolito del Mas Alla,Common,Unit,Aggression,3
+LOF,130,"HK-47 Exclamacion: Muere, saco de carne!",Legendary,Unit,Aggression,3
+LOF,131,Nave de ataque<return>,Common,Unit,Aggression,3
+LOF,132,Gran Inquisidor Haces bien en tener miedo,Legendary,Unit,Aggression,3
+LOF,133,Soldado de la Purga,Common,Unit,Aggression,3
+LOF,134,Canonera droide HMP,Uncommon,Unit,Aggression,3
+LOF,135,Guadana Silueta intimidante,Rare,Unit,Aggression,3
+LOF,136,Siervos del aquelarre,Common,Unit,Aggression,3
+LOF,137,Savage Opress Imbuido de odio,Uncommon,Unit,Aggression,3
+LOF,138,Holocron sith,Rare,Upgrade,Aggression,3
+LOF,139,Furia de combate,Uncommon,Upgrade,Aggression,3
+LOF,140,Sable de luz de Darth Maul,Special,Upgrade,Aggression,3
+LOF,141,Campo de muerte,Rare,Event,Aggression,3
+LOF,142,Adi Gallia Severa y centrada,Rare,Unit,Aggression,3
+LOF,143,Fyrnock amaestrado,Common,Unit,Aggression,3
+LOF,144,Caza estelar jedi,Common,Unit,Aggression,3
+LOF,145,Caballera jedi,Common,Unit,Aggression,3
+LOF,146,Ki-Adi-Mundi Debemos continuar,Uncommon,Unit,Aggression,3
+LOF,147,Duende del Eter de Kit Fisto Buena caza,Rare,Unit,Aggression,3
+LOF,148,Rey Con el poder de Palpatine,Rare,Unit,Aggression,3
+LOF,149,Mace Windu Entra en accion de un salto,Uncommon,Unit,Aggression,3
+LOF,150,Cin Drallig Estimado maestro de esgrima,Legendary,Unit,Aggression,3
+LOF,151,Sable de caballero,Common,Upgrade,Aggression,3
+LOF,152,El enfoque determina la realidad,Uncommon,Event,Aggression,3
+LOF,153,Paz Vizsla Combatiente irreductible,Rare,Unit,Aggression,3
+LOF,154,Bruja de la bruma,Common,Unit,Aggression,3
+LOF,155,Droide sonda DRK-1,Common,Unit,Aggression,3
+LOF,156,Luchador imbuido,Uncommon,Unit,Aggression,3
+LOF,157,Interceptor del Cartel,Common,Unit,Aggression,3
+LOF,158,Bombardero clase Hiena,Common,Unit,Aggression,3
+LOF,159,Jedi encubierto,Common,Unit,Aggression,3
+LOF,160,Merrin Sola con los muertos,Uncommon,Unit,Aggression,3
+LOF,161,Tuk'ata,Common,Unit,Aggression,3
+LOF,162,Nexu cazador,Common,Unit,Aggression,3
+LOF,163,Quinlan Vos Discipulo oscuro,Uncommon,Unit,Aggression,3
+LOF,164,Wampa,Common,Unit,Aggression,3
+LOF,165,Asajj Ventress Endurece tu corazon,Uncommon,Unit,Aggression,3
+LOF,166,Nave antibloqueo,Uncommon,Unit,Aggression,3
+LOF,167,Saesee Tiin Guerrero valeroso,Uncommon,Unit,Aggression,3
+LOF,168,Rathtar hambriento,Common,Unit,Aggression,3
+LOF,169,Nave de control de droides,Rare,Unit,Aggression,3
+LOF,170,Bendu Tiene miedo de la tormenta?,Legendary,Unit,Aggression,3
+LOF,171,Canon blaster pesado,Rare,Upgrade,Aggression,3
+LOF,172,Descarga sobrenatural,Common,Event,Aggression,3
+LOF,173,Ira desatada,Common,Event,Aggression,3
+LOF,174,Acometida de ataru,Uncommon,Event,Aggression,3
+LOF,175,Hazlo o no lo hagas,Common,Event,Aggression,3
+LOF,176,Arrojar sable de luz,Uncommon,Event,Aggression,3
+LOF,177,Momento de crisis,Rare,Event,Aggression,3
+LOF,178,Adepta colerica,Common,Unit,Cunning,3
+LOF,179,Aurra Sing Paciente y letal,Uncommon,Unit,Cunning,3
+LOF,180,Aparicion enganosa,Rare,Unit,Cunning,3
+LOF,181,Lanzadera del Clan Bancario,Common,Unit,Cunning,3
+LOF,182,Saqueador nihil,Common,Unit,Cunning,3
+LOF,183,Shin Hati Aprendiz con exceso de celo,Uncommon,Unit,Cunning,3
+LOF,184,La Segunda Hermana Busca el holocron,Rare,Unit,Cunning,3
+LOF,185,Baylan Skoll Maestro enigmatico,Uncommon,Unit,Cunning,3
+LOF,186,Marchion Ro El Ojo de los Nihil,Legendary,Unit,Cunning,3
+LOF,187,Sable corrompido,Common,Upgrade,Cunning,3
+LOF,188,Como yo habia previsto,Rare,Event,Cunning,3
+LOF,189,Liberada por la oscuridad,Rare,Event,Cunning,3
+LOF,190,Anakin Skywalker Prodigio de la Fuerza,Special,Unit,Cunning,3
+LOF,191,BD-1 Bip Bu Bu Buip,Uncommon,Unit,Cunning,3
+LOF,192,Caza estelar N-1,Common,Unit,Cunning,3
+LOF,193,Nino padawan,Common,Unit,Cunning,3
+LOF,194,Astronave Nubian Tipo-J,Common,Unit,Cunning,3
+LOF,195,Vernestra Rwoh Caballera precoz,Rare,Unit,Cunning,3
+LOF,196,Centinela jedi,Common,Unit,Cunning,3
+LOF,197,Duende del Eter de Qui-Gon Jinn Guiado por la Fuerza,Special,Unit,Cunning,3
+LOF,198,Mantis Adonde vamos?,Uncommon,Unit,Cunning,3
+LOF,199,Depa Billaba Un proposito superior,Uncommon,Unit,Cunning,3
+LOF,200,Qui-Gon Jinn La negociacion sera corta,Legendary,Unit,Cunning,3
+LOF,201,Sable de luz de Qui-Gon Jinn,Special,Upgrade,Cunning,3
+LOF,202,Truco mental,Rare,Event,Cunning,3
+LOF,203,Presagio funesto,Rare,Event,Cunning,3
+LOF,204,Zuckuss Buscador gandiano,Legendary,Unit,Cunning,3
+LOF,205,Velocidad de la Fuerza,Uncommon,Event,Cunning,3
+LOF,206,Babu Frik Heeey!,Rare,Unit,Cunning,3
+LOF,207,Gato de Lothal,Common,Unit,Cunning,3
+LOF,208,Ermitana misteriosa,Common,Unit,Cunning,3
+LOF,209,Rastreador tusken,Common,Unit,Cunning,3
+LOF,210,Phillak embistiendo,Common,Unit,Cunning,3
+LOF,211,Dooku Es demasiado tarde,Uncommon,Unit,Cunning,3
+LOF,212,Sabio del Viento Vital,Common,Unit,Cunning,3
+LOF,213,El Ruta Legado Restos condenados,Legendary,Unit,Cunning,3
+LOF,214,Hechiceros de Tund,Common,Unit,Cunning,3
+LOF,215,Cable de ascension,Common,Upgrade,Cunning,3
+LOF,216,Una perturbacion en la Fuerza,Common,Event,Cunning,3
+LOF,217,Ralentizar con la Fuerza,Common,Event,Cunning,3
+LOF,218,Huida imposible,Uncommon,Event,Cunning,3
+LOF,219,Psicometria,Rare,Event,Cunning,3
+LOF,220,Brio de shien,Uncommon,Event,Cunning,3
+LOF,221,Confia en tu instinto,Rare,Event,Cunning,3
+LOF,222,Una situacion dificil,Uncommon,Event,Cunning,3
+LOF,223,Ilusion de la Fuerza,Uncommon,Event,Cunning,3
+LOF,224,Abalanzarse,Common,Event,Cunning,3
+LOF,225,Tres lecciones,Uncommon,Event,Cunning,3
+LOF,226,Inclinar la balanza,Common,Event,Cunning,3
+LOF,227,La voluntad de la Fuerza,Common,Event,Cunning,3
+LOF,228,Caza estelar de la Forja,Common,Unit,Villainy,3
+LOF,229,Kylo Ren Conozco tu historia,Uncommon,Unit,Villainy,3
+LOF,230,Jedi caido,Common,Unit,Villainy,3
+LOF,231,Darth Tyranus Siervo de Sidious,Special,Unit,Villainy,3
+LOF,232,Caballeria de soldados de las arenas,Common,Unit,Villainy,3
+LOF,233,Scimitar Sith Infiltrator,Special,Unit,Villainy,3
+LOF,234,Darth Malak Aprendiz ambicioso,Legendary,Unit,Villainy,3
+LOF,235,Droide asesino HK-87,Uncommon,Unit,Villainy,3
+LOF,236,Ejercito de los muertos,Common,Unit,Villainy,3
+LOF,237,El Hijo Encarnacion de la oscuridad,Rare,Unit,Villainy,3
+LOF,238,Sables de luz de Darth Revan,Rare,Upgrade,Villainy,3
+LOF,239,Consumido por el Lado Oscuro,Common,Event,Villainy,3
+LOF,240,Vuelo de inquisidor,Uncommon,Event,Villainy,3
+LOF,241,En la sombra,Common,Event,Villainy,3
+LOF,242,Refugiado de la Senda,Common,Unit,Heroism,3
+LOF,243,Matriarca de las cuidadoras,Uncommon,Unit,Heroism,3
+LOF,244,Vector jedi,Uncommon,Unit,Heroism,3
+LOF,245,Vulptex,Common,Unit,Heroism,3
+LOF,246,Grogu Nino misterioso,Legendary,Unit,Heroism,3
+LOF,247,Guerrero gungan,Common,Unit,Heroism,3
+LOF,248,Jocasta Nu El don del conocimiento,Uncommon,Unit,Heroism,3
+LOF,249,Luke Skywalker Los comienzos de un heroe,Rare,Unit,Heroism,3
+LOF,250,Fragata medica,Common,Unit,Heroism,3
+LOF,251,Ala de asalto del Escuadron Azul,Common,Unit,Heroism,3
+LOF,252,La Hija Encarnacion de la luz,Rare,Unit,Heroism,3
+LOF,253,Crucero Vigalarga,Common,Unit,Heroism,3
+LOF,254,Porg,Common,Unit,Neutral,3
+LOF,255,Aves curiosas,Common,Unit,Neutral,3
+LOF,256,Huerfana dotada,Common,Unit,Neutral,3
+LOF,257,Mono lagarto kowakiano,Common,Unit,Neutral,3
+LOF,258,Peli Motto Deberia cobrarte mas,Uncommon,Unit,Neutral,3
+LOF,259,Gundark voraz,Common,Unit,Neutral,3
+LOF,260,El Padre Mantiene el equilibrio,Legendary,Unit,Neutral,3
+LOF,261,Sable de luz fabricado,Legendary,Upgrade,Neutral,3
+LOF,262,Clandestinidad,Common,Event,Neutral,3
+LOF,263,Ultimas palabras,Common,Event,Neutral,3
+LOF,264,Es peor,Common,Event,Neutral,3

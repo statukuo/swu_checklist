@@ -1,0 +1,257 @@
+TWI,1,Droide de combate,Rare,Leader,Vigilance,1
+TWI,2,Soldado clon,Common,Leader,Vigilance,1
+TWI,3,Obi-Wan Kenobi Mentor paciente,Common,Leader,Vigilance,1
+TWI,4,Yoda Percibe la oscuridad,Rare,Leader,Vigilance,1
+TWI,5,Conde Dooku El rostro publico de la Confederacion,Common,Leader,Command,1
+TWI,6,Wat Tambor Capataz de la Tecno Union,Rare,Leader,Command,1
+TWI,7,Capitan Rex Lucha por sus hermanos,Rare,Leader,Command,1
+TWI,8,Padme Amidala Al servicio de la Republica,Common,Leader,Command,1
+TWI,9,Maul Un rival en la oscuridad,Common,Leader,Aggression,1
+TWI,10,Pre Vizsla Ansia el trono,Rare,Leader,Aggression,1
+TWI,11,Ahsoka Tano Chulita,Special,Leader,Aggression,1
+TWI,12,Anakin Skywalker Hace lo que sea por ganar,Common,Leader,Aggression,1
+TWI,13,Mace Windu Maestro de la forma vaapad,Rare,Leader,Aggression,1
+TWI,14,Asajj Ventress Una adversaria incomparable,Rare,Leader,Cunning,1
+TWI,15,General Grievous General de los ejercitos de droides,Special,Leader,Cunning,1
+TWI,16,Jango Fett Encubre la conspiracion,Common,Leader,Cunning,1
+TWI,17,Darth Sidious Juega a dos bandas,Rare,Leader,Cunning,1
+TWI,18,Quinlan Vos Siempre cae de pie,Common,Leader,Cunning,1
+TWI,19,Ciudad Pau,Rare,Base,Vigilance,1
+TWI,20,Sundari,Common,Base,Vigilance,1
+TWI,21,Ciudad Cristal,Common,Base,Vigilance,1
+TWI,22,Fabrica de droides,Rare,Base,Command,1
+TWI,23,Guarida de Grievous,Common,Base,Command,1
+TWI,24,Ciudad Tipoca,Common,Base,Command,1
+TWI,25,Campamento del Colectivo Sombra,Rare,Base,Aggression,1
+TWI,26,Complejo minero de la Corporacion Klegger,Common,Base,Aggression,1
+TWI,27,El Nido,Common,Base,Aggression,1
+TWI,28,Coliseo de petranaki,Rare,Base,Cunning,1
+TWI,29,Nivel 1313,Common,Base,Cunning,1
+TWI,30,Palacio Pyke,Common,Base,Cunning,1
+TWI,31,Rune Haako Segundo al mando confabulador,Uncommon,Unit,Vigilance,3
+TWI,32,Funcionario en tiempos de guerra,Common,Unit,Vigilance,3
+TWI,33,Magnaguardia calculador,Uncommon,Unit,Vigilance,3
+TWI,34,General Grievous Coleccionista de trofeos,Legendary,Unit,Vigilance,3
+TWI,35,Morgan Elsbeth Guarda muchos secretos,Rare,Unit,Vigilance,3
+TWI,36,Canonera devastadora,Common,Unit,Vigilance,3
+TWI,37,Droideka de seguridad,Common,Unit,Vigilance,3
+TWI,38,Destructor clase Providencia,Uncommon,Unit,Vigilance,3
+TWI,39,Malevolence Arma secreta de Grievous,Rare,Unit,Vigilance,3
+TWI,40,Un buen complemento,Rare,Event,Vigilance,3
+TWI,41,Redada letal,Uncommon,Event,Vigilance,3
+TWI,42,Barriss Offee Aprendiz reservada,Rare,Unit,Vigilance,3
+TWI,43,Representante franca,Common,Unit,Vigilance,3
+TWI,44,Defensor de Kashyyyk,Uncommon,Unit,Vigilance,3
+TWI,45,41.a Tropa de Elite,Common,Unit,Vigilance,3
+TWI,46,Capitan Typho Protege a la senadora,Uncommon,Unit,Vigilance,3
+TWI,47,Satine Kryze Comprometida con la paz,Legendary,Unit,Vigilance,3
+TWI,48,Duende del Eter de Obi-Wan Por eso detesto volar,Uncommon,Unit,Vigilance,3
+TWI,49,Caballero de la Republica,Common,Unit,Vigilance,3
+TWI,50,Luminara Unduli Maestra afable,Rare,Unit,Vigilance,3
+TWI,51,Por la Republica,Rare,Upgrade,Vigilance,3
+TWI,52,Que tal?,Uncommon,Event,Vigilance,3
+TWI,53,Finn Fugitivo,Rare,Unit,Vigilance,3
+TWI,54,Adalid de la duquesa,Uncommon,Unit,Vigilance,3
+TWI,55,Equilibrar la balanza,Rare,Event,Vigilance,3
+TWI,56,Senador compasivo,Uncommon,Unit,Vigilance,3
+TWI,57,Guerrero zangano,Common,Unit,Vigilance,3
+TWI,58,Caza estelar de padawan,Common,Unit,Vigilance,3
+TWI,59,Agregado de la Guardia Real,Common,Unit,Vigilance,3
+TWI,60,Lanzadera de la Federacion de Comercio,Common,Unit,Vigilance,3
+TWI,61,Infanteria del 212,Common,Unit,Vigilance,3
+TWI,62,Hija de Dathomir,Common,Unit,Vigilance,3
+TWI,63,Ala de interceptores Buitre,Uncommon,Unit,Vigilance,3
+TWI,64,Ki-Adi-Mundi Sereno y confiado,Legendary,Unit,Vigilance,3
+TWI,65,Tanque ionico Bracamarte,Common,Unit,Vigilance,3
+TWI,66,Transporte de tropas,Common,Unit,Vigilance,3
+TWI,67,La bestia zillo Emerge de las profundidades,Rare,Unit,Vigilance,3
+TWI,68,Premonicion,Rare,Upgrade,Vigilance,3
+TWI,69,Roger Roger,Rare,Upgrade,Vigilance,3
+TWI,70,Situacion peligrosa,Common,Upgrade,Vigilance,3
+TWI,71,Voluntad indomita,Uncommon,Upgrade,Vigilance,3
+TWI,72,La altura me da ventaja,Rare,Event,Vigilance,3
+TWI,73,Reconstruccion drastica,Common,Event,Vigilance,3
+TWI,74,Vigilar el camino,Common,Event,Vigilance,3
+TWI,75,Descarga disruptiva,Uncommon,Event,Vigilance,3
+TWI,76,Eliminado por droides,Uncommon,Event,Vigilance,3
+TWI,77,Vencer,Common,Event,Vigilance,3
+TWI,78,La invasion de Cristopsis,Legendary,Event,Vigilance,3
+TWI,79,Mensajero de la Confederacion,Common,Unit,Command,3
+TWI,80,Poggle el Menor Archiduque de la colmena Stalgasin,Rare,Unit,Command,3
+TWI,81,Comando droide,Common,Unit,Command,3
+TWI,82,Jefe de formacion de magnaguardias,Uncommon,Unit,Command,3
+TWI,83,Guardian del general,Special,Unit,Command,3
+TWI,84,Kraken Estratega de la Confederacion,Uncommon,Unit,Command,3
+TWI,85,Kalani General analitico,Rare,Unit,Command,3
+TWI,86,Almirante Trench Defendiendo la posicion,Uncommon,Unit,Command,3
+TWI,87,Supertanque separatista,Common,Unit,Command,3
+TWI,88,Reprocesado,Uncommon,Event,Command,3
+TWI,89,Consolidacion de poder,Rare,Event,Command,3
+TWI,90,Echo Soldado CAR valeroso,Uncommon,Unit,Command,3
+TWI,91,Oficial tactico de la Republica,Common,Unit,Command,3
+TWI,92,Almirante Yularen Recomienda cautela,Rare,Unit,Command,3
+TWI,93,Comando avanzado de reconocimiento,Common,Unit,Command,3
+TWI,94,Shaak Ti Unidos se ganan guerras,Uncommon,Unit,Command,3
+TWI,95,Fragata nodriza clase Pelta,Common,Unit,Command,3
+TWI,96,Aayla Secura Maestra del sable,Legendary,Unit,Command,3
+TWI,97,Capitan Rex Lidera dando ejemplo,Special,Unit,Command,3
+TWI,98,Portacazas de la Republica,Uncommon,Unit,Command,3
+TWI,99,Ataque sincronizado,Uncommon,Event,Command,3
+TWI,100,Apelar al Senado,Rare,Event,Command,3
+TWI,101,Mas Amedda Vicepresidente,Rare,Unit,Command,3
+TWI,102,Produccion en serie de soldados,Uncommon,Event,Command,3
+TWI,103,Ofensiva pirrica,Legendary,Event,Command,3
+TWI,104,Vanguardia obediente,Common,Unit,Command,3
+TWI,105,Senadora pertinaz,Uncommon,Unit,Command,3
+TWI,106,Guardia de Coruscant,Common,Unit,Command,3
+TWI,107,Ala-V de patrulla,Special,Unit,Command,3
+TWI,108,Miliciana de Ryloth,Common,Unit,Command,3
+TWI,109,Libertadores de la 501,Common,Unit,Command,3
+TWI,110,Huyang Instructor longevo,Rare,Unit,Command,3
+TWI,111,ARC-170 de la Republica,Common,Unit,Command,3
+TWI,112,Caza estelar subyugador,Common,Unit,Command,3
+TWI,113,Legionarios B2,Common,Unit,Command,3
+TWI,114,Comandante clon Cody Lidera el 212,Uncommon,Unit,Command,3
+TWI,115,Osi Sobeck Alcaide de la Ciudadela,Uncommon,Unit,Command,3
+TWI,116,Clon,Legendary,Unit,Command,3
+TWI,117,Droide arana baktoide,Common,Unit,Command,3
+TWI,118,Gor Mascota de Grievous,Legendary,Unit,Command,3
+TWI,119,Coraje anonimo,Uncommon,Upgrade,Command,3
+TWI,120,Dotes de estratega,Common,Upgrade,Command,3
+TWI,121,Sable de general,Rare,Upgrade,Command,3
+TWI,122,Apoyo de escuadra,Uncommon,Upgrade,Command,3
+TWI,123,Flanqueo,Special,Event,Command,3
+TWI,124,Ventaja tactica,Special,Event,Command,2
+TWI,125,Las Guerras Clon,Rare,Event,Command,3
+TWI,126,Liderazgo alentador,Common,Event,Command,3
+TWI,127,Reabastecimiento,Common,Event,Command,3
+TWI,128,Tomar prisionero,Common,Event,Command,3
+TWI,129,En defensa de Kamino,Rare,Event,Command,3
+TWI,130,Bo-Katan Kryze Lugarteniente de la Guardia de la Muerte,Rare,Unit,Aggression,3
+TWI,131,Oficial modelo OOM,Common,Unit,Aggression,3
+TWI,132,Tricaza de la Confederacion,Uncommon,Unit,Aggression,3
+TWI,133,B1 en plataforma de ataque,Common,Unit,Aggression,3
+TWI,134,Asajj Ventress Asesina del conde Dooku,Uncommon,Unit,Aggression,3
+TWI,135,"Darth Maul Por fin, venganza",Legendary,Unit,Aggression,3
+TWI,136,Escuadron de Buitres,Common,Unit,Aggression,3
+TWI,137,Savage Opress Monstruo,Uncommon,Unit,Aggression,3
+TWI,138,Conde Dooku Jedi caido,Rare,Unit,Aggression,3
+TWI,139,Acorralar a la presa,Rare,Event,Aggression,3
+TWI,140,Autodestruccion,Uncommon,Event,Aggression,3
+TWI,141,Soldado de la 501,Common,Unit,Aggression,3
+TWI,142,Interceptor de Anakin Ahora vamos a divertirnos,Uncommon,Unit,Aggression,3
+TWI,143,Jyn Erso Estrellita,Rare,Unit,Aggression,3
+TWI,144,Hermanos de remesa,Common,Unit,Aggression,3
+TWI,145,Jesse Patriota fogueado,Uncommon,Unit,Aggression,3
+TWI,146,Steela Gerrera Estimada estratega,Rare,Unit,Aggression,3
+TWI,147,Anakin Skywalker Mentor inconformista,Special,Unit,Aggression,3
+TWI,148,Corbeta senatorial,Common,Unit,Aggression,3
+TWI,149,Canonera de baja altitud,Uncommon,Unit,Aggression,3
+TWI,150,Saw Gerrera La resistencia no es terrorismo,Rare,Unit,Aggression,3
+TWI,151,Decidido Bajo el mando de Anakin,Legendary,Unit,Aggression,3
+TWI,152,Sable de luz de Mace Windu,Rare,Upgrade,Aggression,3
+TWI,153,Resistencia audaz,Uncommon,Event,Aggression,3
+TWI,154,Senor Huesos He llevado a cabo violencia,Rare,Unit,Aggression,3
+TWI,155,El orgullo es doble,Uncommon,Upgrade,Aggression,3
+TWI,156,Poder ilimitado,Legendary,Event,Aggression,3
+TWI,157,Senador desapegado,Uncommon,Unit,Aggression,3
+TWI,158,Clon con arma pesada,Common,Unit,Aggression,3
+TWI,159,Leal a Dendup,Common,Unit,Aggression,3
+TWI,160,Bombardero droide de vanguardia,Common,Unit,Aggression,3
+TWI,161,Comando de reconocimiento audaz,Common,Unit,Aggression,3
+TWI,162,Caza Torrente temerario,Common,Unit,Aggression,3
+TWI,163,Droide cohete implacable,Common,Unit,Aggression,3
+TWI,164,Hevy Martir irreductible,Uncommon,Unit,Aggression,3
+TWI,165,Kit Fisto El jedi sonriente,Rare,Unit,Aggression,3
+TWI,166,Aurra Sing Francotiradora infalible,Uncommon,Unit,Aggression,3
+TWI,167,Tanque pesado clase Persuasor,Common,Unit,Aggression,3
+TWI,168,Codigo de acceso obsoleto,Common,Upgrade,Aggression,3
+TWI,169,Clon asignado,Uncommon,Upgrade,Aggression,3
+TWI,170,Incursion arriesgada,Common,Event,Aggression,3
+TWI,171,Ataque con granada,Common,Event,Aggression,3
+TWI,172,Determinacion ferrea,Common,Event,Aggression,3
+TWI,173,Espectaculo sangriento,Uncommon,Event,Aggression,3
+TWI,174,Abrir fuego,Special,Event,Aggression,3
+TWI,175,Analisis estrategico,Common,Event,Aggression,3
+TWI,176,Atrapados en el fuego cruzado,Rare,Event,Aggression,3
+TWI,177,Insurreccion guerrillera,Rare,Event,Aggression,3
+TWI,178,Invasion planetaria,Legendary,Event,Aggression,3
+TWI,179,Desalmado Hecho a medida para Grievous,Uncommon,Unit,Cunning,3
+TWI,180,Comando separatista,Special,Unit,Cunning,3
+TWI,181,Caza estelar P-38 de elite,Common,Unit,Cunning,3
+TWI,182,Demoledor infiltrado,Common,Unit,Cunning,3
+TWI,183,Rush Clovis heredero del Clan Bancario,Rare,Unit,Cunning,3
+TWI,184,Droide tactico comandante,Uncommon,Unit,Cunning,3
+TWI,185,Ziro el Hutt Ladino y extravagante,Uncommon,Unit,Cunning,3
+TWI,186,San Hill Presidente del Clan Bancario,Rare,Unit,Cunning,3
+TWI,187,Cad Bane Acostumbra a tomar rehenes,Legendary,Unit,Cunning,3
+TWI,188,Oportunismo en tiempos de guerra,Uncommon,Event,Cunning,3
+TWI,189,Vida antinatural,Rare,Event,Cunning,3
+TWI,190,A las puertas,Common,Event,Cunning,3
+TWI,191,Escolta de la Manada,Common,Unit,Cunning,3
+TWI,192,Padme Amidala Persigue la paz,Uncommon,Unit,Cunning,3
+TWI,193,R2-D2 Tiene soluciones para todo,Uncommon,Unit,Cunning,3
+TWI,194,Ahsoka Tano Siempre lista para cualquier problema,Legendary,Unit,Cunning,3
+TWI,195,Sabine Wren Puedes contar conmigo,Rare,Unit,Cunning,3
+TWI,196,Plo Koon Koh-to-yah!,Uncommon,Unit,Cunning,3
+TWI,197,AT-AP de la Republica,Common,Unit,Cunning,3
+TWI,198,Enfys Nest Adalid de la justicia,Rare,Unit,Cunning,3
+TWI,199,Despejar el terreno,Uncommon,Event,Cunning,3
+TWI,200,Pensamiento creativo,Common,Event,Cunning,3
+TWI,201,Ayuda de los inocentes,Rare,Event,Cunning,3
+TWI,202,Jar Jar Binks Gungan ridiculo,Uncommon,Unit,Cunning,3
+TWI,203,Canciller Palpatine Canciller en tiempos de guerra,Legendary,Unit,Cunning,3
+TWI,204,Incorreccion entre ladrones,Rare,Event,Cunning,3
+TWI,205,Soldado clon buzo,Common,Unit,Cunning,3
+TWI,206,Senador independiente,Uncommon,Unit,Cunning,3
+TWI,207,Equipo de seguridad de droides B1,Common,Unit,Cunning,3
+TWI,208,Delegado solidario,Common,Unit,Cunning,3
+TWI,209,Ala-V excepcional,Common,Unit,Cunning,3
+TWI,210,Lux Bonteri Separatista renegado,Uncommon,Unit,Cunning,3
+TWI,211,Sly Moore Consejera discreta,Rare,Unit,Cunning,3
+TWI,212,Asesino independiente,Common,Unit,Cunning,3
+TWI,213,Lanzadera de sancionador,Uncommon,Unit,Cunning,3
+TWI,214,Tirador oculto,Common,Unit,Cunning,3
+TWI,215,Caza de patrulla de Geonosis,Common,Unit,Cunning,3
+TWI,216,Cincos En busca de la verdad,Rare,Unit,Cunning,3
+TWI,217,Tridroide de supresion,Common,Unit,Cunning,3
+TWI,218,Droide asignado,Common,Upgrade,Cunning,3
+TWI,219,Por encima de esto,Uncommon,Upgrade,Cunning,3
+TWI,220,Intenciones sombrias,Rare,Upgrade,Cunning,3
+TWI,221,Persecucion,Common,Event,Cunning,3
+TWI,222,Presion politica,Common,Event,Cunning,3
+TWI,223,Desvelar la conspiracion,Rare,Event,Cunning,3
+TWI,224,Intrusion,Common,Event,Cunning,3
+TWI,225,Ahora ya son dos,Legendary,Event,Cunning,3
+TWI,226,Encerrona,Special,Event,Cunning,2
+TWI,227,Prisionero de guerra,Uncommon,Event,Cunning,3
+TWI,228,Caza estelar droide,Common,Unit,Villainy,3
+TWI,229,Escolta de droides de combate,Special,Unit,Villainy,3
+TWI,230,Superdroide de combate,Common,Unit,Villainy,3
+TWI,231,Droide arana enano,Common,Unit,Villainy,3
+TWI,232,AAT de patrulla,Common,Unit,Villainy,3
+TWI,233,Tanque de fuego rapido,Common,Unit,Villainy,3
+TWI,234,Mano Invisible Nave insignia ominosa,Rare,Unit,Villainy,3
+TWI,235,Legion de droides de combate,Uncommon,Unit,Villainy,3
+TWI,236,Ciclopodo de Grievous,Special,Upgrade,Villainy,3
+TWI,237,Despliegue de droides,Common,Event,Villainy,3
+TWI,238,Disputa despiadada,Common,Event,Villainy,3
+TWI,239,Ejecutar la orden 66,Rare,Event,Villainy,3
+TWI,240,Incondicional de la 332,Special,Unit,Heroism,3
+TWI,241,Soldado clon de fase I,Common,Unit,Heroism,3
+TWI,242,Soldado clon de fase II,Common,Unit,Heroism,3
+TWI,243,Comando de la Republica,Common,Unit,Heroism,3
+TWI,244,Interceptor ligero Eta-2,Common,Unit,Heroism,3
+TWI,245,Tanque blindado clase Sable,Common,Unit,Heroism,3
+TWI,246,Tranquility Nave insignia inspiradora,Rare,Unit,Heroism,3
+TWI,247,Vanguardia de AT-TE,Uncommon,Unit,Heroism,3
+TWI,248,Sable de padawan de Ahsoka,Special,Upgrade,Heroism,3
+TWI,249,Heroes en ambos bandos,Common,Event,Heroism,3
+TWI,250,Maniobra de espada y escudo,Uncommon,Event,Heroism,3
+TWI,251,Dejarse caer,Common,Event,Heroism,3
+TWI,252,Parlamentario ofendido,Common,Unit,Neutral,3
+TWI,253,Escuadron de cazacabezas,Common,Unit,Neutral,3
+TWI,254,Soldado voluntaria,Common,Unit,Neutral,3
+TWI,255,Invasores de cerebros,Rare,Unit,Neutral,3
+TWI,256,Blaster de bolsillo,Common,Upgrade,Neutral,3
+TWI,257,Produccion clandestina,Uncommon,Event,Neutral,3

@@ -34,3 +34,21 @@ Then run
 `node personalChecklistGenerator.js personal.csv`
 
 `pdflatex personal.tex`
+
+### Translate card names
+
+There is a script that takes a set csv file and creates a copy of it with the card names (3rd column) translated to another language. It matches each row by Set + Number against the official Star Wars Unlimited card database (starwarsunlimited.com), so the rest of the columns stay untouched.
+
+`node scripts/translateCsvNames.js <csvFile> <locale>`
+
+Supported locales: `en`, `es`, `fr`, `de`, `it`
+
+Example (will use twi.csv as example)
+
+`node scripts/translateCsvNames.js twi.csv es` => this will create twi-es.csv
+
+### Cleanup
+
+`pdflatex` leaves `.aux` and `.log` files behind on every run. To remove them:
+
+`rm -f *.aux *.log`

@@ -265,8 +265,8 @@ HMW,264,Heroic Bravery,Common,Upgrade,Heroism,3
 HMW,265,Twi'lek Kalikori,Rare,Upgrade,Heroism,3
 HMW,266,Familiar Strategem,Common,Event,Heroism,3
 HMW,267,Renew,Common,Event,Heroism,3
-HMW,268,Offworld Jawa,Common,Unit,—,3
-HMW,269,Friendly Eopie,Common,Unit,—,3
-HMW,270,Wild Space Wanderer,Uncommon,Unit,—,3
-HMW,271,Landing Pad,Common,Upgrade,—,3
-HMW,272,Growth,Common,Event,—,3
+HMW,268,Offworld Jawa,Common,Unit,Neutral,3
+HMW,269,Friendly Eopie,Common,Unit,Neutral,3
+HMW,270,Wild Space Wanderer,Uncommon,Unit,Neutral,3
+HMW,271,Landing Pad,Common,Upgrade,Neutral,3
+HMW,272,Growth,Common,Event,Neutral,3

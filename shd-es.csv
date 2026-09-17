@@ -1,0 +1,262 @@
+SHD,1,Gar Saxon Virrey de Mandalore,Common,Leader,Vigilance,1
+SHD,2,Qi'ra SOLO he sobrevivido yo,Rare,Leader,Vigilance,1
+SHD,3,Finn Esto es un rescate,Rare,Leader,Vigilance,1
+SHD,4,Rey Mas que una chatarrera,Common,Leader,Vigilance,1
+SHD,5,Hondo Ohnaka Un buen negocio,Common,Leader,Command,1
+SHD,6,Jabba el Hutt Su Majestad Serenisima,Rare,Leader,Command,1
+SHD,7,Moff Gideon Comandante Formidable,Special,Leader,Command,1
+SHD,8,Boba Fett Daimio,Common,Leader,Command,1
+SHD,9,Hunter Sargento proscrito,Rare,Leader,Command,1
+SHD,10,Bossk Cazando a su presa,Common,Leader,Aggression,1
+SHD,11,Kylo Ren Impetuoso y letal,Rare,Leader,Aggression,1
+SHD,12,Bo-Katan Kryze Princesa en el exilio,Rare,Leader,Aggression,1
+SHD,13,Han Solo El riesgo merece la pena,Common,Leader,Aggression,1
+SHD,14,Cad Bane No necesita presentacion,Common,Leader,Cunning,1
+SHD,15,Doctora Aphra Arqueologa rapaz,Rare,Leader,Cunning,1
+SHD,16,Fennec Shand Cumpliendo el trato,Common,Leader,Cunning,1
+SHD,17,Lando Calrissian Con un gusto impecable,Rare,Leader,Cunning,1
+SHD,18,El mandaloriano Comprometido con el credo,Special,Leader,Cunning,1
+SHD,19,Base cientifica del Remanente,Common,Base,Vigilance,1
+SHD,20,Aldea apartada,Common,Base,Vigilance,1
+SHD,21,Castillo de Maz Kanata,Common,Base,Command,1
+SHD,22,Ciudad Nevarro,Common,Base,Command,1
+SHD,23,Guarida de la Guardia de la Muerte,Common,Base,Aggression,1
+SHD,24,Minas de especia,Common,Base,Aggression,1
+SHD,25,Ciudad Coronet,Common,Base,Cunning,1
+SHD,26,Palacio de Jabba,Common,Base,Cunning,1
+SHD,27,Sicario hylobon,Common,Unit,Vigilance,3
+SHD,28,Doctor Pershing Experimentando con la vida,Rare,Unit,Vigilance,3
+SHD,29,Centinela Pyke,Common,Unit,Vigilance,3
+SHD,30,Soldado de la muerte,Special,Unit,Vigilance,3
+SHD,31,El cliente Exigencias de la discrecion,Uncommon,Unit,Vigilance,3
+SHD,32,Lom Pyke Con la verdad por delante,Rare,Unit,Vigilance,3
+SHD,33,Synara San Leal a Kragan,Uncommon,Unit,Vigilance,3
+SHD,34,Escuadra de supercomando,Common,Unit,Vigilance,3
+SHD,35,Guantelete del clan Saxon,Uncommon,Unit,Vigilance,3
+SHD,36,Primera Luz Cuartel general del Crimson Dawn,Rare,Unit,Vigilance,3
+SHD,37,Lider supremo Snoke Gobierna en la sombra,Legendary,Unit,Vigilance,3
+SHD,38,Tradiciones brutales,Uncommon,Upgrade,Vigilance,3
+SHD,39,Letalidad calculada,Special,Event,Vigilance,3
+SHD,40,Rescatador del clan Wren,Common,Unit,Vigilance,3
+SHD,41,Kuiil He hablado,Uncommon,Unit,Vigilance,3
+SHD,42,Interceptores de Concord Dawn,Uncommon,Unit,Vigilance,3
+SHD,43,Protectores de la aldea,Common,Unit,Vigilance,3
+SHD,44,Razor Crest Canonera Fiable,Special,Unit,Vigilance,3
+SHD,45,Rose Tico Entregada a la causa,Uncommon,Unit,Vigilance,3
+SHD,46,Rey Preserva el pasado,Legendary,Unit,Vigilance,3
+SHD,47,La Armera Nuestra supervivencia es nuestra fuerza,Uncommon,Unit,Vigilance,3
+SHD,48,Gigante amable,Common,Unit,Vigilance,3
+SHD,49,El mandaloriano El va donde vaya yo,Legendary,Unit,Vigilance,3
+SHD,50,Chewbacca Azote de los Pyke,Rare,Unit,Vigilance,3
+SHD,51,Refraccion mistica,Rare,Event,Vigilance,3
+SHD,52,Sugi Guardiana a sueldo,Rare,Unit,Vigilance,3
+SHD,53,Segunda oportunidad,Legendary,Upgrade,Vigilance,3
+SHD,54,Reparaciones de ultima hora,Uncommon,Event,Vigilance,3
+SHD,55,Granjera de humedad,Common,Unit,Vigilance,3
+SHD,56,Adepto del camino,Common,Unit,Vigilance,3
+SHD,57,Saltador quad destartalado,Common,Unit,Vigilance,3
+SHD,58,Val Leal hasta el fin,Rare,Unit,Vigilance,3
+SHD,59,Embo Estoico y decidido,Uncommon,Unit,Vigilance,3
+SHD,60,Carguero HWK-290,Common,Unit,Vigilance,3
+SHD,61,Cuidador de arbol wroshyr,Common,Unit,Vigilance,3
+SHD,62,Guardias del Puesto de Niima,Common,Unit,Vigilance,3
+SHD,63,Patrullera de sistemas,Special,Unit,Vigilance,3
+SHD,64,Guantelete de los supervivientes,Rare,Unit,Vigilance,3
+SHD,65,Nave de persecucion alertada,Common,Unit,Vigilance,3
+SHD,66,Juggernaut de carga,Common,Unit,Vigilance,3
+SHD,67,Fenn Rau Protector de Concord Dawn,Uncommon,Unit,Vigilance,3
+SHD,68,Enemigo publico,Common,Upgrade,Vigilance,3
+SHD,69,Huerfano,Common,Upgrade,Vigilance,3
+SHD,70,Resistente,Special,Upgrade,Vigilance,3
+SHD,71,Objetivo valioso,Uncommon,Upgrade,Vigilance,3
+SHD,72,Encarcelado,Rare,Upgrade,Vigilance,3
+SHD,73,Armadura mandaloriana,Rare,Upgrade,Vigilance,3
+SHD,74,Brazal lanzacabos,Common,Upgrade,Vigilance,3
+SHD,75,Fuerza encubierta,Common,Event,Vigilance,3
+SHD,76,Fuga inesperada,Uncommon,Event,Vigilance,3
+SHD,77,Prueba del delito,Rare,Event,Vigilance,3
+SHD,78,Vencer al dragon,Uncommon,Event,Vigilance,3
+SHD,79,Caida del rival,Common,Event,Vigilance,3
+SHD,80,Salacious Crumb Mascota irritante,Uncommon,Unit,Command,3
+SHD,81,General Tagge Comandante preocupado,Special,Unit,Command,3
+SHD,82,Vanguardia de TIE Forasteros,Common,Unit,Command,3
+SHD,83,Soldado costero veterano,Special,Unit,Command,3
+SHD,84,Soldado oscuro de fase III,Special,Unit,Command,3
+SHD,85,Operario de superlaser,Special,Unit,Command,3
+SHD,86,Polizon de las Aves de Guerra,Common,Unit,Command,3
+SHD,87,Crosshair Cumpliendo ordenes,Uncommon,Unit,Command,3
+SHD,88,Ephant Mon Jefe de seguridad,Rare,Unit,Command,3
+SHD,89,Tanque pirata,Common,Unit,Command,3
+SHD,90,Maul Visionario del Colectivo Sombra,Rare,Unit,Command,3
+SHD,91,Rancor de Jabba Pateesa,Uncommon,Unit,Command,3
+SHD,92,Finalizador El poder de la Primera Orden,Legendary,Unit,Command,3
+SHD,93,Reservistas del Remanente,Uncommon,Event,Command,3
+SHD,94,El regreso de Palpatine,Rare,Event,Command,3
+SHD,95,Clon desertor,Common,Unit,Command,3
+SHD,96,Maz Kanata Reina pirata,Rare,Unit,Command,3
+SHD,97,Refuerzos de Ciudad Libre,Uncommon,Unit,Command,3
+SHD,98,Pacificador de Sundari,Uncommon,Unit,Command,3
+SHD,99,Echo Restablecido,Uncommon,Unit,Command,3
+SHD,100,Motera modificada,Common,Unit,Command,3
+SHD,101,Patrulla aerea de Adelphi,Common,Unit,Command,3
+SHD,102,Merodeador Lanzadera de la remesa mala,Rare,Unit,Command,3
+SHD,103,General Rieekan Estratega de la defensa,Rare,Unit,Command,3
+SHD,104,Mentor ejemplar,Rare,Upgrade,Command,3
+SHD,105,Un atisbo de esperanza,Uncommon,Event,Command,3
+SHD,106,Un lider respetado,Legendary,Event,Command,3
+SHD,107,Lacayos emprendedores,Rare,Unit,Command,3
+SHD,108,Lealtad forzada,Uncommon,Event,Command,3
+SHD,109,Legiones interminables,Legendary,Event,Command,3
+SHD,110,Teniente en zona de guerra,Common,Unit,Command,3
+SHD,111,Saltador Estelar recaudador,Common,Unit,Command,3
+SHD,112,Siervo gamorreano,Common,Unit,Command,3
+SHD,113,Tripulacion corsaria,Uncommon,Unit,Command,3
+SHD,114,Oficial de sensores,Uncommon,Unit,Command,3
+SHD,115,Cobb Vanth El marshal,Rare,Unit,Command,3
+SHD,116,Corona de forajidos,Common,Unit,Command,3
+SHD,117,Cazador reputado,Common,Unit,Command,3
+SHD,118,Caza pesado Kihraxz,Uncommon,Unit,Command,3
+SHD,119,Piratas weequay,Common,Unit,Command,3
+SHD,120,Veterano perspicaz,Common,Unit,Command,3
+SHD,121,Compania mercenaria,Common,Unit,Command,3
+SHD,122,Crucero de asalto clase Arquitens,Rare,Unit,Command,3
+SHD,123,Presa de cazarrecompensas,Uncommon,Upgrade,Command,3
+SHD,124,Autoridad legal,Rare,Upgrade,Command,3
+SHD,125,Precio a tu cabeza,Common,Upgrade,Command,3
+SHD,126,La Espada Oscura,Legendary,Upgrade,Command,3
+SHD,127,Encargo,Uncommon,Event,Command,3
+SHD,128,Flanqueo,Common,Event,Command,3
+SHD,129,Intervencion oportuna,Common,Event,Command,3
+SHD,130,Momento de gloria,Common,Event,Command,3
+SHD,131,Tomar prisionero,Common,Event,Command,3
+SHD,132,Elegir bando,Rare,Event,Command,3
+SHD,133,Dengar El Demoledor,Uncommon,Unit,Aggression,3
+SHD,134,Antagonista guaviano,Common,Unit,Aggression,3
+SHD,135,Silenciador TIE de Kylo Implacablemente eficaz,Legendary,Unit,Aggression,3
+SHD,136,Leal a la Guardia de la Muerte,Common,Unit,Aggression,3
+SHD,137,Castigadora Saltador Maestro de Dengar,Uncommon,Unit,Aggression,3
+SHD,138,Jango Fett Cazarrecompensas de renombre,Rare,Unit,Aggression,3
+SHD,139,Krrsantan Maton a sueldo,Uncommon,Unit,Aggression,3
+SHD,140,Cazadores trandoshanos,Common,Unit,Aggression,3
+SHD,141,Kylo Ren Matando el pasado,Legendary,Unit,Aggression,3
+SHD,142,Pre Vizsla Avido de poder,Rare,Unit,Aggression,3
+SHD,143,Crueldad,Rare,Upgrade,Aggression,3
+SHD,144,Dale salida a tu furia,Rare,Event,Aggression,3
+SHD,145,De caceria,Uncommon,Event,Aggression,3
+SHD,146,Renegado heroico,Common,Unit,Aggression,3
+SHD,147,Ketsu Onyo Vieja amiga,Uncommon,Unit,Aggression,3
+SHD,148,Cassian Andor Las rebeliones se basan en la esperanza,Uncommon,Unit,Aggression,3
+SHD,149,Hostigadora de los Buhos Nocturnos,Common,Unit,Aggression,3
+SHD,150,Koska Reeves Buho Nocturno leal,Rare,Unit,Aggression,3
+SHD,151,Nave de asalto audaz,Uncommon,Unit,Aggression,3
+SHD,152,Carguero de bandidos,Common,Unit,Aggression,3
+SHD,153,Poe Dameron Rapido improvisando,Legendary,Unit,Aggression,3
+SHD,154,Wrecker Buum!,Rare,Unit,Aggression,3
+SHD,155,Determinacion heroica,Rare,Upgrade,Aggression,3
+SHD,156,Despojar de autoridad,Uncommon,Event,Aggression,3
+SHD,157,Bo-Katan Kryze Lucha por Mandalore,Uncommon,Unit,Aggression,3
+SHD,158,Rancor salvaje,Rare,Unit,Aggression,3
+SHD,159,El caos de la guerra,Rare,Event,Aggression,3
+SHD,160,Pistolera temeraria,Common,Unit,Aggression,3
+SHD,161,Deslizador robado,Rare,Unit,Aggression,3
+SHD,162,Soldado de la casa Kast,Common,Unit,Aggression,3
+SHD,163,Migs Mayfeld De gatillo facil,Rare,Unit,Aggression,3
+SHD,164,Canonera Rhokai,Common,Unit,Aggression,3
+SHD,165,Cazacabezas sin licencia,Uncommon,Unit,Aggression,3
+SHD,166,Caza Colmillo neutralizador,Common,Unit,Aggression,3
+SHD,167,Insurgentes buscados,Common,Unit,Aggression,3
+SHD,168,Nexu cazador,Common,Unit,Aggression,3
+SHD,169,Aspirantes al clan,Common,Unit,Aggression,3
+SHD,170,IG-11 No puedo ser capturado,Uncommon,Unit,Aggression,3
+SHD,171,Rivales codiciosos,Common,Unit,Aggression,3
+SHD,172,Dragon krayt,Legendary,Unit,Aggression,3
+SHD,173,Objetivo del gremio,Uncommon,Upgrade,Aggression,3
+SHD,174,Blaster DL-44 de primera,Rare,Upgrade,Aggression,3
+SHD,175,Armados hasta los dientes,Uncommon,Upgrade,Aggression,3
+SHD,176,Amenazado de muerte,Common,Upgrade,Aggression,3
+SHD,177,Brazal lanzallamas,Rare,Upgrade,Aggression,3
+SHD,178,Incursion arriesgada,Common,Event,Aggression,3
+SHD,179,Ataque desesperado,Common,Event,Aggression,3
+SHD,180,Rescate en el bloque penal,Common,Event,Aggression,3
+SHD,181,Saqueo,Common,Event,Aggression,3
+SHD,182,Bravuconeria,Uncommon,Event,Aggression,3
+SHD,183,Kintano intimidante,Common,Unit,Cunning,3
+SHD,184,Bazine Netal Espia de la Primera Orden,Rare,Unit,Cunning,3
+SHD,185,Doctor Evazan Buscado en doce sistemas,Rare,Unit,Cunning,3
+SHD,186,Cazador de los Vastagos de Haxion,Common,Unit,Cunning,3
+SHD,187,TIE Fantasma acechante,Uncommon,Unit,Cunning,3
+SHD,188,4-LOM Cazarrecompensas de alquiler,Uncommon,Unit,Cunning,3
+SHD,189,Carguero de esclavistas,Common,Unit,Cunning,3
+SHD,190,Zuckuss Cazarrecompensas de alquiler,Uncommon,Unit,Cunning,3
+SHD,191,Sangre de Xanadu La recompensa de Cad Bane,Rare,Unit,Cunning,3
+SHD,192,Dryden Vos No deja escapar a nadie,Legendary,Unit,Cunning,3
+SHD,193,Congelado en carbonita,Uncommon,Upgrade,Cunning,3
+SHD,194,Ataque durante la triple oscuridad,Rare,Event,Cunning,3
+SHD,195,Oportunista del Cartel,Common,Unit,Cunning,3
+SHD,196,Grogu Irresistible,Special,Unit,Cunning,3
+SHD,197,L3-37 Droide revolucionaria,Uncommon,Unit,Cunning,3
+SHD,198,Omega Una mas del equipo,Rare,Unit,Cunning,3
+SHD,199,Disidente de Coruscant,Uncommon,Unit,Cunning,3
+SHD,200,Esclavos liberados,Common,Unit,Cunning,3
+SHD,201,Forajido con principios,Common,Unit,Cunning,3
+SHD,202,Qi'ra Cumple con su cometido,Rare,Unit,Cunning,3
+SHD,203,Zorii Bliss Valerosa contrabandista,Rare,Unit,Cunning,3
+SHD,204,Halcon Milenario El orgullo de Lando,Uncommon,Unit,Cunning,3
+SHD,205,Deja ganar al wookiee,Rare,Event,Cunning,3
+SHD,206,Perdonar al objetivo,Uncommon,Event,Cunning,3
+SHD,207,Una nueva aventura,Uncommon,Event,Cunning,3
+SHD,208,Confrontacion final,Legendary,Event,Cunning,3
+SHD,209,Maton criminal,Common,Unit,Cunning,3
+SHD,210,Jinete de las Nubes,Common,Unit,Cunning,3
+SHD,211,Wookiee fugitivo,Common,Unit,Cunning,3
+SHD,212,Scyk de corsario,Common,Unit,Cunning,3
+SHD,213,DJ Ladron descarado,Legendary,Unit,Cunning,3
+SHD,214,Comerciante fronterizo,Common,Unit,Cunning,3
+SHD,215,Caza estelar de contrabandista,Common,Unit,Cunning,3
+SHD,216,Coleccionista de codigos de cadena,Common,Unit,Cunning,3
+SHD,217,Tobias Beckett No se fia de nadie,Rare,Unit,Cunning,3
+SHD,218,Rastreadores ingeniosos,Common,Unit,Cunning,3
+SHD,219,Enfys Nest Saqueadora,Uncommon,Unit,Cunning,3
+SHD,220,Fennec Shand Francotiradora leal,Uncommon,Unit,Cunning,3
+SHD,221,Se busca,Common,Upgrade,Cunning,3
+SHD,222,Recompensa tentadora,Uncommon,Upgrade,Cunning,3
+SHD,223,Reflejos rapidos,Special,Upgrade,Cunning,3
+SHD,224,Armadura de Boba Fett,Rare,Upgrade,Cunning,3
+SHD,225,Mochila propulsora,Uncommon,Upgrade,Cunning,3
+SHD,226,Oferta irrechazable,Rare,Upgrade,Cunning,3
+SHD,227,Hacer la vista gorda,Common,Event,Cunning,3
+SHD,228,Ofrecer una recompensa,Uncommon,Event,Cunning,3
+SHD,229,Ma Klounkee,Common,Event,Cunning,3
+SHD,230,Ataque en picado,Rare,Event,Cunning,3
+SHD,231,Pillar por sorpresa,Common,Event,Cunning,3
+SHD,232,Persecucion implacable,Common,Event,Cunning,3
+SHD,233,Evacuacion,Legendary,Event,Cunning,3
+SHD,234,Soldado con incinerador,Special,Unit,Villainy,3
+SHD,235,Asesino despiadado,Common,Unit,Villainy,3
+SHD,236,Teniente de soldados de las nieves,Special,Unit,Villainy,3
+SHD,237,Caza estelar del Sol Negro,Common,Unit,Villainy,3
+SHD,238,Guardia de bloque de celdas,Special,Unit,Villainy,3
+SHD,239,Toro Calican Ambicioso advenedizo,Uncommon,Unit,Villainy,3
+SHD,240,Secuaces de los hutts,Common,Unit,Villainy,3
+SHD,241,Kragan Gorr Capitan de las Aves de Guerra,Rare,Unit,Villainy,3
+SHD,242,Crucero ligero de Gideon Base de los soldados oscuros,Special,Unit,Villainy,3
+SHD,243,Cambiar el trato,Rare,Event,Villainy,3
+SHD,244,No hay trato,Common,Event,Villainy,3
+SHD,245,Greef Karga Afable intermediario,Special,Unit,Heroism,3
+SHD,246,Ala-Y del Escuadron Gris,Common,Unit,Heroism,3
+SHD,247,Protector del trono,Common,Unit,Heroism,3
+SHD,248,Tech Fuente de inspiracion,Rare,Unit,Heroism,3
+SHD,249,Guerrero wookiee,Common,Unit,Heroism,3
+SHD,250,Tarfful Jefe tribal de Kashyyyk,Rare,Unit,Heroism,3
+SHD,251,Fusil del mandaloriano,Special,Upgrade,Heroism,3
+SHD,252,Ayuda de un contrabandista,Common,Event,Heroism,3
+SHD,253,Este es el camino,Uncommon,Event,Heroism,3
+SHD,254,Iniciado del Gremio de Cazarrecompensas,Common,Unit,Neutral,3
+SHD,255,Lady Proxima Gusano blanco matriarcal,Uncommon,Unit,Neutral,3
+SHD,256,Canonera mercenaria,Uncommon,Unit,Neutral,3
+SHD,257,Maton de los bajos fondos,Common,Unit,Neutral,3
+SHD,258,Guerrero mandaloriano,Common,Unit,Neutral,3
+SHD,259,Coche de las nubes biplaza,Common,Unit,Neutral,3
+SHD,260,Reclutador de banda callejera,Common,Unit,Neutral,3
+SHD,261,Gratificacion generosa,Common,Upgrade,Neutral,3
+SHD,262,Confiscar,Special,Event,Neutral,3
